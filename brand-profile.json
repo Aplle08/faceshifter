@@ -1,0 +1,76 @@
+{
+  "brand": {
+    "name": "T Complex",
+    "slug": "tcomplex",
+    "url": "https://shop.tcomplex.dk",
+    "category": "testosterone-booster supplement",
+    "market": "Denmark / Scandinavia",
+    "language": "Danish / English"
+  },
+  "product": {
+    "name": "T Complex 1000",
+    "type": "Natural Testosterone Booster",
+    "format": "Capsules",
+    "key_ingredients": [
+      "Nettle Leaf Extract",
+      "Mucuna Pruriens",
+      "Long Jack Root Extract",
+      "Tribulus Terrestris"
+    ],
+    "claimed_benefits": [
+      "Boost free testosterone naturally",
+      "Increase lean muscle mass",
+      "Explosive energy and workouts",
+      "Faster recovery after training",
+      "Improve libido and sexual stamina",
+      "Burn body fat"
+    ],
+    "offer_type": "Free trial / subscription",
+    "affiliate_url": "https://shop.tcomplex.dk/?aff-id=562909"
+  },
+  "target_audience": {
+    "gender": "Male",
+    "age_range": "35-55",
+    "interests": [
+      "fitness",
+      "bodybuilding",
+      "men's health",
+      "testosterone",
+      "muscle building",
+      "anti-aging"
+    ],
+    "pain_points": [
+      "Low energy levels",
+      "Declining testosterone after 30",
+      "Difficulty building muscle",
+      "Slow recovery after workouts",
+      "Decreased libido",
+      "Belly fat that won't go away"
+    ],
+    "desires": [
+      "Feel like 25 again",
+      "Build lean muscle faster",
+      "Dominate workouts",
+      "High energy all day",
+      "Strong libido"
+    ]
+  },
+  "visual_identity": {
+    "primary_colors": ["#1A1A2E", "#16213E", "#E94560"],
+    "accent_colors": ["#F5A623", "#FFFFFF"],
+    "mood": "powerful, masculine, scientific, premium",
+    "imagery_style": "dark dramatic backgrounds, muscular men, gym environment, close-up product shots",
+    "typography_feel": "bold, strong, impactful"
+  },
+  "tone_of_voice": {
+    "primary": "confident, direct, empowering",
+    "secondary": "scientific credibility, urgency",
+    "avoid": "weak language, uncertainty, medical claims"
+  },
+  "brand_voice_axis": {
+    "formal_casual": 3,
+    "serious_playful": 2,
+    "authoritative_friendly": 7,
+    "traditional_innovative": 6
+  }
+}
