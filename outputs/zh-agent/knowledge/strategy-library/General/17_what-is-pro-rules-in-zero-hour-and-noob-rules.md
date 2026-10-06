@@ -8,7 +8,7 @@
 | Армія | усі |
 | Генерал(и) | Superweapon General, Laser General, Demolition General, Nuke General, Tank General, Air Force General, Toxin General, Stealth General, China (vanilla), USA (vanilla) — у контексті заборон |
 | Матчап(и) | будь-який (правила лобі, а не матчап) |
-| Режим | будь-який: FFA та 2v2 на Defcon 6 (стандартні pro rules), командні ігри на Twilight Flame (10k / 50k / air game), noob rules / ground war на Twilight Flame і Hostile Dawn |
+| Режим | будь-який: FFA та 2v2 на Defcon 6 та інших мапах, напр. Green Pastures (стандартні pro rules), командні ігри на Twilight Flame (10k / 50k / air game), noob rules / ground war на Twilight Flame і Hostile Dawn |
 | Тип відео | правила |
 | Рівень | новачок |
 | Цінність для агента | середня — стратегій тут немає, але відео задає межі дозволених дій (які юніти, апгрейди, суперзброю й general powers не можна використовувати в лобі з pro rules), а за порушення з гри виганяють |
@@ -18,9 +18,9 @@
 - Колір у документі автора: червоне — заборонено точно, помаранчеве — залежить від хоста (треба питати), зелене — дозволено [01:53].
 - Базове ядро майже всюди: без Aurora (і Alpha Aurora), без demo bike, без demo upgrade, без upgraded Nuke MiGs, без суперзброї; Superweapon General має право на одну суперзброю. China vanilla і Tank можуть поставити суперзброю лише заради апгрейдів і мусять одразу її продати [04:21]–[06:47].
 - Варіації: на Twilight Flame 10k — ліміти (2 Battle Bus, 3 повні Humvee) і без Neutron Shells. На Twilight Flame 50k — demo upgrade дозволено, суперзброї немає навіть у SWG, Carpet Bomb лише з 3 рангу, без Stealth Comanche, «no AOD» (не більше 2–3 оборонних споруд в одному місці) [08:26]–[16:05].
-- Twilight Flame air game: без суперзброї й Aurora, Air General не має права атакувати Air-гравця суперника [11:44]–[12:13].
+- Twilight Flame air game: без суперзброї й Aurora, Air-гравець не має права атакувати Air-гравця суперника [11:44]–[12:13].
 - Noob rules: головне — 10 хвилин без base rush (на нафту можна нападати). Варіант Ground War (GW) — без авіації, плюс ліміти: 3 повні Humvee, 2 повні Battle Bus, 2 Nuke Cannon [16:08]–[18:59].
-- Найпоширеніший і найнадійніший набір — стандартні pro rules на Defcon 6. В усіх інших випадках правила треба уточнювати в хоста ще до старту [19:25] [19:39].
+- Найпоширеніший і найнадійніший набір — стандартні pro rules на Defcon 6 (його ж автор грає й завантажує на каналі; так само грають і на інших мапах, напр. Green Pastures) [01:30]–[01:34] [04:14]–[04:18] [19:25]. Водночас ігор Twilight Flame 50k останнім часом «дуже багато» [19:30]–[19:37]. В усіх інших випадках правила треба уточнювати в хоста ще до старту [19:39].
 
 ## Стратегії та білд-ордери
 Білд-ордерів у відео немає. Є лише одна процедура, яку диктують правила:
@@ -30,7 +30,7 @@
 1. Будуєш одну суперзброю. Дві не можна [06:31]. Ціна — 5k [06:38].
 2. Досліджуєш потрібні апгрейди, причому бажано задовго до того, як таймер дійде до нуля [06:26].
 3. Одразу продаєш будівлю й отримуєш назад 2.5k, тобто доступ до апгрейдів коштує 2.5k [06:36]–[06:45].
-- Що заборонено: давати таймеру дійти до нуля і стріляти [06:22]. Автор радить продумати, коли саме вкласти ці гроші: «just think about the cash and when's the best time to do that» [06:45].
+- Що заборонено: давати таймеру дійти до нуля і стріляти [06:22]. Головне — ніколи не стріляти: «as long as you don't fire it you should be okay» [06:28]–[06:30]. Автор радить продумати, коли саме вкласти ці гроші: «just think about the cash and when's the best time to do that» [06:45].
 - Що дає апгрейд: у відео прямо згадано лише Neutron Shells «you upgrade it from the super weapon». На Defcon 6 вони зазвичай дозволені, на TF 10k — ні [07:48] [10:17].
 
 ## Юніти, апгрейди, генеральські промоції
@@ -62,7 +62,7 @@
 
 ### Пояснення за юнітами й апгрейдами
 - **Aurora / Alpha Aurora**: заборонені для всіх, і для Superweapon General, і для Laser General. Причина: їх «неможливо зупинити», і достатня кількість Aurora знищує твою нафту, а ти нічого не можеш вдіяти [04:21]–[04:39].
-- **Demo bike**: заборонений незалежно від наявності demo upgrade. Якщо такий байк з'явився, посади на нього Jarmen [Kell] чи когось іншого або висади вершника («evac») і користуйся Terrorist окремо. Хто використає demo bike, того виженуть, швидше за все заблокують на майбутнє і назвуть читером [05:07]–[05:19]. Автор пояснює: армію таких байків знищують одним кліком, без жодного мікро [04:46].
+- **Demo bike**: заборонений незалежно від наявності demo upgrade. Якщо такий байк з'явився, посади на нього Jarmen [Kell] чи когось іншого або висади вершника («evac») і користуйся Terrorist окремо. Хто використає demo bike, того виженуть, швидше за все заблокують на майбутнє і назвуть читером [05:07]–[05:19]. Автор пояснює, чому це заборонено: demo bike одним кліком по ворожій армії знищує її без жодного мікро; «same with nuke migs» [04:44]–[04:55].
 - **Demo upgrade**: demo Rebel Ambush «неможливо зупинити»: викликаєш засідку просто на ворожу армію, підриваєш, і вся армія гине [05:21]–[05:28]. Виняток — TF 50k (див. «Матчапи і контри») [13:04].
 - **Nuke MiGs**: будувати Nuke MiG можна, брати для них апгрейд у суперзброї не можна [05:28]–[05:33].
 - **Superweapon General**: має право на одну суперзброю, бо «не має танків» (так вважають 99% спільноти) [05:38] [06:03]. Сам автор вважає це перебором: якщо поруч кілька SWG, їхній Particle Cannon одним пострілом зносить Internet Center у China vanilla, а також Hacker'ів і нафту [05:45]–[06:00].
@@ -73,9 +73,9 @@
 - **Nuke Cannon** (Ground War): не більше двох одночасно. Не можна наробити купу й поставити їх у guard mode [18:27]–[18:35].
 
 ## Мікро і тактика
-- Мікро-порад у відео немає. Автор лише пояснює, чому заборонено деякі речі: demo bike та demo Rebel Ambush знищують армію «одним кліком», «без жодного мікро» [04:46]–[04:58] [05:21].
+- Мікро-порад у відео немає. Автор лише пояснює, чому заборонено деякі речі: demo bike, (upgraded) Nuke MiGs та demo Rebel Ambush знищують армію «одним кліком», «без жодного мікро» [04:46]–[04:58] [05:21].
 - Обхід лімітів, про який згадує автор: можна тримати 8 порожніх Battle Bus у Tunnel Network і лише 2 повні на полі, а коли ці два гинуть, миттєво наповнювати інші. Автор називає це «weird». Як до цього ставляться хости, у відео не уточнено [09:42]–[10:01].
-- Типова картина TF air game: великі сутички Quad Cannon із кількома Scorpion, а King Raptor налітають і нищать армії. Ігри бувають цікаві, але «трохи стагнують» [12:13]–[12:30].
+- Типова картина TF air game: великі сутички Quad Cannon із кількома Scorpion, а Raptor («loads of those raptors») налітають і нищать армії. Ігри бувають цікаві, але «трохи стагнують» [12:13]–[12:30].
 - Типова картина Ground War: Nuke-гравець у центрі будує Overlord і Nuke Cannon, а Toxin-гравці стоять на флангах [17:51]–[18:13].
 
 ## Економіка
@@ -104,12 +104,12 @@
 
 ## Правила для ШІ-агента
 - ЯКЩО гра йде за будь-якими pro rules або noob rules → ТО ніколи не будувати Aurora й Alpha Aurora, ні за SWG, ні за Laser [04:21] [08:36] [13:00] [18:45].
-- ЯКЩО граєш за Demolition General під будь-якими pro rules → ТО не використовувати demo bike. Якщо байк уже є, пересадити на нього Jarmen Kell чи іншого юніта або висадити вершника [05:07]–[05:16].
+- ЯКЩО граєш за будь-якого генерала GLA під будь-якими pro rules чи noob rules → ТО не використовувати demo bike (з demo upgrade чи без). Якщо байк із Terrorist уже є, пересадити на нього Jarmen Kell чи іншого юніта або висадити Terrorist («evac») і використовувати його окремо [05:02]–[05:16] [13:00] [18:45].
 - ЯКЩО граєш за Demolition General і це НЕ Twilight Flame 50k → ТО не досліджувати demo upgrade і не підривати demo Rebel Ambush у ворожій армії [05:21] [08:40] [18:45].
 - ЯКЩО граєш за Demolition General на Twilight Flame 50k → ТО demo upgrade і demo Rebel Ambush дозволені, ними можна компенсувати слабкість на землі [13:04]–[13:44].
 - ЯКЩО граєш за Nuke General → ТО будувати MiG можна, але не брати для них апгрейд у суперзброї [05:28] [13:44].
 - ЯКЩО Superweapon General на Defcon 6 (стандарт) або TF 10k → ТО не більше однієї суперзброї [05:38] [08:43].
-- ЯКЩО Superweapon General на TF 50k або в TF air game → ТО жодної суперзброї [11:46] [13:48].
+- ЯКЩО Superweapon General на TF 50k або в TF air game → ТО жодної суперзброї [11:46] [13:48]. У noob rules діє загальне «no super weapon» (окремо про SWG не сказано) — без дозволу хоста не будувати [18:49].
 - ЯКЩО ти не SWG, не China vanilla і не Tank → ТО суперзброю не будувати взагалі [05:35].
 - ЯКЩО China vanilla або Tank на Defcon 6 (стандарт) чи TF 10k і потрібні апгрейди із суперзброї → ТО поставити одну суперзброю (5k), дослідити апгрейди задовго до нуля на таймері, одразу продати (повернеться 2.5k) і ніколи не стріляти [06:12]–[06:47] [10:14].
 - ЯКЩО Tank на TF 50k або в noob rules, чи China / Tank у TF air game → ТО до старту запитати хоста. Без його дозволу суперзброю не ставити [11:51]–[12:00] [13:51] [18:49].
@@ -118,26 +118,26 @@
 - ЯКЩО граєш за Air Force General і обираєш першу промоцію → ТО брати drone, а не Carpet Bomb [07:16]–[07:35].
 - ЯКЩО Defcon 6 (стандарт) і хочеш Neutron Shells → ТО спершу спитати хоста: зазвичай можна, але ~30% проти [07:48]–[08:00].
 - ЯКЩО TF 10k → ТО не досліджувати Neutron Shells [10:17].
-- ЯКЩО TF 10k або Ground War → ТО тримати не більше 2 повних Battle Bus і не більше 3 повних Humvee, а про спам порожніх Humvee питати хоста [08:49]–[09:28] [18:15]–[18:45].
+- ЯКЩО TF 10k або noob rules / Ground War → ТО тримати не більше 2 повних Battle Bus і не більше 3 повних Humvee, а про спам порожніх Humvee питати хоста [08:49]–[09:28] [18:15]–[18:45]. Не обходити ліміт через запас порожніх Battle Bus у Tunnel Network без згоди хоста [09:42]–[10:01].
 - ЯКЩО Air Force General на TF 50k → ТО будувати звичайні Comanche, без Stealth Comanche [14:30]–[14:35].
-- ЯКЩО хочеш укріпити точку (особливо на TF 50k) → ТО не більше 2–3 оборонних споруд в одному місці, без AOD-турлінгу [14:57]–[15:07] [15:39]–[16:05].
+- ЯКЩО хочеш укріпити точку (особливо на TF 50k) → ТО не більше 2–3 оборонних споруд в одному місці, без AOD-турлінгу; безпечніше обмежитися однією, бо навіть «two defenses in one spot» може коштувати кіку [14:57]–[15:07] [15:39]–[16:05].
 - ЯКЩО TF air game і ти Air-гравець → ТО не атакувати Air-гравця суперника [12:10] [12:35].
 - ЯКЩО noob rules → ТО перші 10 хвилин не атакувати базу суперника, але нафту захоплювати й атакувати можна [17:36]–[17:44].
 - ЯКЩО гра позначена «ground war» / «GW» → ТО не будувати авіацію [16:30]–[16:43] [17:30].
-- ЯКЩО Ground War і ти Nuke у центрі → ТО будувати Overlord і Nuke Cannon, але не більше 2 Nuke Cannon одночасно і без масової guard mode [18:10]–[18:35].
+- ЯКЩО noob rules / Ground War і ти Nuke у центрі → ТО будувати Overlord і Nuke Cannon, але не більше 2 Nuke Cannon одночасно і без масової guard mode [18:10]–[18:35].
 - ЯКЩО правила лобі не уточнено або пункт «помаранчевий» → ТО вести себе за найсуворішим варіантом зі списку або уточнити в хоста до старту [09:09] [13:51] [19:39]–[19:48].
 
 ## Ключові цитати
 - [03:21] "pro rules varies by map ... and it also depends on how much money you start with" — правила залежать від мапи й стартових грошей.
 - [04:21] "we're talking no auroras" — заборона Aurora (зокрема Alpha) для всіх.
-- [04:41] "the reason pro rules came about ... is to basically stop all the overpowered things" — суть pro rules.
+- [04:39] "the reason like pro rules came about i think is to basically stop all the overpowered things" — суть pro rules.
 - [05:14] "never use a demo bike or you will ... get kicked and probably blocked" — за demo bike одразу кік і блок.
 - [05:38] "the super weapon general is allowed one super weapon" — виняток для SWG.
 - [06:12] "china's can make a super weapon for upgrades only but sell after" — China vanilla / Tank: тільки заради апгрейдів.
 - [06:38] "it costs you 5k, when you sell it you get two and a half k back" — фактична ціна апгрейдів 2.5k.
 - [06:49] "carpet is allowed anytime" — Carpet Bomb дозволено (стандарт, TF 10k).
 - [07:48] "neutron shells are allowed most of the time" — зазвичай можна, але уточнюй.
-- [09:01] "two buses max and three full V's max" — ліміти на TF 10k.
+- [09:01] "two uh buses max and three full v's max as well" — ліміти на TF 10k.
 - [12:10] "air is not allowed to attack the air player" — правило TF air game.
 - [13:04] "demo upgrade here is allowed" — виняток TF 50k.
 - [14:30] "no stealth comanche" — TF 50k, Air Force.
@@ -154,11 +154,12 @@
 - Відсотки озвучено без слова «percent» («10 or 20 of people», «70 of them», «99 of the community», «about 30 people»). Скоріш за все, це відсотки.
 - «spam gamma versus ... six or seven for the other talks buses» [08:53]–[08:59] — ймовірно, спам Battle Bus у Toxin General. «gamma» може означати апгрейд Anthrax Gamma; розшифровка сумнівна.
 - «full v's» = Humvee, наповнені піхотою (Missile Defenders), «mtv / empty v spam» = спам порожніх Humvee. Розшифровано за контекстом.
-- «put a german on it» [05:09] — швидше за все, Jarmen Kell як вершник Combat Cycle. «demo bike» = Combat Cycle Demolition General з Terrorist-вершником [загальне знання, не з відео].
+- «put a german on it» [05:09] — швидше за все, Jarmen Kell як вершник Combat Cycle. «demo bike» = Combat Cycle з Terrorist-вершником, який може зробити будь-який генерал GLA, а з demo upgrade вибухає будь-який байк [загальне знання, не з відео].
 - «demo of lambda» / «demo mobile ambush» / «deborah ambush» = demo Rebel Ambush (засідка повстанців з demo upgrade). Розшифровано за контекстом.
 - Яку саме «drone» (перша промоція Air Force) має на увазі автор, не уточнено [07:19]–[07:32]. Ймовірно, Spy Drone.
 - «upgraded nuke MiGs»: конкретну назву апгрейду із суперзброї не названо [05:30].
 - «fast strategy center» у контексті Carpet Bomb на 10k [10:31]: логіку (навіщо Strategy Center для carpet) не пояснено.
 - Розклад армій у TF air game («GLA on the right side ... on the left side stealth or tank») неоднозначний [11:29]–[11:41]. Склад армій Hostile Dawn («air and ... iron stealth or ... air and tank») автор сам не знає напевно [17:20]–[17:26].
 - Чи має SWG право на одну суперзброю в noob rules, прямо не сказано: є лише загальне «no super weapon» [18:49].
-- Порівняння цін Demo і Stealth («quads are more expensive», «buses/buggies slightly more expensive than stealth») автор озвучує невпевнено («I think they are») [13:21]–[13:41].
+- Порівняння цін Demo і Stealth («quads are more expensive», «buses/buggies slightly more expensive than stealth») автор озвучує невпевнено («I think they are») [13:21]–[13:41]. Фраза «their sneak attack i think is it's less often than like stealth» [13:29]–[13:31] нечітка: «рідше» може означати, що Sneak Attack у Demo доступна/корисна менше, ніж у Stealth.
+- Ліміти 3 повні Humvee / 2 повні Battle Bus / 2 Nuke Cannon названо в розділі noob rules у контексті армій Ground War (USA чи Nuke в центрі, два GLA на флангах) [18:13]–[18:35]. Чи діють вони в noob rules без Ground War, прямо не сказано.

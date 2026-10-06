@@ -7,7 +7,7 @@
 |---|---|
 | Армія | усі (приклади за USA, China, GLA) |
 | Генерал(и) | приклади: Air Force General, Laser General, Superweapon General (USA); Nuke General, Tank General, Infantry General (China); Toxin General, Stealth General (GLA) |
-| Матчап(и) | будь-який 2v2; розібрані приклади: Nuke + GLA vs USA + GLA, Tank + Laser vs SWG + GLA, Toxin + Toxin vs USA + Air Force, Air Force + Nuke vs Air + Stealth, China + Toxin vs Air Force + GLA, GLA + Nuke vs Infantry + SWG |
+| Матчап(и) | будь-який 2v2; розібрані приклади: Nuke + GLA vs USA + GLA, Tank + Laser vs SWG + GLA, Toxin + Toxin vs USA + Air Force, Air Force + Nuke vs Air + Stealth, Air Force + Toxin vs China + GLA, GLA + Nuke vs Infantry + SWG; згадано: Laser + SWG vs Air Force + GLA |
 | Режим | 2v2 (переважно карта Fallen Empire; армії random) |
 | Тип відео | поради (6 «core» порад) / рев'ю реплеїв 2v2 |
 | Рівень | середній (автор адресує semi-pro та «up and coming» гравцям) |
@@ -53,18 +53,22 @@
 2. Виробництво: Technical проти Humvee + Quad Cannon проти авіації (Air Force з Airfield) [11:55–12:09]
 - У 1v1 автор не пам'ятає, коли востаннє бачив такий відкрив; у 1v1 він карає його: «drop a dozer and harass the enemy's workers» — ворог лишається без грошей, а Quad і Technical довго вбивають Dozer [12:37–12:56].
 - У 2v2 це можливо, бо союзник (Humanity) вже прокопав тунель і прикрив автора [12:56–13:05].
+- Ще приклад: у грі Air Force + Toxin vs China + GLA автор сказав Rango (Toxin) піти в 2 War Factory, сам пішов у Comanche; Rango загинув, але автор потім виграв гру [22:28–22:45].
 
 ### Air Force + Nuke проти Air + Stealth: «Raptors + Gats» на довірі
 - Коли застосовувати: ворог — Air (Rango) + Stealth (RaGe); очікування: Rango йде в Raptors, RaGe тунелює його, будує багато Quad Cannon і захищає, а Raptors полюють на тебе або на твого союзника Nuke [14:20–14:39].
 1. Ти (Air Force): повний фокус на Raptors — «100% production of raptors», ціль — убити ворожого Air (Rango) [15:49–15:54], [16:47–17:01]
-2. Союзник (Nuke, SR Exile): 2 War Factory і шле Gattling Tanks через карту до твоєї бази — захист від «odd quad», Technical («worker») та ворожих Raptors [14:57–15:05], [15:39–15:49], [16:29–16:37]
+2. Союзник (Nuke, SR Exile): 2 War Factory і шле Gattling Tanks через карту до твоєї бази — захист від «odd quad», «worker» (нерозбірливо; за контекстом [17:13–17:22] — ймовірно Technical-рейдер) та ворожих Raptors [14:57–15:05], [15:39–15:49], [16:29–16:37]
 3. Союзник НЕ будує Battle Masters (гинуть від одного залпу Raptor; Gat витримує два повні) — лише Gats [17:07–17:31], [17:43–17:50]
 4. Обидва штовхають уперед і атакують разом: Gats союзника зав'язують бій із Quad / тунелем, потім заходять Raptors [17:43–18:15]
+- Логіка довіри: без упевненості, що союзник надішле Gats, іти в Raptors не можна — ворожий тиск (Quad тощо) уб'є; але й не йти в Raptors «stupid», бо тоді ворожий Air просто наробить Raptors і вб'є тебе [14:52–15:25]. Тобто комбінований білд працює лише за повної довіри.
+- Оцінка автора: у його команди (Nuke + Air) «the worst armies here by far», Nuke — «still okayish» [14:39–14:46]. Обом сторонам потрібна командна гра: ворожого Air (Rango) має прикрити тунелем союзник, а автору — союзник має надсилати Gats [15:35–15:42].
 - Ознака провалу / що пішло не так: автор не довіряв повністю й будував Fire Bases → не вистачило грошей на безперервне виробництво Raptors — «one of the reasons why we lose» [16:37–17:03]; Exile будував Battle Masters і сам ганявся за Technical замість сказати автору вбити його Raptor-ом [17:03–17:22]; автор не вбив Technical до того, як той дійшов до бази Exile [17:32–17:43]. Гра програна [15:05–15:09].
 - Чому не грати як 1v1 («sold my Command Center, War Factory, Barracks»): перший ворожий Raptor вбиває один-два Dozer, другий лишає power на «5 HP», третій добиває — ти без енергії проти GLA і програєш [15:54–16:29].
 
 ### China проти USA в 1v1: Troop Crawler «death wall» (і чому в 2v2 з GLA — ні)
 - Коли застосовувати: 1v1 China vs USA [07:24–07:30], [20:49–20:55].
+- Приклад у відео: G Master (China) проти автора (Air Force) і Rango (Toxin); союзник G Master — RaGe (GLA) [20:37–20:45], [21:25–21:30], [22:18–22:24].
 1. Troop Crawler першим [20:55–20:58]
 2. Можливо War Factory + Barracks, спам піхоти (rockets) [20:58–21:03]
 3. Кілька Gattling Tanks позаду [20:55–20:57]
@@ -77,6 +81,7 @@
 2. Швидкий Propaganda Center → ECM Tanks [08:44–08:48]
 - Результат: «winning that super weapon General in most games» на Lagoon, Tournament Desert — залежить від початку гри [08:48–09:00].
 - У 2v2, якщо другий ворог GLA з хоча б одним тунелем чи кількома Scorpion: Gats не витягують Scorpions і Humvee одночасно → підмішуй «odd Battle Master» або «odd Outpost» (Listening Outpost), чого проти SWG зазвичай не робиш [09:00–09:33].
+- Що зробив Rango (Tank) у цій 2v2-грі: 2 War Factory до другої Supply [10:21–10:37], Gats і «flamer» — і пішов битися з GLA, тобто допомагати союзнику (автор, Laser, тим часом пішов у дроп) [10:41–11:01]. Висновок автора: у 2v2 будуєш інші юніти, ніж у 1v1, залежно від того, якого з ворогів атакуєш [10:59–11:04].
 
 ## Юніти, апгрейди, генеральські промоції
 
@@ -107,6 +112,8 @@
 ## Мікро і тактика
 - Simultaneous attacking: коли армія ворога зайнята наземним боєм (Gats союзника б'ються з Quad), заходь своєю армією (Raptors) одночасно. З 3–4 Gats замість Battle Masters союзник міг би зав'язати бій із тунелем і юнітами, вибити Quad, а потім заходять Raptors [17:52–18:15].
 - Beacon перед спільною дією: автор поставив beacon на тунель — він вбиває тунель, союзник заходить Battle Master [18:29–18:38]. Beacons працюють і разом із голосовим зв'язком [18:38–18:41].
+- Вибір напарника: той, хто говорить твоєю мовою, такого ж рівня або трохи сильніший — «so you're always up in your game» [18:56–19:10].
+- Приклад комунікації: RaGe і Size (Laser + SWG) у чаті домовляються «we need to double the air» (Air — crazy); автор радить казати це голосом, не перериваючи будівництво [19:23–19:54].
 - Перехоплення рейдерів для союзника: ворожий Technical треба було вбити Raptor-ом ще до того, як він дійшов до бази союзника; союзник має сказати «there's a technical in my base come and kill it» замість гонитви або відправити Gat [17:13–17:22], [17:32–17:43].
 - Слабке місце: Battle Master пробився до Supply, але Supply «nice and safe», прикрита тунелем RaGe — нічого не дійде, хіба що поставити («park») туди Gat [07:53–08:09].
 - Обманний маневр Nuke проти Air Force: послати Troop Crawler, щоб Humvee билися з піхотою, поки Gat пробирається збоку [06:51–06:58] (але лише якщо другий ворог не Toxin — див. «Матчапи»).
@@ -131,7 +138,7 @@
 - Laser проти GLA: Humvee; але якщо другий ворог SWG — бережися Chinook-дропу [10:02–10:18].
 - Toxin проти Air Force (сам на сам): бачиш Airfield → роби лише Quad [12:03–12:09]. Проти USA + Air Force: суміш Technical (проти Humvee) і Quad [11:55–12:02]. Ворогові проти двох Toxin обирати армію легко [12:19–12:27].
 - USA (Air Force) проти China (1v1): Humvee і Rockets — «standard USA»; але пізніше China отримає MiG, а GLA-союзник — Quad і Technical [22:01–22:26].
-- Проти Air Force у ворожій команді — подвоюй гравця Air, особливо якщо в тебе Nuke (Air має «massive advantage» над Nuke) [03:08–03:19].
+- Проти Air Force у ворожій команді — подвоюй гравця Air, особливо якщо в тебе Nuke (Air має «massive advantage» над Nuke) [03:08–03:19]; так само RaGe + Size (Laser + SWG) вирішили «double the air» [19:36–19:41].
 - Nuke проти Infantry — «hard anyway» [24:19–24:22].
 
 ## Типові помилки
@@ -170,6 +177,8 @@
 - ЯКЩО ворожий рейдер (Technical) іде до бази союзника → ТО перехопи його до того, як дійде; якщо рейдер у твоїй базі → ТО скажи союзнику з мобільною армією замість гонитви [17:13–17:43].
 - ЯКЩО плануєш спільну дію (вбити тунель / Arms Dealer) → ТО повідом союзника голосом і/або beacon, не друкуючи в чаті й не зупиняючи виробництво [18:29–18:53], [19:45–19:54].
 - ЯКЩО союзник ставить beacon → ТО перевір його й реагуй [24:26–24:29].
+- ЯКЩО обираєш союзника для 2v2 → ТО бери того, хто говорить твоєю мовою і грає на твоєму рівні або трохи сильніше [18:56–19:10].
+- ЯКЩО погодився на комбінований білд (союзник іде в Raptors/all-in на одного ворога) → ТО виконуй свою частину повністю (Gats у його базу), а союзник не витрачає гроші на «страховку» (Fire Bases) [14:57–15:05], [16:37–17:03].
 - ЯКЩО ти GLA у 2v2, ворог не скаутить, а союзник прикрив тебе тунелем → ТО можна 2 War Factory рано [12:27–13:05]; ЯКЩО в 1v1 ворог відкрився 2 WF без економіки → ТО харась його робітників (автор — Dozer) [12:42–12:56].
 - ЯКЩО незнайома карта → ТО шукай дві Supply, oils і середню експансію, адаптуй розстановку будівель; ЯКЩО Supply лише одна → ТО змінюй білд [25:54–26:39].
 - ЯКЩО можна обирати армії → ТО Tank + Air (найкраща), Stealth + Air, Toxin + Air [13:54–14:18], [21:55–21:57].
@@ -184,7 +193,7 @@
 - [17:24] "Battle Masters go down in one shot from Raptors whereas a gat takes Two Shots" — проти Raptors краще Gats.
 - [18:18] "trusting your opponent in order to pull off a stronger combined build order" — тут «opponent» = союзник.
 - [18:41] "Skype is so much faster by speaking it" — голосовий зв'язок замість чату.
-- [20:01] "if you are GLA you generally want to be tunneling your mate all the time" — порада 5.
+- [19:55] "if you are GLA you generally want to be tunneling your mate all the time" — порада 5.
 - [23:04] "that $800 could be the situation between life and death for your partner" — ціна тунелю vs цінність.
 - [23:33] "always to double one guy" — порада 6.
 - [24:44] "don't do as I do in this game" — автор визнає помилку: не тунелював і не підтримав союзника.
@@ -205,7 +214,9 @@
 - «Worker» у «the odd quad or worker» [15:44–15:46] — можливо, Technical; нерозбірливо.
 - «Rage is actually going to just bunker up» [24:03] — неясно, чи це Bunker, чи «load up» (завантажити транспорт) перед дропом.
 - «Bo» [24:08] — ймовірно гравець BoYcaH; «G Master/Gem Master» — нік гравця не підтверджено; «SRS Exile/SR Exile» — гравець Exile; «crazy» [19:39] — можливо DK Crazy; «tvt player» [19:41] — нерозбірливо (можливо, «2v2 player»).
+- Склад гри «Laser + SWG vs Air Force + GLA» [19:23–20:17] виведено з контексту: RaGe і Size — Laser і SWG, «the air» — crazy, Google — GLA, що не тунелює «his mate»; команди прямо не названо.
+- «Unless you parted a g like there» [08:05–08:07] — розшифровано як «parked a Gat»; нерозбірливо.
 - «Split five video» [16:09] — посилання на інше відео автора, назва нерозбірлива.
 - «Two War Factories which again you hardly see in a TV2» [22:33–22:35] — суперечить попередньому твердженню, що 2 WF часто бачиш у 2v2; можливо, мало бути «1v1».
 - Ціна пари Battle Master (~$1,600) виведена з фрази «nearly the same price as two Battle Masters, just $200 short», прямо не названа [07:06–07:12].
-- Автор анонсував шість порад і нумерує їх непослідовно (напр. «that was the fifth tip» про тунелювання [22:26–22:28]); структура в цьому файлі — за змістом.
+- Нумерація порад у відео: 1 — карта [01:00], 2 — складність складу армії [05:12], 3 — довіра [14:46], 4 — Skype/комунікація [18:24], 5 — тунель до союзника («that was the fifth tip» [22:26]), 6 — «always double one guy» [23:32]. Додаткова порада «get a good quality mate» [19:00–19:10] прозвучала поза нумерацією.

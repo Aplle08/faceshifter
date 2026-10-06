@@ -21,6 +21,7 @@
 - Окремі білди: Eco Boom (Rangers захоплюють oil), No Eco (2 Humvee + 10 MD + 1 Ambulance), USA mirror oil cap, Dozer-drop проти GLA з «боксом», Laser Patriot drop, USA mirror drop (Chinook з Dozer + 3 MD) [14:10]–[38:20].
 - Keeping CC: для Air Force вигідно (Chinook $950), для USA vanilla — War Factory запізнюється (Chinook $1,200) [33:04]–[35:54].
 - Промоції автора: Spy Drone → A10 (до рівня 2) → Pathfinder → Spectre Gunship, Leaflet Drop, Fuel Air Bomb; ніколи — Paradrop, Emergency Repair; Paladin і Stealth Fighter — ні [38:21]–[39:36].
+- Анонс частини 2 (не показано): замість Barracks — подвійний War Factory зі спамом Humvee з TOW; Supply Drop Zone («збирає більше за Black Market, якщо не помиляюся»); Particle Cannon (для Superweapon — $2,500) [39:45]–[40:13].
 
 ## Стратегії та білд-ордери
 
@@ -36,16 +37,17 @@
 8. Dozer 1 — War Factory (хоткей A), Dozer 2 — Barracks (хоткей B) [05:16]–[05:27], [06:07]–[06:12].
 9. War Factory → Ctrl+1, rally point; ~3 Humvee і Ambulance. Barracks → Ctrl+2 (див. [08:20]), rally у те саме місце, «купа» Missile Defender. Ідеал: 2–3 Humvee + MD + Ambulance [06:12]–[06:37].
 10. Якщо є зайві гроші під час виробництва Humvee — Fire Base на одній із Supply (проти GLA / China; у USA mirror — можна пропустити) [06:37]–[07:04].
-11. Контрол-групи Chinook: лівi — Ctrl+9, праві — Ctrl+0 [07:10]–[07:21].
+11. Контрол-групи Chinook: ліві — Ctrl+9, праві — Ctrl+0 [07:10]–[07:21].
 12. Завантажити MD у Humvee (Q — виділити все на екрані, потім клік по Humvee; повного завантаження не треба), виділити всі Humvee → D (Scout Drone, $100) [08:36]–[09:15]. Армія → Ctrl+3 [09:38]–[09:47].
-13. Далі: апгрейд Power, Strategy Center у глибині бази → Search and Destroy (хоткей D) [11:03]–[11:18], [17:26].
+13. Далі: апгрейд Power, Strategy Center у безпечному місці (у глибині / ближче до центру бази, щоб детект stealth покривав базу) → Search and Destroy (хоткей D) [11:03]–[11:46], [17:26].
 14. Коли Humvee достатньо — TOW Missile upgrade ($800) [11:46]–[11:57].
 15. Після Strategy Center — Supply Lines (одне з найважливіших), потім Advanced Training, якщо є гроші [12:56]–[13:05].
 16. Розчистивши зону — експансія, новий CC «у глибині» (у кут/край карти) [11:57]–[12:03], [13:33]–[13:42].
 - Склад удару: Humvee з MD всередині + Scout Drone + Ambulance позаду; роумінг по карті й базі ворога [10:28]–[11:02].
 - Ознака успіху: «ви, ймовірно, виграєте більшість ігор» роумінгом Humvee з MD [10:58]–[11:02].
 - Варіант проти великої кількості MiG: другий War Factory, спам **порожніх** Humvee (більше цілей для MiG, менша цінність втрат) + кілька Avenger [13:05]–[13:33].
-- Те саме можна грати за Laser, Superweapon або Air Force; для Superweapon важче — Humvee $850 замість $700 [12:01]–[12:28].
+- Те саме можна грати за Laser, Superweapon або Air Force; для Superweapon важче — Humvee $850 замість $700 [12:12]–[12:28].
+- На карті з двома oil поруч (як у прикладі) автор визнає, що реалістично пішов би в oil-білд [14:01]–[14:03].
 
 ### 2. Economy Boom Build (Rangers захоплюють oil/техбудівлі)
 - Коли застосовувати: проти слабкого/повільного/пасивного суперника (пасивний China чи GLA); мета — забрати всі гроші на карті й ударити сильною армією в мідгеймі. **Не працює** проти дуже агресивного суперника — покарає за 2 Supply + багато oil [14:23]–[14:50], [17:43]–[18:00].
@@ -58,7 +60,8 @@
 7. Щойно готовий Capture Building upgrade — захоплювати ключові будівлі (oil) [15:52]–[15:56].
 8. Великий грошовий бонус за обидві oil → одразу виробництво Humvee, Strategy Center [16:15]–[16:24].
 9. Fire Base з іншого боку; не флоатити гроші; Ambulance; агресія Humvee; Scout Drone [16:35]–[17:05], [17:40]–[17:45].
-- Ефект: захоплена будівля «знімає 10% з вартості техніки» — Humvee коштує $630 замість $700 [17:17]–[17:24].
+- Ефект: захоплена будівля «знімає 10% з вартості техніки» — Humvee коштує $630 замість $700 [17:17]–[17:24]. Яка саме будівля — у відео не названо (у ZH таку знижку дає техбудівля Oil Refinery [загальне знання, не з відео]).
+- Автор порівнює: з oil-бумом і дешевшими Humvee позиція «набагато краща», ніж якби просто пішов у 2 Supply [17:10]–[17:17].
 - Rangers у Humvee автор зазвичай не змішує, хіба що для захоплення oil або проти USA [16:46]–[16:56].
 
 ### 3. No Eco Build (2 Humvee, 1 Ambulance) — «lame»-раш
@@ -66,9 +69,9 @@
 1. Barracks «спереду» (ближче до ворога), Spy Drone, завершити Power [18:21]–[18:27].
 2. Supply Center (U) [18:27]–[18:30].
 3. Spy Drone на «фронт» ворога; поставити в чергу купу MD [18:30]–[18:37].
-4. **Продати CC** («as always») [18:37]–[18:41].
+4. **Продати CC** («as always») [18:36]–[18:41].
 5. War Factory, другий Chinook (C) [18:41]–[18:46].
-6. Barracks ставити поруч із бункером (потім — укриття для MD, якщо дійде до «остання будівля проти останньої») [18:46]–[18:57], [21:49]–[22:03].
+6. Сховати (у субтитрах «hide thiser» — ймовірно Dozer або War Factory) у куті / біля бункера: якщо базу знищать, поруч можна поставити Barracks, а MD засісти в бункер як укриття, коли дійде до «остання будівля проти останньої» [18:46]–[18:57], [21:44]–[22:03].
 7. Перший Humvee у черзі; MD вже йдуть через карту; другий Humvee [19:00]–[19:12].
 8. Загалом: **10 Missile Defender, 2 Humvee, 1 Ambulance** [19:21]–[19:27].
 9. Перший Humvee — агресивно одразу через карту; Dozer теж відправити вперед [19:12]–[19:30].
@@ -87,6 +90,8 @@
 6. Rangers захоплюють oil (за потреби відремонтувати derrick); тут — 3 oil [23:41]–[23:52].
 7. Перший Humvee — на карту захищати oil; або залишити 1–2 Rangers у Humvee й ескортувати їх до oil [24:22]–[24:37].
 8. Далі — Search and Destroy, TOW, як у білді 1 [25:53]–[26:00].
+- Підсумок автора: «по одному з усього» (Power, Barracks, Supply, War Factory), другий Barracks — якщо є зайві гроші, плюс 3 MD, 3 Rangers і Capture Building [25:33]–[25:41].
+- Захист від дропу: MD розставлені по базі; виділити одного, E — laser lock ворожого Chinook; Rangers підтримують [23:50]–[24:04]. Можна було ще один MD посадити в будівлю поруч для прикриття [24:12]–[24:18].
 - Якщо в суперника лише одна oil — можна не робити всіх 3 Rangers [25:00]–[25:03].
 - Перевага над 2 Supply: одна зона для захисту від дропів [25:06]–[25:23].
 - «Хто отримує всі або більшість oil у USA mirror, має величезну перевагу» [25:50]–[25:53].
@@ -94,7 +99,7 @@
 ### 5. Best Build vs GLA — Dozer-drop і «бокс»
 - Коли застосовувати: проти GLA будь-якого рівня (приклад — карта «Gold Cobra»); працює за будь-якого USA-генерала [26:21]–[26:37], [27:06]–[27:09].
 1. Spy Drone, скан бази ворога (побачити Tunnel тощо) [26:37]–[26:46].
-2. **Продати CC** (його хоткей продажу — Z) [26:46]–[26:54].
+2. **Продати CC** (хоткей продажу в автора — Z) [26:44]–[26:54].
 3. Дві Supply; розставити Supply Center так, щоб утворити «бокс» (стіну з будівель) [26:56]–[27:02].
 4. Chinook → Ctrl+3, Dozer-и → Ctrl+4 [27:09]–[27:13].
 5. A — War Factory, замикаючи бокс [27:13]–[27:19].
@@ -104,7 +109,8 @@
 9. Ambulance, достатньо MD, Fire Base **зсередини боксу** (Dozer 100% у безпеці) [28:42]–[29:18].
 10. Вихід Humvee — «ймовірно вб'ють ворога / закінчать гру» [29:02]–[29:10].
 - Ніколи не втрачати Chinook: якщо ризик — відправити Chinook додому й пожертвувати Dozer (другий Dozer у боксі) [28:07]–[28:18].
-- Дірки в боксі «працюють» не під кожним кутом; найкраще — між War Factory і Supply Center; експериментувати [29:28]–[29:40].
+- Поставити Fire Base зсередини боксу вдається не під кожним кутом: «типово найкраще працює біля War Factory і Supply»; експериментувати самому [29:25]–[29:42].
+- Бокс захищає не від усього: важка атака по War Factory чи RPG все одно можуть щось убити (у субтитрах «massive TNT ... Tech RPG», див. «Невизначеності») [29:18]–[29:22].
 - Strategy Center теж можна поставити в боксі; в крайньому разі продати Barracks під нього (але небажано) [30:33]–[31:01].
 
 ### 6. USA Laser Patriot Drop
@@ -117,7 +123,7 @@
 - Ефект: б'є по вантажівках, «руйнує збір»; ворогу доведеться продати Supply чи переносити. Якщо він продав до завершення турелі — можна скасувати й перебудувати; або добудувати, щоб тримати зону — «одна з найкращих оборон у грі» [32:33]–[33:01].
 
 ### 7. Keeping CC (Air Force / USA vanilla)
-- Air Force: Carpet Bomb з 1-го рівня, Spy Drone; CC залишити — Chinook коштує $950 (у інших USA — $1,200), тож можна мати War Factory і 2 Supply з 4 Chinook майже без затримки + «необмежені скани» [33:04]–[34:09].
+- Air Force: Carpet Bomb з 1-го рівня, Spy Drone; CC залишити — Chinook коштує $950 (у інших USA — $1,200), тож можна мати War Factory і 2 Supply з 4 Chinook майже без затримки + «необмежені скани»; Humvee ставити в чергу одразу [33:04]–[34:11]. У прикладі після Power і Dozer лишається $8,200 [33:25].
 - USA vanilla: той самий порядок, але Chinook дорожчі → War Factory пізніше, «майже так само повільно, як oil-білд»; перший завантажений Humvee пізніше, Gattling чи Technical може вже прийти [34:13]–[35:28].
 - Якщо USA вирішує тримати CC — рекомендовано дропнути Dozer для відволікання, щоб виграти час на War Factory і Barracks [35:34]–[35:54].
 - Дрібний трюк: одна Chinook на Supply, друга — на ящиках поряд (збір з різних ящиків) [34:38]–[34:49].
@@ -130,7 +136,7 @@
 4. Скан своєї бази; **коли виходить перший MD — продати CC**; знайдений ворожий дрон — laser lock [36:36]–[36:42].
 5. Chinook: 1 Dozer + 3 MD всередину; додатковий Chinook на Supply [36:42]–[36:54].
 6. Вдома — ще 2 MD на дві точки (проти дропу), можна пару Rangers [36:54]–[37:07].
-7. Висадити все в базі ворога; Chinook на Ctrl+4; laser lock його (Chinook) [37:09]–[37:20].
+7. Висадити все в базі ворога; висаджені юніти вже на контрол-групі 4 — одразу натиснути 4 й робити laser lock по ворогу (ціль у субтитрах обірвана: «try to L lock his…», за контекстом, імовірно, його Chinook на Supply) [37:09]–[37:20].
 8. Якщо він відступає — другий Barracks у його базі, збирати його Supply, спамити піхоту звідти [37:20]–[37:40].
 9. Позаду — War Factory [37:48]–[37:52].
 - Якщо суперник повністю пасивний — відправити піхоту на oil; один MD тримати в базі [37:52]–[38:04].
@@ -164,7 +170,7 @@
 - Інші сильні юніти USA: Crusader, Avenger, Colonel Burton, Aurora [00:45]–[00:51].
 - Scout Drone ($100) — детект stealth, дешевший за Hellfire і Battle Drone, швидший за Battle Drone; не стріляє, але відволікає вогонь: Quad Cannon і Gattling автоматично б'ють по дронах [09:08]–[09:34].
 - Ambulance — тримати позаду [10:28]–[10:31].
-- USA Dozer: давить Worker-ів, мобільніший за China Dozer (той розвертається «на півоті», повільно), може їхати задом [05:38]–[06:03]; заїжджає в будь-який «бокс», навіть ворожий [27:34]–[27:45], [28:42]–[28:52]; може «танкувати» шкоду [20:08]–[20:12].
+- USA Dozer: давить Worker-ів, мобільніший за China Dozer (той розвертається «на півоті», повільно), може їхати задом [05:38]–[06:03]; заїжджає в будь-який «бокс», навіть ворожий, і виїжджає з нього, а ворог — не завжди [27:34]–[27:45], [28:24]–[28:40]; може «танкувати» шкоду [20:08]–[20:12].
 - Laser General: Laser Crusader, Laser Patriot; майже ідентичний USA vanilla; головна перевага — Avenger за $1,500 (добре проти MiG і авіації) [12:30]–[12:56].
 - Laser Patriot — «одна з найкращих оборон у грі» [32:58]–[33:01].
 - Air Force: Spectre, A10, Fuel Air Bomb, Leaflet Drop, Pathfinders, Carpet Bomb з 1-го рівня [33:11]–[34:03].
@@ -194,6 +200,7 @@
 | 5 | Spectre Gunship | «легендарний»: клікнув на oil — і забув, вона її вбиває | [39:36]–[39:45] |
 - Air Force: Carpet Bomb з 1-го рівня [33:13]–[33:15].
 - Підсумковий вибір: Spy Drone → A10 рівень 2 → Pathfinder → Leaflet + Fuel Air Bomb + Spectre [39:27]–[39:33].
+- Номери рівнів 3 і 5 (і рівень 1 для Stealth Fighter) — [загальне знання, не з відео]. У відео лише: Spy Drone — «from the first star general», а Leaflet, Fuel Air Bomb і Spectre — «all three of those at the bottom» (нижній ряд) [38:24]–[39:33].
 
 ## Мікро і тактика
 
@@ -219,7 +226,7 @@
 
 ### Контрол-групи (схема автора)
 - 1 — War Factory, 2 — Barracks, 3 — армія Humvee, 9 — ліві Chinook, 0 — праві Chinook [06:14]–[07:34], [09:40]–[09:57].
-- 3 і 4 — Dozer-и (Eco Boom) [15:29]–[15:31]; 4 — Rangers [17:00]–[17:02]; у білді проти GLA — Chinook на 3, Dozer-и на 4 [27:09]–[27:13]; у mirror drop — Chinook на 4 [37:13]–[37:17].
+- 3 і 4 — Dozer-и (Eco Boom) [15:29]–[15:31]; пізніше в тому ж білді на 4 — нова партія з War Factory (подвійне 1, потім Ctrl+4, дрон і на карту; за контекстом — Humvee) [16:57]–[17:05]; у білді проти GLA — Chinook на 3, Dozer-и на 4 [27:09]–[27:13]; у mirror drop висаджена група вже на 4 [37:13]–[37:17].
 - Перевага: миттєво переходиш до Chinook, якщо їх харасить Technical, і відводиш у безпеку (9 / 0) [07:34]–[07:44].
 
 ### Мікро
@@ -249,17 +256,19 @@
 | Таймкод | Цитата | Пояснення |
 |---|---|---|
 | [04:13]–[04:38] | "what we're going to do is actually sell our Command Center ... in all of my initial builds here I'm going to sell my command center" | Базовий білд: після старту Power, другого Dozer і відправлення обох Dozer на дві Supply (Supply Center вже закладені) — продати CC. Причина (неявно): гроші на швидкий War Factory/Barracks. Новачкам — «звикнути грати без радара», спершу буде «як наосліп», але без цього не конкурувати з найкращими. Автор: «є багато білдів, де CC можна залишити». |
-| [18:37]–[18:41] | "sell our CC as always" | No Eco build: після Barracks, Power, Supply Center і черги MD — продати CC, потім War Factory і другий Chinook. |
-| [26:46]–[26:54] | "sell a cc ... I can sell my CC by my sell key, hotkey Z" | Білд проти GLA: одразу після Spy Drone-скану бази ворога, до будівництва двох Supply. |
+| [18:36]–[18:41] | "sell our CC as always" | No Eco build: після Barracks, Power, Supply Center і черги MD — продати CC, потім War Factory і другий Chinook. |
+| [26:44]–[26:54] | "sell a cc ... I can sell my CC by my sell key, hotkey Z" | Білд проти GLA: одразу після Spy Drone-скану бази ворога, до будівництва двох Supply. |
 | [33:04]–[34:09] | "why do players always sell CC in the beginning ... what we're going to do now is keep the CC" | Air Force — виняток: Chinook $950, тож CC залишають і все одно мають War Factory і 2 Supply з 4 Chinook майже без затримки; плюс «необмежені скани». |
 | [34:30]–[35:33] | "if I sold the CC I would be able to make a war factory now even with those four chinooks" | USA vanilla з CC: Chinook по $1,200 → грошей на War Factory не вистачає, вона «помітно запізнюється», перший завантажений Humvee пізніше — Gattling чи Technical може прийти раніше. Тому для USA vanilla CC продають. |
 | [35:28]–[35:54] | "you'll see big size doing it a lot, keeping his CC no matter what" | Гравець «big size» (ймовірно, нік) тримає CC завжди. Якщо тримаєте — дропніть Dozer для відволікання, щоб виграти час на War Factory. |
 | [36:36]–[36:40] | "when your first missile Defender comes out sell your CC" | USA mirror drop: продати CC у момент виходу першого Missile Defender з Barracks (після Power, Barracks, Supply). |
 - Відбудова CC пізніше: «go and expand, also make a CC in the back» [11:57]–[12:03]; CC ставити біля кута/краю карти [13:33]–[13:42].
-- У Eco Boom і Laser Patriot Drop продаж CC прямо не згадується.
+- У Eco Boom, USA Mirror Oil Cap і Laser Patriot Drop продаж CC прямо не згадується. CC там використовують для другого Dozer.
+- Хибні збіги: «S my Dozer» [14:14] і «SL our Dozer sorry SL our CC build a second Dozer» [35:59] означають «select» (виділити CC/Dozer), а не «sell».
+- Інші продажі (не CC): якщо базу знищили — продати War Factory/Barracks і «мігрувати» [21:29]–[21:39]; в крайньому разі продати Barracks, щоб поставити Strategy Center у боксі, «але небажано» [30:39]–[30:57]; Laser Patriot біля Supply змушує ворога продати свою Supply [32:35]–[32:56].
 
 ## Матчапи і контри
-- vs China (будь-який): базовий білд + Fire Base [06:49]–[06:57]. vs Tank/Nuke — No Eco раш (2 Humvee + 10 MD + Ambulance), Dozer-Patriot біля Supply ворога; vs Tank/Nuke — також Laser Patriot drop [18:13]–[18:21], [20:22]–[20:33], [31:25]–[31:33]. AI China правильно відповідав Tank Hunter-ами [20:47]–[20:51].
+- vs China (будь-який): базовий білд + Fire Base [06:49]–[06:57]. vs Tank/Nuke — No Eco раш (2 Humvee + 10 MD + Ambulance), Dozer-Patriot біля Supply ворога; vs Tank/Nuke — також Laser Patriot drop [18:13]–[18:21], [20:22]–[20:33], [31:25]–[31:33]. AI China зробив «саме те, що треба» — купу Tank Hunter-ів (у субтитрах «tank ERS»), тобто це правильна відповідь China на Humvee-раш [21:13]–[21:21].
 - vs GLA: Dozer-drop (давити Worker-ів, навіть у боксі), свій бокс із Supply + War Factory, Fire Base зсередини боксу [26:21]–[29:18]. Обережно: великий вибух (у субтитрах «TNT») чи RPG можуть убити будівлі в боксі [29:18]–[29:22]. Pathfinder і triple A10 корисні проти GLA [38:52]–[39:07].
 - vs USA (mirror): без Fire Base; ризик дропу з тилу — ворожі MD робитимуть laser lock ваших Chinook [07:00]–[07:10]. Oil Cap білд або Mirror Drop; ручний фокус ворожих Humvee [22:47]–[26:21], [35:59]–[38:16]. Pathfinder майже обов'язковий [39:04].
 - vs MiG: другий War Factory, порожні Humvee + Avenger; Laser Avenger $1,500 [12:49]–[13:33].
@@ -270,7 +279,9 @@
 ## Типові помилки
 - Будувати Barracks до Power — «ніколи» [02:37]–[02:41].
 - Ставити Supply Center «спиною» до купи — втрата 0,5–1 с [03:55]–[04:02].
-- Флоатити гроші [08:22]–[08:27], [10:08]–[10:11], [16:39]–[16:41].
+- Флоатити гроші [08:22]–[08:27], [12:08]–[12:11], [16:39]–[16:41].
+- Чекати, що Humvee з MD відкриють вогонь самі, — MD стріляють пізніше, ніж за прямого наказу атаки [10:31]–[10:51].
+- Продавати Barracks без потреби (навіть заради місця під Strategy Center) [30:54]–[30:57].
 - Зайві Rangers в Eco Boom (сам автор зробив забагато) [15:22]–[15:26].
 - Eco Boom проти агресивного суперника — покарає [17:45]–[17:53].
 - Забагато уваги на базу замість Humvee — Humvee гинуть саме тоді, коли ворог відволікає атаками вдома [20:58]–[21:10], [30:11]–[30:26].
@@ -282,9 +293,9 @@
 ## Правила для ШІ-агента
 - ЯКЩО вибір першої генеральської промоції за USA → ТО Spy Drone (не Paladin, не Stealth Fighter) [01:46]–[01:49], [38:24]–[38:47].
 - ЯКЩО старт гри → ТО Dozer будує Power (R) першою, CC замовляє другий Dozer; Barracks ніколи до Power [02:30]–[02:45].
-- ЯКЩО Spy Drone готовий → ТО сканувати ймовірний CC/шлях ворожого Dozer; ЯКЩО видно proxy War Factory → ТО перейти в оборонну реакцію [01:49]–[02:16].
+- ЯКЩО Spy Drone готовий → ТО сканувати ймовірний CC/шлях ворожого Dozer; ЯКЩО ворожий Dozer поїхав агресивно й ставить War Factory не вдома → ТО реагувати інакше, ніж у звичайній грі (адаптувати білд під цю загрозу) [01:49]–[02:16].
 - ЯКЩО ставиш Supply Center → ТО розвернути його виходом до supply-купи [03:46]–[04:04].
-- ЯКЩО USA vanilla/Laser/SWG і закладено 2 Supply Center → ТО продати CC [04:13]–[04:25], [18:37]–[18:41], [26:46]–[26:54].
+- ЯКЩО USA vanilla/Laser/SWG (Chinook $1,200) у стандартному білді → ТО продати CC на старті: у базовому білді — після Power, другого Dozer і закладки 2 Supply Center [04:13]–[04:25]; у No Eco — після Barracks, Power, Supply і черги MD [18:36]–[18:41]; проти GLA — одразу після скану, до Supply [26:44]–[26:54]; у mirror drop — коли вийшов перший MD [36:36]–[36:40]. Пізніше, після розчищення зони, — збудувати CC знову в куті/на краю карти [11:57]–[12:03], [13:33]–[13:42].
 - ЯКЩО Air Force General → ТО залишити CC (Chinook $950), все одно будувати War Factory і 2 Supply з 4 Chinook [33:04]–[34:09].
 - ЯКЩО USA vanilla залишає CC → ТО дропнути Dozer у базу ворога для відволікання, щоб виграти час на War Factory [35:34]–[35:54].
 - ЯКЩО є Supply Center → ТО тримати 2 Chinook на кожному [04:40]–[05:13].
@@ -314,11 +325,12 @@
 - ЯКЩО бій Humvee проти Humvee → ТО ручний фокус ворожих Humvee (завантажені/найближчі), не attack-move [26:03]–[26:21].
 - ЯКЩО ворог — GLA → ТО Chinook-дроп Dozer у його базу давити Worker-ів (навіть у боксі), свій бокс із Supply Center + War Factory, Fire Base зсередини боксу [26:37]–[29:18].
 - ЯКЩО Chinook під загрозою під час дропу → ТО відвести Chinook додому, пожертвувати Dozer [28:07]–[28:18].
+- ЯКЩО на карті є ящики / стартовий ящик → ТО збирати їх Chinook-ами з різних ящиків (не давати всім летіти до найближчого) [13:42]–[13:58], [23:06]–[23:12].
 - ЯКЩО граєш Laser проти China Tank/Nuke → ТО Chinook з Dozer до другої Supply ворога, Laser-турель біля Supply, яка будується; ЯКЩО ворог продав Supply до добудови турелі → ТО скасувати й перебудувати [31:25]–[32:56].
-- ЯКЩО USA mirror і обрано drop → ТО Barracks → 3 MD, продати CC з виходом першого MD, Chinook з Dozer + 3 MD у базу ворога; вдома 2 MD проти дропу; ЯКЩО він відступає → ТО другий Barracks у його базі [36:19]–[37:40].
+- ЯКЩО USA mirror і обрано drop → ТО Barracks → 3 MD, продати CC з виходом першого MD, Chinook з Dozer + 3 MD у базу ворога; вдома 2 MD проти дропу; ЯКЩО він відступає → ТО другий Barracks у його базі, збирати його Supply й спамити піхоту звідти, War Factory — позаду [36:19]–[37:52].
 - ЯКЩО вдома харасять, а Humvee атакують → ТО пріоритет — мікро Humvee; вдома лише швидко відвести юнітів/Chinook [20:35]–[21:10], [29:55]–[30:31].
-- ЯКЩО 3-й рівень промоцій → ТО A10 (до рівня 2) + Pathfinder (особливо USA mirror, vs GLA, vs China Infantry/Troop Crawler); ніколи Paradrop / Emergency Repair [38:47]–[39:24].
-- ЯКЩО 5-й рівень → ТО Leaflet Drop, Fuel Air Bomb, Spectre Gunship (Spectre — на oil derrick ворога) [39:24]–[39:45].
+- ЯКЩО 3-й рівень промоцій (номер рівня — [загальне знання, не з відео]) → ТО A10 (до рівня 2) + Pathfinder (особливо USA mirror, vs GLA, vs China Infantry/Troop Crawler); ніколи Paradrop / Emergency Repair [38:47]–[39:24].
+- ЯКЩО 5-й рівень (у відео — «нижній ряд») → ТО Leaflet Drop, Fuel Air Bomb, Spectre Gunship (Spectre — на oil derrick ворога) [39:24]–[39:45].
 - ЯКЩО Superweapon General → ТО розглянути Particle Cannon ($2,500) [40:01]–[40:08].
 
 ## Ключові цитати
@@ -328,9 +340,9 @@
 - [04:25] "you need to get used to playing without that radar" — продавати CC і грати без радара.
 - [08:22] "ideally you don't really want to be floating" — не накопичувати гроші.
 - [21:06] "the v's are what are going to win you or lose you the game" — Humvee вирішують гру.
-- [26:06] "you always want to be clicking on the enemy vs in USA mirrors" — ручний фокус у дзеркалі.
+- [26:18] "you want to be always clicking on the enemy vs in USA mirrors" — ручний фокус у дзеркалі.
 - [28:07] "never lose that chinook" — Chinook цінніший за Dozer.
-- [30:13] "the way the enemy is going to take them down is by taking away your micro" — ворог убиває Humvee, відволікаючи на базу.
+- [30:10] "the way the enemy is going to take them down is by taking away your micro" — ворог убиває Humvee, відволікаючи на базу.
 - [32:58] "one of the best defenses in the game is a laser Patriot" — Laser Patriot дуже сильний.
 - [34:56] "if I sold the CC I would be able to make a war factory now" — продаж CC прискорює War Factory.
 - [39:02] "Pathfinders pretty much mandatory most games" — Pathfinder майже завжди.
@@ -342,7 +354,12 @@
 - [32:04]–[32:20] «you want to save safe th000 loadity need aivy General» і «hotkey for that is TE» — нерозбірливо; можлива сума ~$1,000 і хоткей T для laser-турелі.
 - Функція утримування ALT [19:36], [20:05] не пояснена (мікро, «вивести з-під удару»; можливо waypoint-режим [загальне знання, не з відео]).
 - «Gap»/«gatx» [02:13], [08:10], [10:16], [19:51], [20:33] розшифровано як Gattling (Gattling Tank чи Gattling Cannon) за контекстом.
-- [29:18] «if a massive TNT comes in ... Tech RPG can still kill things» — незрозуміло, що за «TNT» (вибухівка/Demo-юніт?) і «Tech RPG» (Technical з RPG?).
+- [29:18] «if a massive TNT comes in ... Tech RPG can still kill things» — незрозуміло, що за «TNT» (вибухівка/Demo-юніт?) і «Tech RPG» (Technical з RPG?). На [27:27] «not gone for a TNT there's no tunnel there» «TNT», можливо, означає «TN» (Tunnel Network).
+- [18:46] «hide thiser right here maybe in the corner ... find a bunker like that» (No Eco build): що саме ховають біля бункера, нерозбірливо (ймовірно Dozer або War Factory). Пов'язано з [21:49] «that's why I said go near a bunker».
+- [37:15]–[37:17] «I've already got him on control group four ... try to L lock his» (mirror drop): обірвано, кого саме лочать (імовірно, ворожі Chinook на Supply) і що на групі 4 (імовірно, висаджені MD).
+- [17:00]–[17:05] «put them on control group four» (Eco Boom): за контекстом (подвійне 1 = War Factory, потім «get a drone»), це нові Humvee, а не Rangers.
+- [39:15] «so many times in free FRS I don't select that» — розшифровано як FFA (free-for-all), але це не певно.
+- [36:19] «DX will be first» — розшифровано як «Barracks will be first».
 - «big size» [35:30], [38:52] — ймовірно нікнейм гравця (можливо SiZe), не впевнено.
 - [13:33] Логіка «CC у кут/край карти, бо звідти прилітають support powers, і у ворога менше часу на реакцію» передана дослівно; механіка не пояснена.
 - [34:09] «unlimited scans» з CC для Air Force — не уточнено, чи це радар CC чи частіше використання Spy Drone.

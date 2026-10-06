@@ -76,7 +76,7 @@
 | Technical | GLA | S | робиться щогри; спам контрить Humvee і навіть Quads | [14:51]–[15:18] |
 | Helix | China Infantry (з Tank Hunters + Bunker) | S | один Helix часто виграє гру | [18:21]–[19:09], [26:30] |
 | Helix (vanilla), Nuke Helix | China vanilla / Nuke | A | — | [18:35]–[18:37] |
-| Helix (Tank General) | China Tank | A або «A−» | +5 с на будівництво і дорожчий; «generally want to steer away from those» | [18:38]–[18:58] |
+| Helix (Tank General) | China Tank | A або «A−» | +5 с на будівництво і дорожчий; Tank Hunters у Tank General, на думку автора (не впевнений), теж будуються довше і «the most expensive in the game»; «generally want to steer away from those» | [18:38]–[18:58] |
 | ECM Tank | China | A | сам марний, з Gats дуже сильний; робиться в більшості ігор | [04:04]–[04:09], [08:23]–[08:50] |
 | Scorpion | GLA | A | не спамлять окремо, разом з Technicals | [08:50]–[09:03] |
 | Crusader | USA | A | особливо сильні проти Tank General (Gats + ECM) | [09:03]–[09:14] |
@@ -102,18 +102,18 @@
 | Rocket Buggy | GLA | A | «very very strong long range unit» | [16:20]–[16:24] |
 | Red Guard, Ranger, Rebel, Minigunner | усі | A | самі марні, але захоплюють Oil Derrick; Toxin Rebels — найсильніші | [17:27]–[18:04] |
 | Toxin Tractor | GLA | A | вичищати будівлі, якщо ти не Toxin General | [18:07]–[18:21] |
-| Pathfinder | USA | A | найкращий анти-піхотний юніт; «wrecks» Infantry General пізньої гри | [19:09]–[19:31] |
-| Listening Outpost («Outpost») | China (особливо Infantry) | A (Infantry — можливо вище) | як Battle Bus з самого початку, але з набагато меншим HP | [20:36]–[21:09] |
+| Pathfinder | USA | A | найкращий анти-піхотний юніт; «wrecks» Infantry General пізньої гри; автор вважає, що він мав би коштувати навіть більше за ~$900 | [19:09]–[19:31] |
+| Listening Outpost («Outpost») | China (особливо Infantry) | A (Infantry — можливо вище) | як Battle Bus з самого початку, але з набагато меншим HP; «not as OP as» спам Humvee | [20:36]–[21:09] |
 | Troop Crawler | China | A (імовірно) | повертає «sniped» Overlords, раш на Fire Base; «not useless and not very situational» | [21:09]–[21:25] |
 | Inferno Cannon | China | A | дуже сильний; Infantry: Outposts + ECM + Infernos | [22:00]–[22:16] |
 | Avenger | USA | A | вбиває авіацію, захист від MiG; blue laser прискорює вогонь союзників | [22:16]–[22:48] |
 | Combat Cycle | GLA | A | найшвидший наземний юніт; далекі нафти; Demo з TNT — знищує армію | [22:48]–[23:14] |
-| Angry Mob | GLA | A | $800; AK-47 upgrade; довгі GLA-дзеркала, проти піхоти | [23:53]–[24:28] |
+| Angry Mob | GLA | A | «not as situational as B»; $800; AK-47 upgrade; довгі GLA-дзеркала, проти піхоти | [24:05]–[24:28] |
 | Stealth Fighter | USA Air Force (без промоції) | B | рідко; «a bit underused»; трюк з тунелем | [05:23]–[05:56] |
-| Comanche (Laser / Superweapon) | USA | B | дорожчі і слабші за Air Force | [09:42]–[09:52] |
+| Comanche (Laser / Superweapon) | USA | B (автор не впевнений: «would they be in that category maybe probably would be in the B category») | дорожчі і слабші за Air Force | [09:42]–[09:52] |
 | Raptor (vanilla) | USA | B | добрий проти Supply Truck, поганий майже проти всього; 2–3 вбивають Helix; «one shot» Outpost | [11:56]–[12:03], [14:41]–[14:49], [19:59]–[20:19] |
 | Battle Master | China vanilla | B (проти Tank General — вище) | робиться лише проти Tank General | [19:34]–[19:59] |
-| Bomb Truck | GLA | B | Twilight Flame — по нафтах; рідкість | [21:25]–[22:00] |
+| Bomb Truck | GLA | B | Twilight Flame — по нафтах; «epic bomb truck drop» від Marakar на Oil Rampage; автор востаннє бачив його «a month ago or two» | [21:25]–[22:00] |
 | Aurora (звичайна) | USA Air Force та інші USA | B (A чи B — «totally fine») | Marakar робить її корисною, але рідко | [23:14]–[24:05] |
 | Sentry Drone | USA | C (useless) | майже ніколи не бачили в змагальних іграх | [04:09]–[04:53] |
 | Stealth Fighter | USA vanilla (з промоцією) | C (useless) | «pretty much never» у змагальній грі | [04:53]–[05:23] |
@@ -123,7 +123,7 @@
 | Dozer (China), Dozer (USA), Worker (GLA) | усі | Auxiliary | Worker трохи сильніший (Demo Trap, Tunnel, масовість), але Dozer у 1v1 його «crush» | [02:50]–[03:23] |
 | Supply Truck | China | Auxiliary | без нього не продовжиш бій | [03:23]–[03:37] |
 | Chinook | USA | Auxiliary | збирає supplies + drop + скаутинг; сильніший за Supply Truck | [03:37]–[04:00] |
-| Hacker | China | Auxiliary (вагався між A, B і Auxiliary) | може disable; Infantry — так, Tank — ніколи | [16:33]–[17:27] |
+| Hacker | China | Auxiliary (вагався між A, B і Auxiliary) | може disable; оцінка за Infantry / China vanilla (Tank-хакери — «useless or B»); Infantry — так, Tank — ніколи | [16:33]–[17:27] |
 | Saboteur | GLA | Auxiliary | reset support powers, крадіжка cash у CC, reset таймера superweapon | [20:19]–[20:36] |
 
 ### Важливі деталі по юнітах
@@ -131,7 +131,7 @@
 - **Chinook**: може скинути Dragon Tank («flamer») у базу ворога «if you've got two armies», повні Humvee, Missile Defenders з самого старту, Dozer; дуже швидкий, дає скаутинг [03:37]–[04:00].
 - **Humvee**: апгрейди — TOW, Hellfire drone, дрони, Search and Destroy, завантаження Missile Defenders [06:09]–[06:30]. Без апгрейдів і без Missile Defenders легко гине від Emperor [00:31]–[00:42].
 - **Gattling Tank**: з ECM краще за Humvee, «especially when you corner them against the side of the map» [08:17]–[08:23]; без ECM проти повного Humvee «absolutely spanked» [08:08]–[08:17].
-- **King Raptor**: не означає, що б'є все (приклад з «jaman Kell» — див. Невизначеності) [10:05]–[10:13]; «two of them can pretty much one shot pretty much everything» [10:17]–[10:23].
+- **King Raptor**: S-тір не означає, що він б'є все: «it's not to say that a King Raptor will beat a Jarmen Kell» («jaman Kell» у субтитрах) [10:05]–[10:13]; «two of them can pretty much one shot pretty much everything» [10:17]–[10:23].
 - **Aurora Alpha**: одна Alpha знищує 4 King Raptor, що сіли на Airfield, або купу Humvee разом [11:46]–[11:53]; Alpha на Airfield гине від Rebel Ambush, а в повітрі вб'є Rebel [01:33]–[01:47].
 - **Emperor Overlord**: дешевший за Overlord, має Speaker Tower зверху, дуже повільний; не отримує horde bonus та Autoloader upgrade («autoed upgrade») [13:29]–[13:47]; у лобовому бою з ним краще не зв'язуватися [13:47]–[13:53].
 - **Marauder**: vet 3 (через Pilot? — субтитри «without pilot vet three») з подвійною гарматою («double end» = double gun) — найсильніший танк, імовірно б'є навіть Nuke Overlord [15:44]–[15:55].
@@ -147,7 +147,7 @@
 - Stealth Fighter відкриває Tunnel Network → King Raptors добивають (Twilight Flame) [05:35]–[05:40].
 - Alpha Aurora — карати скупчення (King Raptors на Airfield, згруповані Humvee) [11:46]–[11:53].
 - Не паркувати Alpha Aurora на Airfield поруч з потенційною Rebel Ambush [01:33]–[01:41].
-- Rocket Buggy: добре замікрена Buggy проти порожнього Humvee «kind of wins»; але Buggy, що наскочила на «TNT», марна [24:38]–[24:47].
+- Rocket Buggy: добре замікрена Buggy проти порожнього Humvee «kind of wins»; але Buggy, що наскочила на «TNT» (імовірно TnT — Technicals + Tunnels; нерозбірливо), марна [24:38]–[24:47].
 - Avenger: підсвічувати blue laser ціль для прискорення вогню союзників [22:31]–[22:45].
 - Angry Mob з AK-47: attack-move у базу [24:17]–[24:20].
 - Paladin / Marauder: скидати на лінію Worker GLA [25:12]–[25:24].
@@ -163,7 +163,7 @@
 - GLA: Combat Cycle для дуже далеких нафт [22:50]–[23:05].
 - Bomb Truck — інструмент знищення ворожих нафт (Twilight Flame) [21:33]–[21:35].
 - «No eco» = атака без розвитку економіки (2 Humvee + Ambulance) [06:50]–[06:55].
-- **Продаж Command Center: у відео не згадується.** Єдина згадка CC — Saboteur, який у CC краде cash [20:27]–[20:29].
+- **Продаж Command Center: у відео не згадується** (слів sell / sold / selling у транскрипті немає). Єдина згадка CC — Saboteur, який у CC краде cash [20:27]–[20:29].
 
 ## Матчапи і контри
 - USA vs China vanilla (без double War Factory): double War Factory + empty TOW Humvee спам [06:36]–[06:47].
@@ -191,7 +191,7 @@
 - Використовувати vanilla Raptor проти чогось, крім Supply Truck / конкретних цілей [14:41]–[14:49].
 - Лобовий бій з Emperor Overlord [13:47]–[13:53].
 - Паркувати Alpha Aurora на Airfield під Rebel Ambush [01:33]–[01:41].
-- Rocket Buggy, що «steps on a TNT» — марна [24:38]–[24:42].
+- Rocket Buggy, що «steps on a TNT» (імовірно TnT — Technicals + Tunnels; нерозбірливо) — марна [24:38]–[24:42].
 
 ## Правила для ШІ-агента
 - ЯКЩО обираєш основний юніт для спаму → ТО бери S-тір своєї армії: USA — Humvee (Air Force — також Comanche / King Raptor / Combat Chinook), GLA — Quad Cannon або Technical + Tunnels, China — Gattling Tank (Infantry — Helix з Tank Hunters + Bunker) [25:41]–[26:48].
@@ -204,7 +204,7 @@
 - ЯКЩО граєш USA проти Tank General (Gats + ECM) → ТО будуй Crusaders [09:08]–[09:14].
 - ЯКЩО граєш China vanilla проти Tank General → ТО Battle Master; в інших матчапах — ні [19:41]–[19:56].
 - ЯКЩО граєш GLA → ТО щогри якийсь варіант TnT (Technicals + Tunnels) або Quads + Tunnels; Technicals — проти Humvee [07:11]–[07:15], [14:57]–[15:08].
-- ЯКЩО граєш USA проти GLA у мід-геймі → ТО додай Combat Chinook, завантажений Missile Defenders [11:12]–[11:17], [15:18]–[15:22].
+- ЯКЩО граєш USA Air Force проти GLA у мід-геймі → ТО додай Combat Chinook, завантажений Missile Defenders («suddenly just ends the game») [11:12]–[11:17], [15:18]–[15:22].
 - ЯКЩО граєш USA проти GLA і є generals point на Paladin → ТО будуй Paladin з самого початку і скидай на лінію Worker [25:06]–[25:20].
 - ЯКЩО граєш Air Force проти Tunnel Network GLA → ТО Stealth Fighter ламає тунель, King Raptors одразу добивають [05:35]–[05:40].
 - ЯКЩО граєш Superweapon і маєш Alpha Aurora → ТО бий у скупчення: King Raptors на Airfield, групи Humvee [11:46]–[11:53].
@@ -221,14 +221,19 @@
 - ЯКЩО граєш China Tank General і є вибір Helix → ТО уникай Tank Helix (дорожчий, +5 с білду) [18:43]–[18:58].
 - ЯКЩО граєш China і гра затягується → ТО намагайся закінчити до стадії хакерів; Infantry — роби Hackers, Tank — ніколи [16:52]–[17:07].
 - ЯКЩО граєш Infantry General у пізній грі → ТО повні Outposts + ECM + Inferno Cannon [22:05]–[22:12]; остерігайся USA Pathfinder [19:26]–[19:31].
-- ЯКЩО маєш vet 3 Pilot і Nuke Overlord → ТО посади пілота в Overlord (з Subliminal Messaging — найсильніший танк) [02:11]–[02:27].
+- ЯКЩО маєш vet 3 Pilot і доступ до Nuke Overlord (як USA Pilot потрапляє в China Overlord, у відео не пояснено) → ТО посади пілота в Overlord (з Subliminal Messaging — найсильніший танк) [02:11]–[02:27].
 - ЯКЩО Overlord втратив екіпаж (sniped) → ТО Troop Crawler для повернення [21:12]–[21:14].
 - ЯКЩО граєш USA і потрібна детекція стелсу → ТО не будуй Sentry Drone; використовуй дрон на техніці, satellite scan, Strategy Center [04:41]–[04:52].
 - ЯКЩО граєш GLA з Saboteur → ТО заводь у CC ворога (крадіжка cash), у superweapon (reset таймера) [20:22]–[20:32].
 - ЯКЩО GLA-дзеркало затягнулося або ворог масує піхоту → ТО Angry Mob з AK-47, attack-move у базу [24:08]–[24:22].
+- ЯКЩО оцінюєш силу юніта або складу → ТО не вважай S-тір гарантією перемоги 1v1: враховуй апгрейди і контри (Humvee без апгрейдів і Missile Defenders гине від Emperor [00:31]–[00:42]; одиночний Humvee може загинути від 2 vanilla MiG з Napalm — з опису відео; Gats без ECM програють повним Humvee [08:08]–[08:17]).
+- ЯКЩО граєш USA проти Infantry General у пізній грі або проти маси піхоти → ТО будуй Pathfinder — «pretty much the best anti infantry thing» [19:09]–[19:31].
+- ЯКЩО граєш USA і треба доставити сили або скаутити → ТО Chinook: drop повних Humvee, Missile Defenders з самого старту або Dozer; він швидкий і дає скаутинг [03:42]–[04:00].
+- ЯКЩО граєш USA (не Superweapon з Alpha) і думаєш про Aurora → ТО вона не обов'язкова: «you can probably get by most of Zero Hour without making Aurora» [23:55]–[24:01].
+- ЯКЩО граєш GLA і треба вибити ворожі нафти (напр., Twilight Flame) → ТО Bomb Truck — ситуативний варіант [21:29]–[21:35].
 
 ## Ключові цитати
-- [05:58] "if you can spam just one unit can you win the game with just that one unit" — критерій S-тіру.
+- [06:01] "if you can spam just one unit can you win the game with just that one unit" — критерій S-тіру.
 - [06:58] "Humvees are the most powerful unit just all around" — Humvee — найсильніший юніт гри.
 - [06:41] "spam empty TOWs you pretty much just win the game most of the time" — TOW Humvee спам проти China vanilla.
 - [08:17] "with ECMs the gats become then probably better than the vees especially when you corner them" — Gats + ECM > Humvee.
@@ -247,9 +252,9 @@
 - Hacker: автор вагався (A / B / useless), фінально — Auxiliary [16:33]–[17:27].
 - Troop Crawler: тір прямо не названо, з контексту — A [21:09]–[21:25]. Слово «emps» («rushing firebases or emps») — нерозбірливо (можливо, emplacements) [21:17].
 - Microwave Tank — A, але автор допускає «situational» [14:13]–[14:21], [24:54]–[25:00]; Marauder — можливо нижче через промоцію [25:24]–[25:31].
-- «TNTs» в A-тірі [16:13] — неясно, про який юніт мова (можливо Terrorist або щось інше); також «a buggy steps on a TNT» [24:40].
-- «jaman Kell» [10:10] — ймовірно Jarmen Kell; логіка порівняння з King Raptor незрозуміла.
-- «TFA games» [09:57], [26:12] — абревіатура не розшифрована; «Defcon 3v3» — імовірно мапа Defcon 6.
+- «TNTs» в A-тірі [16:13] — неясно, про який юніт мова (можливо Terrorist; або TnT = Technicals + Tunnels, як у «doing some kind of a TNT» [15:02]–[15:04]); також «a buggy steps on a TNT» [24:40].
+- «jaman Kell» [10:10] — ймовірно Jarmen Kell; приклад лише ілюструє, що S-тір не означає перемогу над кожним юнітом.
+- «TFA games» [09:57], [26:12] — абревіатура не розшифрована (можливо FFA — free-for-all); «Defcon 3v3» — імовірно мапа Defcon 6.
 - «FS the fall» і «Lift Truck» [04:22] — ймовірно, назви турніру/гравця, нерозбірливо; «marar» = Marakar.
 - «Outpost Emperor Emperor are good» [13:22]: опис (дешевший за Overlord, Speaker Tower, без horde bonus / Autoloader) віднесено до Emperor Overlord; твердження про ціну й Autoloader — як сказав автор, не перевірено.
 - Gattling Tank «has the veterancy it's only costing $700» [07:48]–[07:51] — ціна й ветеранство для Tank General зі слів автора.

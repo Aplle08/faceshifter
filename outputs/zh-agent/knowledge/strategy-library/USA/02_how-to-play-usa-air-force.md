@@ -7,19 +7,19 @@
 |---|---|
 | Армія | USA |
 | Генерал(и) | Air Force General (Granger) |
-| Матчап(и) | Air Force vs GLA; vs China (Tank General, Nuke General, Infantry General); vs USA (у т.ч. дзеркало Air Force) |
+| Матчап(и) | Air Force vs GLA; vs China (Tank General, Nuke General, Infantry General); vs USA (генерал ворожої USA не уточнюється) |
 | Режим | переважно 1v1 (чистий King Raptor/подвійний Airfield автор радить радше для team games) |
-| Тип відео | туторіал / білд-ордери (7 білдів) + хоткеї + «магічні числа» King Raptor |
+| Тип відео | туторіал / білд-ордери (8 білдів за розділами відео) + хоткеї + «магічні числа» King Raptor |
 | Рівень | середній / про |
-| Цінність для агента | висока — сім конкретних відкриттів Air Force з хоткеями, порядком апгрейдів, таймінгами, кількостями Raptor на ціль і умовами застосування під матчап |
+| Цінність для агента | висока — вісім конкретних відкриттів Air Force з хоткеями, порядком апгрейдів, таймінгами, кількостями Raptor на ціль і умовами застосування під матчап |
 
 ## Коротко
-- Сім білдів Air Force: Comanche із збереженням CC; Comanche з продажем CC; Combat Chinook rush; King Raptors (тренувальна мапа); carpet bomb + Humvee з Missile Defender проти Tank General; полювання King Raptor на dozer проти Infantry General; War Factory + Airfield проти Infantry; drop + King Raptor проти USA [00:23–31:01].
+- Вісім білдів Air Force (за розділами відео): Comanche із збереженням CC; Comanche з продажем CC; Combat Chinook rush; King Raptors (тренувальна мапа); carpet bomb + Humvee з Missile Defender проти Tank General; полювання King Raptor на dozer проти Infantry General; War Factory + Airfield проти Infantry; drop + King Raptor проти USA [00:23–31:01].
 - Порядок апгрейдів Comanche: **Stealth → Countermeasures → Rocket Pods** [03:34–04:06], [09:55–10:30]. Countermeasures приблизно подвоює живучість проти Quad Cannon / Gattling (~3,5 с → ~7 с) [03:42–04:06].
 - Продаж CC в Comanche-білді дає +1000 і більше юнітів раніше: на 2:30 вже 5 Comanche і ще один у черзі [08:23–08:30], [10:32–10:49]. CC відбудовують, коли безпечно [10:45–10:49].
-- «Магічні числа» King Raptor: 4 вбивають GLA supply (зі знищенням «hole»), 3 збивають його до «hole», 3 вбивають China supply (автор не певен) і China power, 2 вбивають USA power. З Fortified Structure у GLA числа інші [17:20–17:51].
+- «Магічні числа» King Raptor: 4 вбивають GLA supply (зі знищенням «hole»), 3 збивають його до «hole» («I think»), 3 вбивають China supply («I believe») і China power, 2 вбивають USA power. З Fortified Structure у GLA числа інші [17:20–17:51].
 - Ворожі oil derrick треба знищувати будь-якою ціною: заради цього не шкода втратити навіть близько 6 Raptor [18:10–18:29].
-- Головна помилка гравців Comanche — лізти в бій без Countermeasures, погано мікрити Chinook і битися зарано. Краще піти на base trade, набрати veterancy й тоді вступати в бій [06:58–07:12].
+- Головна помилка гравців Comanche — лізти в бій без Countermeasures, погано мікрити й битися зарано. Краще піти на base trade, набрати veterancy й тоді вступати в бій [06:58–07:12].
 - Трюк: Rocket Pods (R), а одразу після цього G (Guard), — ракети розподіляються по всіх ворогах у зоні, наприклад по групі Quad Cannon [07:38–07:59].
 
 ## Стратегії та білд-ордери
@@ -27,8 +27,8 @@
 ### Вибір мапи для Comanche
 - Потрібні відкриті простори, велика відстань до суперника й бажано без bunker біля своєї бази: інакше GLA висадить tunnel, посадить RPG у bunker і підкріпить Quad Cannon [00:25–00:44].
 - Добре підходять мапи з двома supply і великою відстанню («Gold Cobra» за субтитрами) і Forgotten Ruins [00:46–00:58].
-- Маленькі мапи на кшталт «Jungle Wolf» (за субтитрами) погані: bunker у центрі гарантовано забере GLA, і є bunker поряд із твоєю базою [00:58–01:08].
-- Liquid Gold: Comanche-білд можливий (два повні supply), але коли на мапі багато грошей, Comanche мають швидко зривати oil grab. На таких мапах автор сам радше йде в eco boom і Humvee [01:08–01:25].
+- Маленькі мапи на кшталт «Jungle Wolf» (за субтитрами) погані: bunker у центрі гарантовано забере GLA, і є bunker поряд із твоєю базою. Хоч там і два повні supply, Comanche-білд «probably wouldn't work as well» [00:58–01:10].
+- Liquid Gold: Comanche-білд «could probably do it there», але коли на мапі багато грошей, Comanche мають швидко зривати oil grab. На таких мапах автор сам радше йде в eco boom і Humvee [01:08–01:25].
 - Плюс: невеликі crate (купки supply), куди можна поставити різні Chinook, щоб збирати швидше. China з такими crate важче [01:27–01:42], [08:52–08:59].
 
 ### Білд 1 — Comanche, CC зберігається (розділ «Commanches keep CC»)
@@ -37,7 +37,7 @@
 2. Другим dozer — **R** (Power Plant) якомога ближче до dozer, «на сантиметр поряд» [01:47–01:53].
 3. Drone на базу ворога + scan [01:55].
 4. **H** — камера на CC («H for home»). Звідти **U** (Supply Center) [01:57–02:11].
-5. Power добудується першим. Щойно Supply Center готовий, натискай **C** (Chinook) і будуй Airfield. C не натискай завчасно: на недобудованій будівлі C означає Cancel [02:22–02:37].
+5. «this one's gonna finish first» (імовірно power, яку заклали раніше). Щойно Supply Center готовий, натискай **C** (Chinook) і будуй Airfield. C не натискай завчасно: на недобудованій будівлі C означає Cancel [02:22–02:37].
 6. Контрольні групи: Chinook на 0 і 9 (щоб відвести їх під атакою), dozer на 6 і 5 [02:39–02:51].
 7. Dozer — на розвідку проти агресивного worker, наприклад GLA, що ставить tunnel: розчавити й повернутися [02:59–03:11]. Відчуваєш тиск — не бійся ставити **Firebase (I)** [03:11–03:18].
 8. **C** на Airfield — Comanche. Waypoint на точку збору; вибрати одного й двічі натиснути **E**, щоб виділити обидва, і йти полювати по мапі [03:21–03:32].
@@ -76,7 +76,7 @@
 - Цілі:
   - Проти GLA, якщо він не чекає, — одразу Arms Dealer [11:55–11:57].
   - Проти USA — power і обидва dozer [12:27–12:33].
-  - Combat Chinook стріляє автоматично, можна заходити з тилу [12:39–12:46].
+  - Combat Chinook стріляє автоматично: можна заходити з тилу й вибивати ворожі Chinook, що збирають supply [12:37–12:46].
 - Проти GLA: візьми із собою ще й supply-Chinook. Він прийме частину пострілів RPG і відволіче Quad. Заводь обидва, бий Arms Dealer і Quad, що з нього виходить, — найімовірніше виграєш гру [12:46–13:12].
 - Ризик: сильні гравці USA зіб'ють Chinook через laser lock. Високий ризик — висока винагорода [12:00–12:07]. Проти Avenger чи Humvee тебе рятує швидкість [12:33–12:37].
 
@@ -86,7 +86,7 @@
 1. Airfield — хоткей **F** [14:43–14:45]. Для чистих King Raptor Airfield на групах 9 і 0 [14:46–14:53].
 2. Одразу King Raptor у черзі [14:57].
 3. Готовий Raptor — у групу 1 і вперед [15:18–15:21]. Завжди тримати наступні Raptor готовими [15:28–15:34], [15:50–15:52].
-4. Тренувати split fire. Знищувати oil, яку AI швидко бере [15:36–15:47].
+4. Тренувати split fire («Spitfire» у субтитрах). Знищувати oil, яку AI швидко бере [15:36–15:47]. Бити недобудовані будівлі, наприклад tunnel, — denial [16:04–16:07]. Пошкодженого Raptor відводити («we're gonna save that Raptor») [16:09–16:12].
 5. Обидва Airfield заповнені — будувати наступний Airfield [16:22–16:26].
 6. 4 King Raptor на GLA supply, тоді waypoint назад уздовж краю: «дуже хороше місце для польоту Air Force» [16:42–16:55].
 7. Людина одразу почне відбудовувати supply: стріляй по ньому (force fire або звичайною атакою), і відбудову буде скасовано [16:55–17:07].
@@ -184,7 +184,7 @@
 - **TOW** на Humvee — у білді проти Infantry [27:59], [28:12].
 - **Search and Destroy** — показує базу ворога й дає Humvee дальність, щоб outrange-ити Gattling [21:49–22:03].
 - **Carpet bomb** — у білдах 5 і 6 [19:57], [22:16–22:31], [25:08–25:12].
-- **Combat Chinook** — 8 місць (1 Ranger + 7 Missile Defender), стріляє автоматично [11:35–11:39], [12:44–12:46].
+- **Combat Chinook** — у білді на нього ставлять у чергу 8 піхотинців з Barracks (1 Ranger + 7 Missile Defender); стріляє автоматично [11:35–11:39], [12:44–12:46].
 - **King Raptor** — Point Defense Laser тримає його живим [15:57]. Пріоритетні цілі: dozer, Outpost, Chinook, power, oil [24:37–24:41], [30:11–30:17], [18:10–18:21].
 - **Comanche з veterancy** стають «шалено сильними» [06:51–06:55].
 - **Colonel Burton** — ріже ножем, коли у ворога немає детекції (Outpost чи Assault Troop Crawler) [25:39–25:44].
@@ -227,19 +227,20 @@
 - **Мапи з великою кількістю oil:** автор радше йде в eco boom + Humvee [01:20–01:25].
 - **Енергія:** при розширенні на Raptor вчасно ставити ще power, інакше забракне [17:07–17:13].
 - **Продаж supply** як вимушений крок, коли базу не втримати: продати supply, поставити новий power деінде й перенести базу [06:35–06:43].
-- **Дешевий Missile Defender замість маси:** «couple … doesn't need to be a crazy amount» [29:07–29:10], «not loads» [20:33–20:35].
+- **Missile Defender — небагато, без маси:** «couple … doesn't need to be a crazy amount» [29:07–29:10], «not loads» [20:33–20:35].
 
 **Продаж Command Center — усі згадки:**
 - [00:23] (назва розділу «Commanches keep CC»). У білді 1 CC **не продають**. Варіант для меншого ризику: Comanche-білд із збереженням CC.
 - [08:04] (назва розділу «Commanches sell CC») / [08:23] "this time we're going to sell the CC so it's a bit of a risk" / [08:27–08:30] "you're gonna be able to get more units out quicker that's why you're selling it you get an extra 1000". Хто: Air Force у Comanche-білді. Коли: після замовлення dozer (D), закладки power і drone, повернувшись на CC (H), до Airfield. Навіщо: +1000 і більше Comanche раніше. Таймінги радить відпрацювати з таймером GenTool [08:33–08:40].
-- [09:19–09:26] "so that cost eight hundred dollars your CC cost a thousand so you've actually still saved 200 overall". Гроші від продажу CC покривають витрату в 800 (додатковий Airfield / Comanche), і ще лишається 200.
+- [09:19–09:26] "so that cost eight hundred dollars your CC cost a thousand so you've actually still saved 200 overall". Сказано одразу після «instantly Comanche and another Airfield». Гроші від продажу CC (+1000) покривають витрату в 800 (що саме коштує 800, не уточнено), і ще лишається 200.
 - [10:40–10:49] "you will have more than if you get the CC … you can rebuild your CC at any moment when you know you are in safety". Результат: на 2:30 5 Comanche + 1 у черзі. Виняток / повернення: CC відбудовують, коли безпечно.
-- [20:19–20:22] "Barracks sell CC". Білд carpet bomb проти Tank General: CC продають одразу після Barracks, перед War Factory, з одним supply.
+- [20:20] "Barracks sell CC". Білд carpet bomb проти Tank General: CC продають одразу після Barracks, перед War Factory, з одним supply.
 - [23:12] "sell the CC". Білд hunt-infantry проти Infantry General: продають на старті, з одним supply, перед Airfield.
 - [25:05–25:08] "you hoping he sold this CC as well". Тактична причина полювати на dozer: якщо ворог теж продав CC, втрата dozer позбавляє його відбудови.
 - [26:27] "I'm gonna sell the CC". Білд War Factory + Airfield проти Infantry: продають на старті, після drone, далі два supply.
 - [30:20–30:26] "if you did feel like you were gonna get really heavily dropped in the beginning you could have sold a cc". У білді проти USA CC за замовчуванням **залишають**. Продати варто лише тоді, коли чекаєш важкого раннього drop: гроші — на багато піхоти + Firebase.
 - Коли CC залишають: білд 1 (Comanche keep CC), Combat Chinook rush і King Raptors (продаж не згадується), білд проти USA (якщо не загрожує важкий drop).
+- Не плутати: [06:37] "you could sell that Supply" — це продаж **Supply Center**, а не CC (вимушене перенесення бази в Comanche-білді, див. «Економіка»).
 
 ## Матчапи і контри
 - **Air Force vs GLA:**
@@ -262,7 +263,7 @@
 
 ## Типові помилки
 - Вступати в бій Comanche без Countermeasures [07:01–07:03], [04:02–04:06].
-- Неправильно мікрити Chinook («not pulling the [Chinooks] correctly»), загалом погане мікро [07:03–07:07].
+- Неправильно відводити юнітів («not pulling the shoes correctly» у субтитрах, імовірно Chinook-приманку або Comanche), загалом погане мікро [07:03–07:07].
 - Битися зарано. Вигідніше base trade, набрати veterancy й тоді битися [07:07–07:12].
 - Застрягати в атаці на tunnel + bunker біля власної бази замість гри на ворожій половині [04:10–04:19].
 - Накопичувати гроші замість безперервного виробництва Comanche [05:21–05:25].
@@ -305,8 +306,11 @@
 - ЯКЩО ворог Tank General на двох supply → ТО можна (не рекомендовано автором) зробити один supply, Barracks, продаж CC, War Factory, 3 Missile Defender, Strategy Center (Y), Humvee з Missile Defender, Search and Destroy і carpet bomb по supply / War Factory / truck [19:57–22:39].
 - ЯКЩО ворог грає на Gattling → ТО блокуй проходи в базу будівлями (Sim City) і не пускай фланг у тил [20:38–20:46], [21:44–21:49].
 - ЯКЩО carpet bomb-білд іде погано («ropey») → ТО скасуй частину Missile Defender і постав Firebase з Missile Defender [22:06–22:14].
+- ЯКЩО маєш єдиний Humvee з Missile Defender проти Gattling → ТО бий з дистанції після Search and Destroy (outrange) і не втрачай його: це кінець білда [21:28–21:35], [21:59–22:03].
+- ЯКЩО carpet bomb убив лише supply чи truck і пошкодив будівлі → ТО одразу добивай Humvee під Search and Destroy, поки ворог не відновився [22:27–22:39].
 - ЯКЩО ворог Infantry General на двох supply без all-in на Troop Crawler → ТО продай CC. Перший King Raptor (T, раніше за Flash-Bang) — на Outpost і dozer. Далі carpet bomb по War Factory, Raptor по Barracks, Colonel Burton добиває [22:52–25:48].
-- ЯКЩО ворог Infantry і в нього може бути агресивний War Factory + Assault Troop Crawler → ТО не йди в один supply: два supply, War Factory + Airfield, Humvee з TOW, Firebase [26:32–28:12].
+- ЯКЩО ворог Infantry на двох supply, а агресивний War Factory + Assault Troop Crawler малоймовірний (на цій мапі рідкісний) → ТО безпечніший варіант замість одного supply: drone, продаж CC, два supply, War Factory + Airfield, 1 King Raptor на Outpost і dozer, Humvee з TOW, Firebase [26:13–28:12].
+- ЯКЩО ворог Infantry йде в агресивний all-in на Troop Crawler → ТО білди з одним supply (hunt infantry) не підходять: від такого all-in «hard to defend regardless» [22:58–23:04].
 - ЯКЩО Infantry йде на oil capture → ТО Humvee туди зірвати захоплення [27:29–27:39].
 - ЯКЩО маєш King Raptor, а у ворога truck → ТО split fire, щоб вбивати по два truck [28:25–28:31].
 - ЯКЩО ворог USA → ТО не панікуй. Barracks першим, supply, пара Missile Defender, Airfield, drop. Після висадки Missile Defender laser-lock-ять Chinook. Далі King Raptor (T) по Chinook, dozer і power [28:44–30:17].
@@ -339,6 +343,7 @@
 - [09:19] «that cost eight hundred dollars» — не уточнено, що саме коштує 800 (Comanche, Airfield чи їх сума на екрані). «your CC cost a thousand» — ймовірно, мається на увазі сума від продажу CC (+1000), а не повна ціна CC.
 - [11:41] «as soon as that wall factory is ready … press T … combat Chinook»: у субтитрах «wall factory» (War Factory?), але з якої будівлі будується Combat Chinook, із відео не ясно. [загальне знання, не з відео: у грі Combat Chinook зазвичай виробляється на Airfield / Supply Center — перевірити.]
 - [12:24] «it'll take a while for this one to fill because you've only gone for two Chinooks» — ймовірно, другий Combat Chinook довго наповнюється піхотою через слабку економіку.
+- [07:03–07:05] «they're not pulling the shoes correctly» — «shoes» нерозбірливо: імовірно Chinook (приманка з [06:05–06:19]) або Comanche.
 - [13:08] «Target the arms theater and the quad inside of it» — розшифровано як Arms Dealer і Quad, що з нього виходить; точний сенс неясний.
 - [15:48], [16:35] «laser defense is ready» — схоже на голосову репліку юніта, не на апгрейд. [17:39–17:44] «I went low power but because I upgraded that it's ready» — нерозбірливо.
 - [17:35] «four Raptors to kill that» — ціль не названо. «45 structure» [17:46] розшифровано як Fortified Structure.

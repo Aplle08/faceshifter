@@ -16,9 +16,9 @@
 ## Коротко
 - На Defcon 6 FFA кутові позиції добрі, середні погані: вони малі, і їх зазвичай атакують, часто 2v1. Кути атакують середину [01:26–01:46], [12:52–13:05].
 - Протягом перших 5–10 секунд розвідай обох сусідів і за їхньою поведінкою вибери білд. Якщо обидва агресивні, переходь в «ultra defensive mode». Якщо обидва середнього рівня, роби великий eco boom [02:13–03:18].
-- USA: Dozer → power → Spy Drone (scan обох сторін) → Supply → Barracks (2 Missile Defender, 2 Ranger, Capture) → oils одразу після Capture. Далі або Supply в центрі з додатковим Chinook (якщо сусіди пасивні), або War Factory + Firebase (якщо агресивні). Потім Strategy Center → Supply Lines (U) → Search & Destroy з повністю завантаженими Humvee [03:18–07:13].
+- USA: Dozer → power → Spy Drone (scan обох сторін) → Supply → Barracks (2 Missile Defender, 2 Ranger, Capture) → oils одразу після Capture. Далі або Supply в центрі з додатковим Chinook (якщо сусіди пасивні), або War Factory + Firebase (якщо агресивні). Потім Strategy Center → Supply Lines (U) + battle plan Search & Destroy → пуш повністю завантаженими Humvee [03:18–07:13].
 - GLA: 5 Worker (K×5), fake Barracks → real (B), fake Arms Dealer → real, 1 Rebel → Capture (C) → oils, Quad Cannon постійно в черзі, Tunnel (N) біля працівників. Arms Dealer можна відкласти лише проти слабких сусідів [13:13–17:42].
-- China: Barracks першим → 4 Tank Hunter → War Factory → Red Guard, Bunker на всіх входах, перший Gattling Cannon проти раннього Combat Chinook / Helix rush. Далі Supply, Propaganda Center, 2–3 Supply Truck на Supply. Проти USA — MiG + Napalm [24:01–27:21].
+- China: Barracks першим → 4 Tank Hunter → War Factory → Red Guard, Bunker на всіх входах, перший Gattling Cannon проти раннього Combat Chinook / Helix rush. Далі Supply і 2–3 Supply Truck на Supply; якщо серед сусідів нема USA — Propaganda Center, а якщо є USA — MiG + Napalm [24:01–27:21].
 - Скрізь діє одне правило розташування: CC, електростанції, Supply Drop Zone, Black Market, Strategy Center і Particle Cannon став біля країв і кутів карти. CC став ближче до краю або входу, щоб support powers прилітали миттєво [08:13–09:49], [11:49–12:12], [18:30–18:37].
 - Ніколи не витрачай усе до копійки, але й не вкладай усе у вторинну економіку, коли тебе от-от продавлять. Постійно виробляй армію: у GLA тримай повний Tunnel плюс другу армію [07:56–08:04], [10:30–11:30], [21:18–22:00].
 
@@ -29,7 +29,7 @@
   - заборонено: Aurora (і Alpha, і звичайна), «nuke mix» (ймовірно, Nuke MiG), demo bikes, demo upgrade [00:52–00:58];
   - супер-зброя заборонена, якщо ти не Superweapon General [00:58–01:01];
   - зазвичай дозволено один Particle Cannon, але автор інколи забороняє і його, бо вважає overpowered [01:01–01:05];
-  - China (Tank) може будувати ракетну шахту заради апгрейду швидкості танків, але Neutron Shells для Nuke Cannon зазвичай заборонені як overpowered [01:05–01:17], [30:51–31:01];
+  - China (автор каже «if you are tank in China») може «upgrade some super weapons», тобто брати апгрейд швидкості танків, але Neutron Shells для Nuke Cannon зазвичай заборонені як overpowered [01:05–01:17], [30:51–31:01]. Що ці апгрейди досліджуються в шахті Nuclear Missile — [загальне знання, не з відео];
   - деякі хости дозволяють neutrons, тож уточнюй правила в хоста [01:21–01:24], [30:53–31:01].
 
 ### Вибір позиції
@@ -41,7 +41,7 @@
 - Коли застосовувати: FFA на Defcon 6 із сусідами середнього рівня. Виняток: якщо сусід Air Force і йде в Raptors, можливо, доведеться all-in rush його [01:59–02:06].
 1. Dozer + Power Plant [02:13–02:17].
 2. Одразу Spy Drone і scan обох сусідів (працює для всіх USA). Протягом перших 5–10 с вибери білд [02:17–02:26].
-3. Supply Center, одразу за ним Barracks [03:18–03:25].
+3. Supply Center, одразу за ним Barracks [03:18–03:25]. Ціль на найближчий час: по одній обороні на обох входах і обидва бункери біля бази зайняті [03:25–03:33].
 4. З Barracks: 2 Missile Defender, 2 Ranger і апгрейд Capture Building, хоткей C («Immediately press C on that») [03:33–03:41].
 5. Розвилка за результатом scan:
    - сусіди середні / повільні / неагресивні → «greedy»: друга Supply Center у центрі карти, і вже з неї постав у чергу ще один Chinook. Збирай з центру [03:41–04:05];
@@ -50,13 +50,13 @@
 7. Щойно Capture дослідився, одразу захоплюй oils [04:36–04:42].
 8. До «oil boom» нічого великого не роби. Коли є дві Supply і oils, береш War Factory. Oils дають 2,000, і це приблизно оплачує War Factory [04:44–05:01].
 9. Розстав Missile Defender по позиціях (одного туди, звідки може прийти Dragon Tank) або посади в бункери, якщо не хочеш їх мікрити [05:01–05:20].
-10. Нарощуй кількість Humvee. Орієнтир у банку близько 2,500, якщо черги в War Factory і Barracks заповнені [05:22–05:32].
+10. Нарощуй кількість Humvee. Орієнтир у банку близько 2,500, якщо черги в War Factory і Barracks заповнені [05:22–05:32]. Автор пов'язує цю суму зі швидким Strategy Center («cuz ... you also want to build a strat quite quick»); що Strategy Center коштує саме 2,500 — [загальне знання, не з відео].
 11. Strategy Center будуй досить швидко [05:32–05:43].
 12. Drones на Humvee. Мета: 3 повністю завантажені Humvee + Ambulance [05:47–05:58].
-13. У Strategy Center одразу Supply Lines (хоткей U). За словами автора, це +10% з oils і +10% з кожного Chinook drop-off. Друге важливе дослідження — Search & Destroy [06:41–06:55].
+13. На Strategy Center тисни D («when you hit D on this»; ймовірно, вибір battle plan Search & Destroy) і бери два найважливіші апгрейди. Миттєво — Supply Lines (хоткей U). За словами автора, це +10% з oils і +10% з кожного Chinook drop-off. Другий з двох апгрейдів у субтитрах не названо [06:41–06:55].
 14. З Search & Destroy USA «massively in a strong position»: пуш S&D Humvee, які дальністю перевершують навіть Tunnel [06:55–07:13].
 15. Якщо забрав позицію сусіда, експандуйся туди Rangers, швидше через Chinook Combat Drop. Займи його бункери (мінімум по одному Missile Defender у кожен) [07:15–07:47].
-16. Постав там Supply і збирай, удома постав у чергу ще один Chinook. Візьми апгрейд електростанції (автор каже, що мав би робити це частіше) [07:47–07:56].
+16. Якомога швидше постав там Chinook збирати («put that collecting on there»), а вдома постав у чергу ще один Chinook. Візьми апгрейд електростанції (автор каже, що мав би робити це частіше) [07:44–07:56]. Тим часом продовжуй виробництво вдома й дивись Intelligence, хто найбільша загроза [07:33–07:40].
 17. Потім Firebase на ключових підходах. Supply Drop Zone, електростанції, Strategy Center і Particle Cannon став по краях карти [08:05–08:10], [09:24–09:49], [11:49–12:12].
 - Ознака успіху: S&D Humvee пушать і продавлюють сусідів. «If you watch most of my games, most of the time it works out nicely» [05:37–05:43], [06:55–07:13].
 - Варіації за генералом: Superweapon будує переважно EMP (EMP Patriot) замість Firebase, але їм потрібна енергія. Laser будує Laser Turret, вони теж дуже добрі. Firebase — одна з найкращих оборон у грі, і енергії вона не потребує [12:14–12:28].
@@ -78,18 +78,18 @@
 13. Один Rebel захоплює обидва oil [17:21–17:23].
 14. Palace став трохи вглиб бази, не на фронті, бо Humvee можуть його вбити [17:43–18:00].
 15. Ще кілька Worker на купи [18:00–18:01].
-16. Fortified Structure (у субтитрах «45 structure»), коли багато грошей, а одразу після нього Black Market, по два за раз [19:15–19:24].
-17. Друга Arms Dealer, коли є гроші, рознесена від першої [18:40–18:57].
+16. Друга Arms Dealer, коли є гроші, рознесена від першої [18:40–18:57]. Rebel захоплює Oil Refinery в центрі [19:09–19:15].
+17. Fortified Structure (у субтитрах «45 structure»), коли багато грошей, а одразу після нього Black Market, по два за раз [19:15–19:24].
 18. Stinger Site для безпеки (проти Helix і повітря) і біля oils проти Colonel Burton [19:41–19:55], [20:09–20:12].
 19. Combat Cycle, Jarmen Kell. На цьому етапі тримай у банку близько 2.5–3.5k [19:57–20:07], [20:15–20:18].
-20. Апгрейди: Worker Shoes перший («always the best upgrade in the game»). Далі апгрейд під армію: Quad Cannon / Battle Bus, а проти Humvee — Rocket Buggy [20:45–21:06].
+20. Апгрейди: Worker Shoes перший («always the best upgrade in the game»). Далі апгрейд під армію: Quad Cannon / Battle Bus, а проти Humvee — Rocket Buggy [20:45–21:06]. Коли грошей дуже багато, можна брати взагалі всі апгрейди [22:04–22:11].
 - Варіант «eco boom» (лише якщо всі в грі слабкі й тебе точно не зарашать): повністю відклади Arms Dealer і на старті одразу будуй Supply + Supply [16:13–16:33]. Сильні FFA-гравці (Pablo, Shaye) роблять масивний eco boom, коли вважають, що з боків не нападуть [16:51–17:03].
 - Чому за замовчуванням Arms Dealer: від truck rush з Battlemaster Arms Dealer дає Scorpion і Technical для контр-харасу; так само при Dozer rush від USA [16:33–16:51].
 
 ### GLA — ранній харас слабкого сусіда
 - Коли застосовувати: сусід «beginner-esque», наприклад USA, який не зайняв бункер позаду [15:07–15:16].
 1. Посади 2 RPG у бункер, висади Worker, за бункером збудуй Tunnel і починай харас [15:16–15:26].
-2. Атакуй щонайменше з Quad + Technical + RPG («at least go in with something like this») [15:02–15:07].
+2. Заходь хоча б невеликим загоном («at least go in with something like this»; склад видно лише на екрані, за контекстом це Quad, Technical і RPG) [15:02–15:07].
 3. Якщо вбити його не вийде, але хочеш послабити на майбутнє, вбивай його oils. Частина oils досяжна з бункера, частина ні: карта не ідеально збалансована [15:36–16:04].
 4. Якщо продавив сусіда Quad'ами, зроби Combat Cycle і швидко забери його oil. Combat Cycle — «probably one of the fastest or the fastest ground unit» [18:06–18:19].
 - Обережно: якщо Technical атакує чиюсь базу, ти, ймовірно, починаєш з ним війну. Розвідка через центр рідше провокує «World War III» [14:18–14:35].
@@ -118,7 +118,8 @@
 15. CC, що прикриває oils, близько до краю карти [27:25–27:38].
 16. Армія: Listening Outpost + Gattling Tank (для будь-якого China до Overlord), плюс трохи ECM Tank [27:42–28:00].
 17. Мін-поля на будівлях клавішею L [28:06–28:10].
-18. Internet Center позаду, у черзі кілька Hacker [29:01–29:06]. Пізніше Hacker групами по 3–4 біля Gattling Cannon по всій тильній частині бази [31:03–31:41].
+18. Internet Center позаду, у черзі кілька Hacker [29:01–29:06]. Навколо Internet Center можна ставити ще Barracks (так у субтитрах), а на тильні будівлі — Land Mines проти Jarmen Kell [29:37–29:51]. Пізніше Hacker групами по 3–4 біля Gattling Cannon по всій тильній частині бази [31:03–31:41].
+- Електростанції ставити позаду бази [30:22–30:28]. Nuclear Missile (якщо дозволено) — подалі від армії [30:28–30:51].
 19. На цьому етапі автор уже мав би близько 5 Dozer («five doses»), а кожна Supply має збиратися двома Truck [31:56–32:01].
 - Infantry General (складніший білд): Bunker і Minigunner дорожчі, будуються по одному й довше. Тому Infantry робить «attack outpost» (Outpost) → Minigunner, а першим юнітом кілька Tank Hunter. Коли перший Outpost вийшов із 6–8 бійцями всередині, постав у чергу 1 Minigunner і Capture [25:28–25:54].
 - Якщо сусіди «noobs»: кілька Supply одразу й навіть пізня War Factory [24:17–24:31].
@@ -133,9 +134,9 @@
 | Humvee | USA | 3 повністю завантажені + Ambulance; drones на Humvee; для S&D завантажуй повністю, а не по 1–2 MD | [05:47–06:41] |
 | Strategy Center | USA | будуй рано, біля краю карти | [05:32–05:34], [11:49–12:02] |
 | Supply Lines | USA | хоткей U, брати «instant»; +10% oils і +10% за Chinook drop-off (за словами автора) | [06:41–06:55] |
-| Search & Destroy | USA | після нього USA «massively in a strong position»; S&D Humvee перевершують дальністю Tunnel | [06:55–07:13] |
+| Search & Destroy (battle plan Strategy Center) | USA | після нього USA «massively in a strong position»; S&D Humvee перевершують дальністю Tunnel | [06:55–07:13] |
 | Intelligence (Strategy Center) | USA | використовуй, щоб бачити карту й оцінювати найбільші загрози | [07:36–07:40] |
-| Power upgrade (Cold Fusion Reactor) | USA | брати; автор визнає, що робить це рідко | [07:52–07:56] |
+| Power upgrade (у Cold Fusion Reactor; назва Control Rods — [загальне знання, не з відео]) | USA | брати; автор визнає, що робить це рідко | [07:52–07:56] |
 | Drone Armor | USA | дешевий апгрейд, міцність дронів | [10:04–10:07] |
 | Firebase | USA | «one of the best defenses in the game», енергія не потрібна, стелс НЕ бачить | [10:26–10:28], [12:24–12:28] |
 | EMP (Superweapon) / Laser Turret (Laser) | USA | замінники Firebase у цих генералів; EMP потребує енергії | [12:14–12:24] |
@@ -151,7 +152,7 @@
 | Black Lotus / Super Lotus | China | хоткей B, а S для Super Lotus | [28:01–28:03] |
 | Land Mines | China | клавіша L на будівлях; на тильних будівлях проти Jarmen Kell | [28:06–28:10], [29:39–29:58] |
 | Апгрейд для Speaker Tower / Overlord із Propaganda Tower | China | «really good upgrade» навіть з одним Overlord; для Nuke «one of the best upgrades in the game» (назва не звучить) | [28:13–28:21] |
-| Nuclear Reactor Overcharge | China | при low power вмикай overcharge; R вмикає/вимикає; не дай реактору загинути | [28:24–28:38], [28:56–29:01] |
+| Nuclear Reactor Overcharge | China | при low power вмикай overcharge; ймовірно, R вмикає/вимикає; не дай реактору загинути | [28:24–28:38], [28:56–29:01] |
 | Internet Center / Hacker | China | позаду; double-tap E виділяє всіх Hacker; X кілька разів розсіює купу | [29:01–29:06], [30:09–30:15], [31:03–31:29] |
 | «Radar» (Internet Center) | China | важливий апгрейд, «you can see the whole map» | [30:17–30:20] |
 | Nuclear Missile (шахта) | China | видима всім (shroud навколо), будуй далеко від армії; Neutron Shells зазвичай заборонені | [30:28–31:01] |
@@ -174,7 +175,8 @@
 | D / R | Dozer / Power Plant | China | [23:31–23:34] |
 | B / S | Black Lotus / Super Lotus | China | [28:01–28:03] |
 | L | Land Mines на будівлі | China | [28:06–28:10] |
-| R | Overcharge Nuclear Reactor (увімк./вимк.) | China | [28:56–29:01] |
+| R | ймовірно, Overcharge Nuclear Reactor (увімк./вимк.); фраза «Hotkey for that is R» стоїть між порадою вимкнути overcharge і Internet Center | China | [28:56–29:01] |
+| D | на Strategy Center: ймовірно, battle plan Search & Destroy | USA | [06:41–06:42] |
 | E (подвійне натискання) | виділити всіх юнітів цього типу на карті | будь-яка | [30:09–30:15] |
 | X (кілька разів) | розсіяти групу (scatter) | будь-яка | [31:10–31:25] |
 
@@ -183,7 +185,9 @@
 - Якщо поруч Tunnel чи Stinger ворожого GLA (біля купи, з якої збираєш), або знищ його, або переведи Chinook на купу без ППО. На кожній купі тримай по одному Chinook [05:58–06:11].
 - Missile Defender, яких не хочеш мікрити, саджай у бункери [05:17–05:20].
 - Не бійся повністю заповнити білий (нейтральний) бункер, а на певній позиції ще й інший. Два повні бункери + Firebase на лівому фланзі — «really strong starting point» [11:30–11:49].
-- Друга CC у USA: support power, викликана з бокової панелі, «природно» прилітає від найближчого краю. Якщо ж виділити конкретну CC і викликати з її меню, сила прилетить від цієї CC (Carpet Bomb, A-10) [12:28–12:48].
+- Друга CC у USA: support power, викликана з бокової панелі, прилітає «природним» шляхом, з місця за замовчуванням (автор показує його на екрані). Якщо ж виділити конкретну CC і викликати з її меню, сила прилетить від цієї CC (Carpet Bomb, A-10) [12:28–12:48].
+- USA: завжди тримай принаймні одну групу армії (автор показує групу Humvee) і збільшуй її з плином гри. GLA: завжди повний Tunnel [11:02–11:13].
+- FFA-нюанс: велика оборона робить тебе помітним і привертає увагу. Якщо цього не боїшся, сміливо став оборону [18:23–18:30].
 - Jarmen Kell у ворога: Firebase стелс не бачить, тож постав біля неї детектор (автор каже «drone nest», ймовірно Spy Drone), і Firebase його вб'є [10:22–10:28]. China: Outpost, Gattling і Land Mines навколо тильних будівель знайдуть Jarmen і захистять Dozer [29:37–30:09].
 - Dozer China йде в центр з двома юнітами-супроводом на випадок Hijacker [26:53–27:00].
 - Hacker не тримай однією купою: групи по 3–4 біля Gattling Cannon, а купу розсіюй через X [31:03–31:41].
@@ -196,11 +200,11 @@
 - GLA: 5 Worker на старті, далі ще 3. Worker у центр, ліворуч і праворуч. Якщо ніхто не йде в центр, бумуй і там. Біля віддалених Worker постав Tunnel проти танкового харасу [13:13–13:50], [17:03–17:19].
 - GLA: Rebel захоплює і Oil Refinery в центрі [19:09–19:15]. Black Market будуй по два за раз, після Fortified Structure, біля країв карти [18:30–18:37], [19:15–19:24], [23:02–23:07].
 - China: 2 Supply Truck на Supply, 3 якщо купів багато. Згодом кожна Supply на двох Truck і близько 5 Dozer. Додаткова Supply в центрі, якщо туди ніхто не йде [26:25–26:30], [29:11–29:13], [31:56–32:01].
-- China: Nuclear Reactor Overcharge при low power, але вимикай його вчасно, щоб реактор не загинув (R) [28:24–29:01].
+- China: Nuclear Reactor Overcharge при low power, але вимикай його вчасно, щоб реактор не загинув (ймовірно, R) [28:24–29:01].
 - Скільки тримати в банку: USA близько 1,000 на ранню другу Firebase [04:29–04:36], далі близько 2,500 за повних черг [05:25–05:32]; GLA на середній стадії близько 2.5–3.5k [20:01–20:07]. «Rarely do you want to be spending every single penny» [07:56–08:04], [19:34–19:41], [29:06–29:11].
 - Вторинна економіка (Supply Drop Zone, Black Market): ховай біля країв, щоб ворогу довелося обходити всю карту. Якщо тебе от-от продавлять, скасовуй її й вкладай усе в армію: «There's no point having secondary economy if you can't defend it» [09:34–09:49], [10:47–11:02].
 - Захоплення позиції слабкого сусіда (oils, земля, гроші) дає більшу й швидшу віддачу, ніж повний Internet Center [29:20–29:35].
-- Продаж Command Center: явних згадок у відео немає. Є одна неоднозначна фраза в GLA-опенінгу: «The one worker left, one worker right. Sell that.» [13:42–13:44]. Об'єкт продажу не названо (CC не згадується), тож вважати це продажем CC не можна, див. «Невизначеності». В інших місцях CC лише будують: USA — біля краю карти чи входу заради швидких support powers [08:13–09:22]; GLA — на вході заради Anthrax Bomb [20:24–20:43] або вкраденим Dozer [22:39–23:02]; China — біля oils і краю карти [27:25–27:38].
+- Продаж Command Center: явних згадок у відео немає (пошук sell/sold/selling дає єдиний збіг). Є одна неоднозначна фраза в GLA-опенінгу: «The one worker left, one worker right. Sell that.» [13:42–13:44]. Об'єкт продажу не названо (CC не згадується), тож вважати це продажем CC не можна, див. «Невизначеності». В інших місцях CC лише будують: USA — біля краю карти чи входу заради швидких support powers [08:13–09:22]; GLA — на вході заради Anthrax Bomb [20:24–20:43] або вкраденим Dozer [22:39–23:02]; China — біля oils і краю карти [27:25–27:38].
 
 ## Матчапи і контри
 - USA vs Air Force, що йде в Raptors → можливо, all-in rush [01:59–02:06].
@@ -243,10 +247,11 @@
 - ЯКЩО обидва сусіди повільні / середні → ТО eco boom: USA — друга Supply в центрі + додатковий Chinook [03:10–04:05].
 - ЯКЩО Capture дослідився → ТО одразу захоплюй oils [04:36–04:42].
 - ЯКЩО маєш дві Supply і oils (USA) → ТО будуй War Factory на гроші з oils (2,000) [04:52–05:01].
-- ЯКЩО збудовано Strategy Center (USA) → ТО одразу Supply Lines (U), далі Search & Destroy [06:41–06:50].
-- ЯКЩО маєш S&D і щонайменше 3 повністю завантажені Humvee + Ambulance → ТО пуш; Humvee можна завантажувати повністю, навіть залишивши один порожнім [05:53–06:41], [06:55–07:13].
+- ЯКЩО збудовано Strategy Center (USA) → ТО battle plan Search & Destroy (ймовірно, D) і миттєво Supply Lines (U) [06:41–06:58].
+- ЯКЩО USA на будь-якій стадії → ТО тримай хоча б одну групу армії й збільшуй її з плином гри [11:02–11:13].
+- ЯКЩО маєш S&D і щонайменше 3 повністю завантажені Humvee + Ambulance → ТО пуш. Краще кілька повністю завантажених Humvee (навіть якщо один лишиться порожнім), ніж багато Humvee з 1–2 Missile Defender [05:53–06:41], [06:55–07:13].
 - ЯКЩО біля купи, з якої збирає Chinook, є ворожий Tunnel / Stinger → ТО знищ його або переведи Chinook на купу без ППО [05:58–06:09].
-- ЯКЩО забрав позицію сусіда → ТО експандуйся туди Rangers (Combat Drop), займи його бункери, по Missile Defender у кожен, постав Supply й удома постав у чергу ще один Chinook [07:15–07:52].
+- ЯКЩО забрав позицію сусіда → ТО експандуйся туди Rangers (Combat Drop), займи його бункери, по Missile Defender у кожен, постав Chinook збирати з його купи й удома постав у чергу ще один Chinook [07:15–07:52].
 - ЯКЩО будуєш CC → ТО біля краю карти або на вході, ближче до фронту, не вглибині (support powers прилітають із краю) [08:13–09:22].
 - ЯКЩО маєш кілька CC і хочеш, щоб support power прилетіла з конкретного боку → ТО виклич її з меню саме тієї CC [12:28–12:48].
 - ЯКЩО будуєш Supply Drop Zone / Black Market / електростанції / Strategy Center / Particle Cannon → ТО став біля країв і кутів карти, рознесено [09:24–09:49], [11:49–12:12], [18:30–18:37].
@@ -261,7 +266,8 @@
 - ЯКЩО багато грошей (GLA) → ТО Fortified Structure, потім Black Market по два за раз, друга Arms Dealer окремо від першої [18:40–19:24].
 - ЯКЩО GLA і Tunnel повний → ТО все одно продовжуй будувати юніти, тримай другу армію поза Tunnel [18:57–19:09], [21:18–21:30].
 - ЯКЩО є загроза авіації чи Colonel Burton (GLA) → ТО Stinger Site у базі й біля oils [19:41–20:12].
-- ЯКЩО GLA має гроші на апгрейди → ТО Worker Shoes першим, далі апгрейди Quad / Buggy; проти Humvee — Rocket Buggy [20:45–21:15].
+- ЯКЩО GLA має гроші на апгрейди → ТО Worker Shoes першим, далі апгрейди Quad / Buggy; проти Humvee — Rocket Buggy [20:45–21:15]. Коли грошей дуже багато → бери всі апгрейди, але не забувай Stinger Site [22:04–22:15].
+- ЯКЩО хочеш ставити багато оборони у FFA → ТО зважай, що це привертає увагу сусідів; якщо не боїшся — став [18:23–18:30].
 - ЯКЩО Jarmen Kell зняв водія з ворожого Dozer → ТО заздалегідь виділи цей Dozer і, щойно юніт у нього сяде, став C (CC) або R (Power Plant), а проти про-гравця дві CC [22:22–23:02].
 - ЯКЩО граєш за China → ТО Barracks → 4 Tank Hunter → War Factory → Red Guard, Bunker на всіх входах, перший Gattling Cannon [24:01–24:51].
 - ЯКЩО China Infantry → ТО «attack outpost» (Outpost) з кількох Tank Hunter; коли в ньому 6–8 бійців → 1 Minigunner і Capture [25:28–25:54].
@@ -269,7 +275,7 @@
 - ЯКЩО серед сусідів China є USA → ТО MiG + Napalm [27:10–27:21].
 - ЯКЩО сусід слабкий (China) → ТО пріоритет — убити його й забрати позицію / oils, а не масово будувати Hacker; Dragon Tank і друга War Factory [26:33–26:48], [29:20–29:35].
 - ЯКЩО в центрі нікого → ТО Dozer з двома юнітами-супроводом займає центр і ставить Supply [26:50–27:08], [29:11–29:13].
-- ЯКЩО China у low power → ТО Overcharge Nuclear Reactor, а коли загроза реактору мине, вимкни (R) [28:24–29:01].
+- ЯКЩО China у low power → ТО Overcharge Nuclear Reactor, але вчасно вимкни його, щоб реактор не загинув (хоткей, ймовірно, R) [28:24–29:01].
 - ЯКЩО будуєш Nuclear Missile (China) → ТО далеко від армії й основних будівель [30:32–30:51].
 - ЯКЩО багато Hacker → ТО групи по 3–4 біля Gattling Cannon, а купу розсіюй через X [31:03–31:41].
 - ЯКЩО пізня гра проти Air Force (China) → ТО масово Gattling Cannon по всій базі [31:42–31:56].
@@ -293,14 +299,14 @@
 - [21:48] "That is a sign of an inexperienced player" — 2 Quad у Tunnel і всі гроші в Black Market.
 - [24:44] "I'm making a gap first because that is going to counter a combat Chinook rush or a Helix rush" — перший Gattling Cannon за China.
 - [27:21] "Your counter to that is mix" — MiG проти Humvee.
-- [27:51] "Outpost and gats kills a whole bunch of things" — Outpost + Gattling Tank як стандарт China.
+- [27:54] "Outpost and gats kills a whole bunch of things" — Outpost + Gattling Tank як стандарт China.
 - [29:29] "getting those oils and getting that money and all the land is going to give you a bigger return faster than a full internet center" — експансія за рахунок слабкого сусіда понад хакерів.
 
 ## Невизначеності
 - [13:42–13:44] «The one worker left, one worker right. Sell that.» — що продається, не видно (CC в реченні не названо). Це міг бути продаж стартової Command Center, якоїсь іншої будівлі або помилка розпізнавання. Як продаж CC не трактувати.
 - [00:55] «no nuke mix» — ймовірно, Nuke MiG (Nuke General) або щось на кшталт «nuke mix»; [00:56] «demo bikes» — найімовірніше, Combat Cycle Demolition General.
 - [01:08–01:13] «upgrade some super weapons if you are tank in China, so you can upgrade the speed of your tanks» — ймовірно, ідеться про будівництво Nuclear Missile заради апгрейду швидкості танків (Nuclear Tanks) [загальне знання, не з відео: апгрейди Nuclear Tanks і Neutron Shells досліджуються в шахті Nuclear Missile].
-- [06:41–06:45] «when you hit D on this» — неясно, що за D (вибір Strategy Center чи battle plan). Друге важливе дослідження, ймовірно, Search & Destroy, але автор називає вголос лише Supply Lines.
+- [06:41–06:45] «when you hit D on this» — найімовірніше, вибір battle plan Search & Destroy на Strategy Center (S&D — це battle plan, а не апгрейд; відповідність D ↔ S&D — [загальне знання, не з відео]). Із «two most important» апгрейдів вголос назване лише Supply Lines.
 - [06:50–06:55] Ефект Supply Lines «10% free from your oils and 10% free from every Chinook drop-off» — так каже автор; частина про oils може бути неточною.
 - [07:33] «you can get that upgrade», [25:57] «I probably always would get that now», [28:19] «If you're nuke, you have that» — апгрейди не названо.
 - [07:36] «use the intelligence» — ймовірно, Intelligence у Strategy Center (USA).
@@ -312,7 +318,12 @@
 - [22:15] «your primary thing to do is get power at that stage» — для GLA це дивно (GLA не потребує енергії); можливо, помилка розпізнавання.
 - [22:17] «pressing control and H» — хоткей виділення Jarmen Kell почуто так; можливо, це інша комбінація.
 - [24:44] «gap» розшифровано як Gattling Cannon (за контекстом контри Helix / Combat Chinook); [24:53] «Immediately that is upgrading this time», ймовірно, про Capture.
-- [25:38–25:40] «the outpost, the attack outpost» для Infantry General — точна назва юніта невідома (можливо, Listening Outpost / Assault-варіант).
+- [25:38–25:40] «the outpost, the attack outpost» для Infantry General — ймовірно, Attack Outpost (варіант Listening Outpost у Infantry General) [загальне знання, не з відео].
+- [20:50] «How could you play I say it's always the best upgrade in the game» — початок фрази нерозбірливий; можливо, автор цитує когось (ім'я гравця?), тож «always the best upgrade» може бути чужою оцінкою.
+- [28:13–28:21] апгрейд «if you're going to have any speaker towers like one overlord» — ймовірно, Subliminal Messaging у Propaganda Center [загальне знання, не з відео]; що мається на увазі під «If you're nuke, you have that. One of the best upgrades in the game for nuke», незрозуміло.
+- [28:59–29:01] «Hotkey for that is R» — може стосуватися вимкнення Overcharge або Internet Center, про який мова одразу далі.
+- [29:39–29:41] «build barracks around the internet center» — так у субтитрах; можливо, мались на увазі Bunker.
+- [22:11–22:13] «save the stingers» — можливо, «place the stingers».
 - [30:17–30:20] «the radar» — ймовірно, Satellite Hack у Internet Center.
 - [31:56–31:58] «upgraded already to like five doses» — розшифровано як 5 Dozer.
 - Застарілість: відео від 2025-12-21. Склад pro rules залежить від хоста (Particle Cannon, neutrons) [01:01–01:05], [01:21–01:24], [30:53–31:01]. Наприкінці автор обіцяє окреме відео про Flower Oasis, де простіше зробити великий eco boom; поради з цього відео стосуються саме Defcon 6 [32:07–32:30].

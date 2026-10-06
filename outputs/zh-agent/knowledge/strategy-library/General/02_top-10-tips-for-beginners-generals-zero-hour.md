@@ -16,6 +16,7 @@
 ## Коротко
 - Збирачів ставити в чергу ще на екрані завантаження: K ×5 = 5 Worker (GLA), D ×1 = 1 Dozer (China/USA); 5 Worker і 1 Dozer — стандарт для більшості матчів [00:33]–[00:59].
 - Опенінг будь-якої армії — щонайменше 2 supply; USA при 2+ oil на карті — 1 supply + 2 oil або більше. GLA — 5–6 Worker на supply якомога швидше, USA/China — 2 Chinook / 2 Supply Truck на кожен supply [01:04]–[01:36].
+- Грати 1–3 карти знову й знову (у Quick Match можна вибрати лише потрібні карти). Для старту: Snowy Drought, Egyptian Oasis, TD No Bugs No Cars (Tournament Desert без «багів» і машин), Natural Threats; складніше — Mountain Mayhem; для впевнених — Blue Hole, Liquid Gold, Arctic Arena («crazy money maps») [01:39]–[02:33].
 - Продавати CC і вчитися грати без радара: +1,000 грошей на сильніший білд. GLA продає CC завжди (CC у GLA на старті не дає радара). Виняток — гра проти easy/medium AI чи абсолютних новачків; пізня гра, великі карти й 3v3/4v4 — там радар дуже допомагає [03:46]–[05:08].
 - Гарнізони й бункери: 1 RPG / Missile Defender / Tank Hunter у будівлі дає величезний огляд і захист; піхота в будівлі отримує +25% шкоди та +33% дальності (не в Helix і не в Humvee) [02:48]–[03:43].
 - Агресія виграє більше ігор, ніж «черепаха»: тиснути, особливо на збір ресурсів ворога (Gattling Tank по флангах, Technical з RPG з тунелю, USA-рейди на Dozer/Truck/Propaganda/Chinook) [06:46]–[07:58].
@@ -124,7 +125,7 @@
 | China | MiG Armor | Airfield | «amazing»; окупається, якщо врятує хоча б один MiG | [14:46]–[14:51] |
 | Infantry / Nuke / China | Subliminal Messaging | Propaganda Center | $500, «insane»; посилює Overlord і Helix, а головне — подвоює швидкість лікування | [14:51]–[15:03] |
 | Tank General | Subliminal Messaging | Propaganda Center | корисно лише при великій кількості Helix — «зараз» не діє на Emperor | [15:01]–[15:08] |
-| Tank General | Autoloader | Propaganda (за словами автора) | дуже важливо для великої армії Battlemaster | [15:08]–[15:15] |
+| Tank General («For China tank») | Autoloader | Propaganda (за словами автора) | дуже важливо для великої армії Battlemaster | [15:08]–[15:15] |
 | Tank / China | апгрейди танків з Nuclear Missile (ядерні двигуни) | Nuclear Missile | дуже добрі, особливо для Emperor / Overlord — роблять їх значно швидшими | [15:15]–[15:24] |
 | Усі China у 1v1 | Nuclear Missile (будівля) | — | у 1v1 краще не будувати, окрім Nuke General під Nuke MiG («really, really powerful») | [15:24]–[15:31] |
 
@@ -134,7 +135,7 @@
 - Pro tip: уся піхота в гарнізоні будівлі отримує +25% шкоди і +33% дальності [03:18]–[03:29].
 - Займати варто деякі будівлі на кожній карті, але не всі — тільки ті, що мають сенс [03:29]–[03:38].
 - Баф діє тільки в будівлях — не в Helix і не в Humvee [03:38]–[03:43].
-- Гра без радара: спочатку відчуття «граєш наосліп», але постійним скролінгом карти можна почуватися більш «підключеним» до подій, ніж з радаром [04:09]–[04:31].
+- Гра без радара: спочатку відчуття «граєш наосліп» (автор сам через це пройшов), але якщо постійно грати без радара, звикаєш, і просто скролячи карту, часто почуваєшся більш «підключеним» до подій, не покладаючись на радар [04:09]–[04:31].
 - Агресія: замість будувати багато оборони й чекати — тиснути, контролювати гру й харасити збір supply ворога [06:46]–[07:06].
 - China з Gattling Tank: відправляти їх по флангах карти харасити supply; добре проти USA, бо Chinook дорогі — вбити два означає «величезну перевагу»; Gattling Tank також вбивають Worker'ів і Supply Truck [07:06]–[07:24].
 - GLA проти China/USA: Technical з RPG з тунелю бігає по ворожій базі — відволікає, харасить supply, скаутить і вибиває Dozer [07:24]–[07:39].
@@ -143,6 +144,8 @@
 - Demolition General з Rebel Ambush + Demolitions upgrade: натиснути I на Rebels одразу після появи — миттєвий підрив ворожої армії [10:20]–[10:30].
 - GPS Scrambler (GLA/Stealth): у пізній грі ховати Worker'ів або армію [10:37]–[10:44].
 - Оборону не спамити: топ-гравці використовують «якусь форму оборони» в опенінгах, але не сотні споруд; фокус — на агресії [11:06]–[11:14], [12:38]–[12:45].
+- Fire Base (USA): не потребує енергії, має «досить пристойну» шкоду й дальність — ставити на фланги на опенінгу [11:21]–[11:32].
+- Tunnel Network (GLA): крім 2 безкоштовних RPG, миттєво «телепортує» юнітів по карті між тунелями — тому будувати тунелі за GLA — «no-brainer» [11:43]–[11:51].
 
 ## Економіка
 - Збирачі: стандарт — 5 Worker (GLA) або 1 Dozer (China/USA) з CC; ставити в чергу на екрані завантаження [00:33]–[00:59].
@@ -150,7 +153,7 @@
 - Насичення: GLA — 5–6 Worker на двох supply якомога швидше; USA/China — 2 Chinook / 2 Supply Truck на кожен supply [01:22]–[01:32].
 - Oil: на картах з oil брати Capture Building майже завжди (крім all-in) [12:56]–[13:04]; USA Supply Lines збільшує дохід з oil і supply — брати одразу [14:03]–[14:16]; Nuke General, що спирається на oil, бере Red Guard veteran [09:17]–[09:25].
 - GLA: Worker Shoes — «найкращий апгрейд у грі», рашити одразу після Palace через Black Market [13:24]–[13:31]; Cash Bounty — максимізувати з level 3 [10:44]–[10:51].
-- Карти: Mountain Mayhem має 1k crate у базі й часто дозволяє стартувати з 3 supply; Blue Hole, Liquid Gold, Arctic Arena — «crazy money maps» з багатьма oil, вимагають сильного макро [02:14]–[02:33].
+- Карти (Tip 3): новачку — 1–3 карти по колу; прості для старту — Snowy Drought, Egyptian Oasis, TD No Bugs No Cars (оригінальний Tournament Desert без «bugs» і машин), Natural Threats [01:39]–[02:12]. Трохи складніша — Mountain Mayhem: має 1k crate у базі й часто дозволяє стартувати з 3 supply [02:14]–[02:25]. Для впевнених — Blue Hole, Liquid Gold, Arctic Arena: «crazy money maps» з багатьма oil, вимагають сильного макро [02:25]–[02:33].
 - Харас економіки ворога — пріоритет: Chinook дорогі, тому вбивство двох — велика перевага [07:13]–[07:20].
 
 ### Продаж Command Center
@@ -189,6 +192,7 @@
 - Battlemaster проти USA [09:45]–[09:49]; vet 2 Battlemaster без розуміння ризику (втрата = 200 XP ворогу) [09:35]–[09:43].
 - Будувати Nuclear Missile в 1v1, якщо ти не Nuke General з Nuke MiG [15:24]–[15:31].
 - Tank General: брати Subliminal Messaging для Emperor — він «зараз» на них не діє [15:03]–[15:08].
+- Новачку — розпорошуватися на багато незнайомих карт замість 1–3 знайомих; одразу братися за складні money maps [01:39]–[02:33].
 - Quick Match: панікувати через серію поразок — ELO знизиться, і далі будуть рівні суперники [02:35]–[02:46].
 
 ## Правила для ШІ-агента
@@ -200,7 +204,8 @@
 - ЯКЩО USA або China → ТО по 2 Chinook / 2 Supply Truck на кожен supply [01:28]–[01:32].
 - ЯКЩО GLA → ТО продати CC на старті завжди [04:56]–[05:01].
 - ЯКЩО USA/China і суперник не easy/medium AI (людина хоч трохи пристойного рівня або hard AI) і це 1v1 / проста карта → ТО продати CC і грати без радара, використавши +1,000 на сильніший білд [03:46]–[04:54].
-- ЯКЩО великий командний матч (3v3/4v4), велика карта або пізня гра → ТО радар цінний (відновити його пізніше) [04:31]–[04:41].
+- ЯКЩО великий командний матч (3v3/4v4), велика карта або пізня гра → ТО радар «допомагає масивно» навіть топ-гравцям; на старті 1v1 на простих картах — без радара [04:31]–[04:48]. (Коли саме відбудовувати CC, у відео не сказано.)
+- ЯКЩО суперник — easy/medium AI або абсолютний новачок і мета не прогресувати → ТО пораду продавати CC можна ігнорувати [03:50]–[03:58].
 - ЯКЩО GLA → ТО Radar Van не робити першим юнітом, лише значно пізніше [05:03]–[05:08].
 - ЯКЩО USA (будь-який генерал) → ТО продати CC → 2 supply по 2 Chinook → 1 War Factory + 1 Barracks → Humvee + Missile Defender усю гру [05:58]–[06:21].
 - ЯКЩО USA на опенінгу → ТО поставити Fire Base ($1,000, без енергії) на фланг [11:21]–[11:32].
@@ -215,7 +220,7 @@
 - ЯКЩО USA проти China → ТО рейдити Dozer, Supply Truck, Propaganda Center; ЯКЩО USA проти USA → ТО полювати на Chinook [07:47]–[07:58].
 - ЯКЩО є нейтральна будівля в ключовій точці → ТО посадити 1 RPG / Missile Defender / Tank Hunter (огляд + захист, +25% шкоди, +33% дальності) [02:50]–[03:29].
 - ЯКЩО багато нейтральних будівель → ТО займати лише ті, що мають сенс, не всі [03:29]–[03:38].
-- ЯКЩО GLA → ТО будувати Tunnel Network (хоткей N, $800, 2 RPG безкоштовно) [11:32]–[11:51].
+- ЯКЩО GLA → ТО будувати Tunnel Network (хоткей N, $800, 2 RPG по $300 безкоштовно → фактично $200; миттєва телепортація юнітів між тунелями) [11:32]–[11:51].
 - ЯКЩО China (не Infantry) потребує оборони напрямку → ТО Bunker (трохи менше $800) + 1 Tank Hunter [11:51]–[12:01].
 - ЯКЩО ворог іде Dragon Tank → ТО щонайменше 2 Tank Hunter у Bunker; ЯКЩО ворог Tank General → ТО 3 [12:08]–[12:13].
 - ЯКЩО Infantry General → ТО Fortified Bunker ($700, міни безкоштовно) + 1 Tank Hunter на фланг або головний вхід; кілька — нормально, багато — ні [12:13]–[12:45].
@@ -241,11 +246,14 @@
 - ЯКЩО China / Infantry / Nuke має Propaganda Center → ТО Subliminal Messaging ($500) [14:51]–[15:03]; ЯКЩО Tank General → ТО лише при багатьох Helix [15:03]–[15:08].
 - ЯКЩО Tank General з великою армією Battlemaster → ТО Autoloader [15:08]–[15:15].
 - ЯКЩО 1v1 і ти не Nuke General під Nuke MiG → ТО не будувати Nuclear Missile [15:24]–[15:31].
-- ЯКЩО маєш армію й супротивник пасивний → ТО тиснути й харасити збір, а не будувати ще оборону [06:46]–[07:06], [12:38]–[12:45].
+- ЯКЩО вибір між ще однією обороною / розростанням бази і тиском → ТО тиснути, контролювати гру й харасити збір ворога, а не сидіти в базі й чекати його ходу [06:46]–[07:06], [12:38]–[12:45].
+- ЯКЩО агент (або гравець) ще не знає карт → ТО обмежити пул 1–3 простими картами (Snowy Drought, Egyptian Oasis, TD No Bugs No Cars, Natural Threats) і лише потім переходити до Mountain Mayhem та money maps (Blue Hole, Liquid Gold, Arctic Arena) [01:39]–[02:33].
+- ЯКЩО Mountain Mayhem → ТО забрати 1k crate у базі; старт часто можливий з 3 supply [02:18]–[02:25].
 
 ## Ключові цитати
 - [00:40] "press the hotkey K five times to queue up five workers, or press the hotkey D once if you're China or USA" — черга збирачів на екрані завантаження.
 - [01:10] "open with at least a minimum of two supplies with any faction" — мінімум 2 supply в опенінгу.
+- [01:44] "don't be afraid to stick to just the one to three maps and play them over and over again" — вузький пул карт для новачка.
 - [03:20] "all infantry garrisoned inside of a building receive a 25% damage buff and a 33% range buff" — баф гарнізону.
 - [03:46] "don't be afraid to sell your CC and learn to play without a radar" — продавати CC.
 - [04:50] "you're going to need that extra 1,000 cash to support bigger and better build orders" — навіщо продавати CC.
@@ -271,7 +279,8 @@
 - «for tank as a vet 2 battlem» [09:31] — промоція Tank General з ветеранськими (vet 2) Battlemaster; точна назва не прозвучала.
 - «The frenzy scan for infantry is actually like a scan on the map» [09:09] — так у відео; механіку «скану» Frenzy не пояснено детальніше.
 - «pressing the I key on your rebels» [10:26] — хоткей I для підриву (Demolitions) — так у субтитрах, можливо, кастомний набір.
-- «Autoloader upgrade from the propaganda» [15:08] — так стверджує автор; місце дослідження не перевірено.
+- «Autoloader upgrade from the propaganda» [15:08] — так стверджує автор; місце дослідження не перевірено. «For China tank» — найімовірніше Tank General, але може означати «China і Tank».
+- Назви карт з Tip 3 («Snowy Drought», «TD No Bugs No Cars», «natural threats») — так у субтитрах; точне написання назв карт у грі не перевірено [02:00]–[02:10].
 - «upgrades from the nuclear missile for your tanks» [15:15] — ймовірно Nuclear Tanks (ядерні двигуни); назва не прозвучала.
 - «subliminal messaging does not work on emperors right now» [15:03] — стан на дату відео (2026-01-14), може змінитися в патчах Generals Online.
 - Контекст дати: відео записане після виходу гри в Steam і запуску Generals Online (60 Hz, ~30,000 гравців, без mismatch), Quick Match повернувся і тепер «skill-based» [00:03]–[00:16], [01:49]–[02:46]; рекомендації карт і пулу QM можуть застаріти.

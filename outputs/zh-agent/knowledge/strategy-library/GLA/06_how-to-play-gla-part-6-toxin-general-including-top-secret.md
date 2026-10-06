@@ -52,7 +52,7 @@
 | Юніт | Toxin | Інші GLA | Примітка |
 |---|---|---|---|
 | Toxin Tractor | 650 | 600 (звичайна GLA); для Demo звучить «750» | Toxin Rebel робить трактор непотрібним для чистки будівель [02:28]–[02:46] |
-| Scorpion | 650 | «трохи дешевше» у звичайної GLA | +50 за токсичні снаряди «того варте» [03:16]–[03:29] |
+| Scorpion | 650 | «slightly cheaper for GLA»: на $50 дешевше (≈600, точну цифру не названо) | +$50 за токсичні снаряди «того варте» [03:16]–[03:29] |
 | Quad Cannon | 750 | 700 (Stealth і звичайна GLA) | [03:33]–[03:40] |
 | Rocket Buggy | у субтитрах «1,100» (дорожче за інших) | 900 (Stealth), 900 (GLA), Demo: «1000» (нерозбірливо, до чого належить) | [03:56]–[04:11] |
 | Battle Bus | 1,100 | у Demo найдорожчий | [04:00]–[04:14] |
@@ -64,9 +64,9 @@
 
 ### Toxin Rebel
 - Дуже добрий для зачистки будівель у центрі карти, наприклад центру на Tournament Desert. Не потрібен Toxin Tractor, який дорожчий [02:22]–[02:54].
-- Якщо поставити Toxin Rebel поруч із будівлею, вони автоматично б'ють усіх, хто в неї заходить, і самі зачищають гарнізон [02:54]–[03:02].
+- «You can also use the toxins on or really close to buildings and it will just automatically fire at anyone that goes inside of the buildings and clears it for you»: якщо поставити «toxins» на будівлю або впритул до неї, вони автоматично стріляють по всіх, хто заходить у будівлю, і зачищають її [02:54]–[03:02]. Що саме означає «toxins» (Toxin Rebel чи Toxin Tunnel), із субтитрів неясно; «also» і «it» (однина) натякають на інший об'єкт, ніж Rebel, найімовірніше Toxin Tunnel.
 - Висновок автора: на картах із будівлями Toxin дуже сильний в утриманні, зачистці й захопленні будівель [03:02]–[03:09].
-- За припущенням автора, саме через це Toxin Tractor у Toxin дорожчий [02:46]–[02:51].
+- Автор припускає, що вища ціна пов'язана з тим, що Toxin Rebel швидко чистить будівлі [02:46]–[02:51]. З фрази «this toxin rebel which actually might be why it's more expensive» неясно, про чию ціну мова: Toxin Tractor чи самого Rebel.
 
 ### Scorpion
 - Стандартно стріляє токсичними снарядами, тож дуже добрий проти піхоти. Ціна 650, все ще «pretty cheap» [03:11]–[03:29].
@@ -74,11 +74,12 @@
 ### Marauder
 - Теж стріляє токсичними снарядами, добрий проти піхоти [04:18]–[04:24].
 - Потребує генеральського пункту (general's point) і довго будується. Навіть дві штуки будуються «вічність», тож юнітів на полі менше [04:24]–[04:39].
-- Підбирає scrap (апгрейди з уламків). Marauder з vet 3 і подвійним scrap «може 1v1» nuke Overlord, навіть зі Speaker Tower. Щодо Emperor Overlord автор ймовірно поставив би гроші на Marauder [04:39]–[04:59].
+- Підбирає scrap (апгрейди з уламків). Marauder з vet 3 і подвійним scrap «може 1v1» nuke Overlord, «even with a speaker tower I think» (ймовірно, Overlord з надбудовою Speaker/Propaganda Tower). Щодо Emperor Overlord автор не впевнений, але «probably would bet some money on it» [04:39]–[04:59].
 
 ### Terrorist (Toxin і Demo порівняно з GLA і Stealth)
 - Terrorist у Demo і Toxin завдають більше шкоди [05:02]–[05:08].
 - Toxin і Demo завдають приблизно однакової шкоди, тож потрібна однакова кількість терористів на будівлю [06:24]–[06:32].
+- Думка автора: Toxin General «probably doesn't need stronger terrorists», бо його терористи ще й лишають токсин, а головна перевага Toxin інша (RPG, тунелі) [22:04]–[22:14].
 
 Кількість Terrorist на знищення будівлі (тест без апгрейду Fortified Structure) [07:41]–[11:10]:
 
@@ -86,12 +87,14 @@
 |---|---|---|---|---|
 | Supply Stash GLA | 5 | 5 | 4 | 4 |
 | Arms Dealer GLA | 5 | 5 | 4 | 4 |
-| Power Plant China | 4 | 4 | 3 | 3 |
+| Power Plant China | 4* | 4* | 3* | 3 |
 | Supply Center China | 4 | 4 | 3 | 3 |
-| War Factory China | 4 | 4 | 3 | 3 |
+| War Factory China | 4* | 4* | 3* | 3 |
 
-- Тест без Fortified Structure, бо терор-атаки зазвичай роблять тоді, коли цього апгрейду ще немає [08:05]–[08:09].
-- Під час тесту на Stealth будівля впала раніше, бо мала менше HP [08:41]–[08:43].
+\* Для Toxin автор прямо каже «three of them will kill a power plant / a supply / a war factory for China» [10:40]–[10:48]. Порівняння «four for regular GLA, four for GLA Stealth, three and three» звучить одразу після тесту на Supply Center China [10:53]–[11:07]; для Power Plant і War Factory цифри інших GLA перенесено з цього порівняння, окремо їх не перевіряли. Power Plant від 3 Toxin Terrorist перевірено в тесті [12:53]–[13:17].
+
+- Тест без Fortified Structure, бо терор-атаки зазвичай роблять тоді, коли цього апгрейду ще немає [08:05]–[08:09] (кінець фрази нерозбірливий).
+- Під час тесту «five to kill an arms dealer» будівля, яку «need to repair», впала, бо вже мала менше HP. Субтитри «for selfish that's died because they had lower HP» нечіткі: можливо, мова про Stealth, можливо, про пошкоджену будівлю [08:31]–[08:43].
 
 ### Friendly fire терористів
 - Demo Terrorist своїх не б'є: force-fire в землю поруч із власним Dozer його не вбиває. Можна підривати навіть поруч із власними будівлями [05:14]–[05:25], [06:00]–[06:15], [12:03]–[12:12].
@@ -101,30 +104,31 @@
 ### Toxin RPG Trooper («top secret info»)
 - Навіть без Anthrax Gamma стріляє іншим (рожевим) снарядом, бо «за лаштунками» це інша ракета [15:13]–[15:41].
 - Fuel lifetime: звичайний RPG 1250, Toxin RPG 5000 (одиниці невідомі, можливо мілісекунди). Цифри автор отримав від «Sky make» [15:45]–[16:08], [21:42]–[21:50].
-- Практичний ефект («range fall-off»): коли літак (наприклад Aurora) розвертається і відлітає, ракети звичайних RPG здебільшого промахуються. Toxin RPG влучає у 90–95% випадків і вбиває Aurora навіть без апгрейдів [16:14]–[17:31].
+- Практичний ефект («range fall-off»): коли літак (наприклад Aurora, що вдарив по Arms Dealer) розвертається і відлітає, ракети звичайних RPG здебільшого промахуються (у субтитрах [16:51] звучить «70 to 80%», ймовірно частка промахів). Toxin RPG влучає у 90–95% випадків і вбиває Aurora навіть без апгрейдів [16:14]–[17:31].
 - Снаряд Toxin RPG летить швидше і швидше повертає за ціллю, що «майже самонавідна ракета» проти авіації. Скорострільність і дальність не більші, але менший range fall-off [19:39]–[20:22].
-- Тест на Raptor: звичайні RPG майже всі промахнулися (влучила одна ракета). Toxin RPG не промахнувся навіть коли Raptor відлітав, «never misses», і це лише одним RPG [21:05]–[23:08].
+- Тест на Raptor: звичайні RPG майже всі промахнулися (влучила одна ракета). Toxin RPG не промахнувся навіть коли Raptor відлітав, «never misses», і це лише одним RPG [21:05]–[23:08]. Автор свідомо не пролітав прямо над RPG, щоб порівняння було чесним [21:13]–[21:16].
+- Gamma додає RPG лише шкоду; «range fall-off» (точність по авіації) з Gamma і без неї однаковий, тобто перевага в точності є з самого початку гри [23:12]–[23:18].
 - Anthrax Gamma додає RPG +30% шкоди («I'm told as of this morning»). У підказці апгрейду цього не сказано і значка на юніті немає. Для порівняння, AP Rockets з Black Market дає за підказкою лише +25% шкоди ракетам [17:46]–[19:02].
 - Тест на Command Center: Toxin RPG із Gamma знищує CC швидше, ніж звичайний RPG, хоч почав стріляти пізніше [19:11]–[19:37].
-- Після Gamma снаряди RPG теж стають рожевими. Автор думає, що раніше вони рожевими не були («change from before») [19:02]–[19:09].
+- Після Gamma снаряди RPG стають рожевими: «I think that is change from before, it wasn't pink before, so now that's firing pink missiles» [19:02]–[19:09]. З контексту (токсин міняє колір з фіолетового на рожевий після Gamma [14:36]–[14:56]) «before» найімовірніше означає «до апгрейду», а не старий патч. Водночас на [15:25] автор описав снаряд без Gamma як «kind of pink», тож колірні описи непослідовні.
 
 ### Anthrax Gamma (апгрейд)
 - +50% шкоди Toxin Tunnel [02:07]–[02:11], [13:46]–[13:48].
 - +50% шкоди Rebel, зокрема з Rebel Ambush [13:48]–[13:55].
 - +30% шкоди Toxin RPG [17:46]–[18:02].
 - Візуально токсин юнітів і тунелів міняється з фіолетового на рожевий [14:36]–[14:56].
-- Значок Gamma видно в панелі виділеного юніта, і за ним можна визначити генерала ворога [06:39]–[06:43].
+- Значок Gamma видно в панелі виділеного юніта (показано на Terrorist), і за ним можна визначити генерала ворога [06:39]–[06:43]. На RPG Trooper значка, що Gamma діє, немає [18:36]–[18:40].
 
 ### Rebel Ambush / Bounty (генеральські промоції)
 - Rebel Ambush рівня 3 дає 16 Rebel. З Gamma вони дуже сильні й можуть знести цілу армію [13:55]–[14:25].
-- Автор зазвичай обирає Bounty замість Rebel Ambush L3 [14:01]–[14:07].
+- Автор зазвичай обирає Bounty замість Rebel Ambush L3 [14:01]–[14:07], але визнає, що це дискусійно і L3 варто додати у свою гру [14:07]–[14:31].
 
 ## Мікро і тактика
 - Терористів Toxin розводити й атакувати з різних боків будівлі («one on each side»). Мінімум: X перед атакою [10:30]–[10:40], [12:28]–[12:33].
 - Якщо терористи збилися на одному куті, частина гине від токсину сусідів і вибухає задалеко. Через AoE fall-off будівля може вижити з 1 HP [10:05]–[10:30].
 - Навіть добре виконана Toxin терор-атака зрідка лишає будівлю живою. Автор: «maybe 90% of them have hit correctly» [12:40]–[12:52], [13:19]–[13:34].
 - Швидкий терор-дроп: терористи на групі 4, Technical на групі 3. Висадка, тоді 4 і одразу атака [11:33]–[11:52].
-- Toxin Rebel ставити поруч із будівлями в центрі карти, щоб автоматично зачищати гарнізони [02:54]–[03:09].
+- Toxin Rebel використовувати для зачистки будівель у центрі карти. Ставити «toxins» (найімовірніше Toxin Tunnel, субтитри нечіткі) на будівлю або впритул до неї, щоб вони автоматично стріляли по всіх, хто заходить, і зачищали гарнізон [02:22]–[03:09].
 - Demo (без friendly fire): Terrorist поруч із власним Worker може його «врятувати», підірвавшись біля нього. Worker не треба відводити [12:12]–[12:21].
 - Розвідка генерала ворога (FFA, random, без GenTool): клікнути на ворожий юніт GLA. Значок Gamma означає Toxin, як і Toxin Rebel. RPG зі значком Demolitions upgrade означає Demo. Stealth і звичайну GLA так не розрізниш (можливо, за іншими юнітами) [06:39]–[07:35].
 
@@ -141,11 +145,11 @@
 - Проти China (Nuke General): Toxin Tunnel з Gamma швидко вбиває nuke Battlemaster [02:11]–[02:15]. Гурт Toxin Tunnel знімає Overlord [01:57]–[02:00]. Rebel Ambush L3 (16 gamma rebels) може знищити всю армію Nuke [14:17]–[14:25]. Marauder з vet 3 і подвійним scrap б'є nuke Overlord 1v1 [04:44]–[04:56].
 - Проти авіації USA (Aurora, Raptor): Toxin RPG Trooper майже не промахується навіть по літаку, що відлітає. Звичайні RPG інших GLA здебільшого мажуть [16:54]–[17:31], [21:24]–[23:08].
 - Проти піхоти: Scorpion і Marauder із токсичними снарядами, Toxin Tunnel [01:49]–[01:52], [03:13]–[03:16], [04:20]–[04:24].
-- На картах із нейтральними будівлями (Tournament Desert): Toxin Rebel тримають і зачищають будівлі [02:51]–[03:09].
+- На картах із нейтральними будівлями (Tournament Desert): Toxin Rebel (і «toxins» поруч із будівлями, ймовірно Toxin Tunnel) тримають і зачищають будівлі [02:22]–[03:09].
 - Проти GLA (FFA): визначити генерала за значками апгрейдів на юнітах [06:43]–[07:32].
 
 ## Типові помилки
-- Пускати Toxin Terrorist купою: вони вбивають один одного токсином до вибуху, і будівля лишається з 1 HP [09:15]–[10:30].
+- Пускати Toxin Terrorist купою: вони вбивають один одного токсином до вибуху, і будівля лишається з 1 HP. Автор: «it can be literally the difference between you winning and losing the game» [09:15]–[10:30].
 - Підривати Toxin Terrorist поруч із власним Dozer/Worker, Technical, іншими терористами чи своїми будівлями (Palace), бо friendly fire їх вбиває чи пошкоджує [05:39]–[06:22], [11:56]–[11:58].
 - Не враховувати, що в Toxin Quad Cannon дорожчий (750). На двох supply це затримує тунель чи інші покупки [03:33]–[03:58].
 - Будувати Toxin Tractor для зачистки будівель, коли Toxin Rebel роблять це дешевше [02:28]–[02:31].
@@ -154,15 +158,16 @@
 ## Правила для ШІ-агента
 - ЯКЩО граєш за Toxin General → ТО досліди Anthrax Gamma (+50% Toxin Tunnel і Rebel, +30% RPG Trooper) [02:07], [13:44], [17:46].
 - ЯКЩО Toxin або Demo робить терор-атаку на Supply Stash чи Arms Dealer GLA без Fortified Structure → ТО надсилай щонайменше 4 Terrorist. Для звичайної GLA і Stealth потрібно 5 [07:47]–[08:48].
-- ЯКЩО Toxin або Demo атакує терористами Power Plant, Supply Center чи War Factory China → ТО надсилай щонайменше 3 Terrorist. Для звичайної GLA і Stealth потрібно 4 [10:40]–[11:10].
+- ЯКЩО Toxin або Demo атакує терористами Power Plant, Supply Center чи War Factory China → ТО надсилай щонайменше 3 Terrorist. Для звичайної GLA і Stealth потрібно 4 (порівняння прозвучало для Supply Center) [10:40]–[11:10].
 - ЯКЩО Toxin посилає кілька Terrorist на одну будівлю → ТО розведи їх по різних боках цілі (по одному на сторону) або хоча б натисни X (розсипати) перед командою атаки [10:32], [12:28].
 - ЯКЩО поруч із місцем підриву Toxin Terrorist є власні Worker/Dozer, Technical, інші терористи чи будівлі → ТО не підривай там (friendly fire) або спершу відведи своїх [05:42], [06:00], [11:56].
 - ЯКЩО граєш за Demo і ворожі юніти атакують твого Worker, а поруч є твій Terrorist → ТО підірви терориста біля Worker, бо Demo не має friendly fire і Worker відводити не треба [12:12].
 - ЯКЩО потрібна швидка терор-атака з транспорту → ТО постав терористів на групу 4, Technical на групу 3. Після висадки одразу 4 і атака. Як Toxin врахуй, що токсин уб'є власний Technical [11:33]–[11:58].
-- ЯКЩО граєш за Toxin і в центрі карти є нейтральні будівлі (напр. Tournament Desert) → ТО використай Toxin Rebel поруч із будівлями, щоб зачистити гарнізони й утримати будівлі, а Toxin Tractor не будуй [02:22]–[03:09].
-- ЯКЩО граєш за Toxin і ворог використовує авіацію (Aurora, Raptor) → ТО покладайся на Toxin RPG Trooper біля цілей, які атакує авіація (напр. біля Arms Dealer), бо вони майже не промахуються [16:54]–[17:31], [21:24].
+- ЯКЩО граєш за Toxin і в центрі карти є нейтральні будівлі (напр. Tournament Desert) → ТО зачищай і утримуй їх Toxin Rebel (і «toxins» впритул до будівлі, ймовірно Toxin Tunnel), а Toxin Tractor для цього не будуй [02:22]–[03:09].
+- ЯКЩО граєш за Toxin і ворог використовує авіацію (Aurora, Raptor) → ТО покладайся на Toxin RPG Trooper біля цілей, які атакує авіація (напр. біля Arms Dealer), бо вони майже не промахуються навіть по літаку, що відлітає; ця точність є й без Gamma [16:54]–[17:31], [21:24], [23:12].
+- ЯКЩО граєш за іншу GLA (не Toxin) проти авіації → ТО не розраховуй, що RPG зіб'ють літак, який уже розвертається: їхні ракети здебільшого промахуються [17:07]–[17:14], [21:05]–[21:20], [22:44]–[23:00].
 - ЯКЩО граєш за Toxin проти масованої армії China (Nuke General) → ТО розглянь Rebel Ambush рівня 3 (16 Rebel) разом з Anthrax Gamma, Toxin Tunnel проти Battlemaster/Overlord [01:57], [02:11], [14:17].
-- ЯКЩО обираєш промоцію між Bounty і Rebel Ambush L3 → ТО за замовчуванням автор бере Bounty (економіка), а Rebel Ambush L3 обирає проти великої армії [14:01]–[14:25].
+- ЯКЩО обираєш промоцію між Bounty і Rebel Ambush L3 → ТО за замовчуванням автор бере Bounty (економіка). Rebel Ambush L3 він визнає дуже сильним проти великої армії (напр. Nuke) і каже, що його варто «weave into my gameplay», тож проти масованої армії L3 з Gamma доречний [14:01]–[14:31].
 - ЯКЩО Toxin на ранній стадії сидить на двох supply → ТО закладай у бюджет Quad Cannon за 750 (не 700) і плануй тунелі з урахуванням цієї різниці [03:40]–[03:58].
 - ЯКЩО в тебе є Marauder (потрібен general's point) → ТО бережи його і качай до vet 3 з подвійним scrap. Тоді він 1v1 б'є nuke Overlord. Врахуй довгий час будівництва [04:24]–[04:56].
 - ЯКЩО ворог GLA, а генерал невідомий (FFA, random) → ТО виділи його юніт: значок Gamma або Toxin Rebel означає Toxin, RPG зі значком Demolitions означає Demo [06:39]–[07:32].
@@ -171,32 +176,37 @@
 - [01:14] "GLA Toxin overall is probably considered the second strongest army in the entire game" — Toxin вважається другою за силою армією.
 - [02:07] "there's 50% extra damage with that Anthrax Gamma upgrade" — Gamma дає Toxin Tunnel +50% шкоди.
 - [03:02] "if there's buildings on the map it is really good at holding them and clearing them out" — Toxin сильний на картах із будівлями.
-- [03:24] "that $50 extra for the toxin shells is definitely worth" — дорожчий Scorpion вартий доплати.
-- [05:16] "demo terrorists do not cause friendly fire" — Demo Terrorist своїх не б'ють.
+- [03:22] "that $50 extra for the toxin shells is definitely worth" — дорожчий Scorpion вартий доплати.
+- [05:14] "demo terrorists do not cause friendly fire" — Demo Terrorist своїх не б'ють.
 - [05:42] "this is the toxin terrorists, kills dozer instantly" — Toxin Terrorist вбиває свій Dozer.
-- [08:46] "for demo and for toxin it requires only four to take these buildings down" — 4 терористи на Supply/Arms Dealer.
+- [08:43] "for demo and for toxin it requires only four to take these buildings down" — 4 терористи на Supply/Arms Dealer.
 - [10:40] "toxin terrorists, three of them will kill a power plant for China" — 3 на будівлі China.
 - [10:22] "sometimes a building will survive on one HP" — наслідок збитих у купу терористів.
 - [12:28] "the safest way is to hit one on each side or at least press X on them first" — розосередження перед атакою.
-- [14:05] "I prefer to go for the Bounty because I think money helps you win games" — вибір промоції автора.
-- [14:21] "you drop down 16 gamma rebels they can just destroy the whole army" — сила Rebel Ambush L3.
+- [14:02] "I prefer to go for the Bounty because I think money helps you win games" — вибір промоції автора.
+- [14:18] "you drop down 16 gamma rebels they can just destroy the whole army" — сила Rebel Ambush L3.
 - [16:04] "the fuel lifetime for this RPG is 5000" — Toxin RPG проти 1250 у звичайного.
-- [17:17] "a toxin RPG will very rarely miss" — точність проти авіації.
+- [17:14] "a toxin RPG will very rarely miss" — точність проти авіації.
 - [18:00] "it actually increases it by 30 percent" — Gamma посилює RPG на 30%.
 - [21:58] "it's basically like a homing missile for the Toxin General" — підсумок про Toxin RPG.
 
 ## Невизначеності
 - Ціни Toxin Tractor: «650 or 750 for demo, 600 for the other GLAs». Чи справді 750 у Demo, нерозбірливо [02:31]–[02:46].
 - Ціни Rocket Buggy і Battle Bus: субтитри дають «buggies ... 1,100» і «bus ... 1,100». Інші фракції: «900 900 (Stealth, GLA) ... demo 1000». Незрозуміло, чи 1000 стосується buggy чи bus Demo, і чи buggy Toxin справді 1,100, а не 1,000 [03:56]–[04:14].
-- Scorpion: «same across the board, it's actually slightly cheaper for GLA». Точна ціна для інших GLA не названа [03:18]–[03:22].
+- Scorpion: «same across the board, it's actually slightly cheaper for GLA, but that $50 extra...». Звідси виходить ≈600 у звичайної GLA, але цифру прямо не названо; чи стосується це також Demo і Stealth, неясно [03:18]–[03:24].
 - [08:05] «without the forty five structure ... only gonna be doing at TNC». Розшифровано як Fortified Structure. Кінець фрази нерозбірливий (ймовірно, «терор-атаки роблять до цього апгрейду»).
 - [08:16]–[08:22] «spread them out this time three but definitely should have died it free». Незрозуміло, чи будівля впала від трьох терористів у цьому тесті.
-- [08:41] «for selfish that's died because they had lower HP». Ймовірно, будівля Stealth мала менше HP. Трактування непевне.
+- [08:41] «for selfish that's died because they had lower HP». Перед цим автор каже, що будівлю «need to repair». Можливо, мова про Stealth, можливо, про те, що будівля вже була пошкоджена («for itself»). Трактування непевне.
 - Одиниці «fuel lifetime» (1250 / 5000) автор не знає, можливо мілісекунди [16:00].
 - Джерело цифр: «sky make / sky mix». Ім'я людини, що вивчала дані, нерозбірливе [15:45].
 - +30% від Gamma для RPG автор подає зі слів інших («I'm told as of this morning»). Чи сумується з AP Rockets (+25%), не сказано [18:00]–[18:36].
-- Можлива застарілість: автор думає, що рожевий снаряд RPG після Gamma з'явився внаслідок змін («it wasn't pink before») [19:04]. Відео від 2020-05-12, патч не названо.
+- [19:04] «I think that is change from before, it wasn't pink before»: найімовірніше означає «до Gamma снаряд був не рожевим», а не зміну патчу. Але на [15:25] автор називав снаряд без Gamma «kind of pink», тож колір як ознака ненадійний. Відео від 2020-05-12, патч не названо.
 - [07:35] «Sheik and Iran and that's tumor» нерозбірливо. Ймовірно, мова про інші юніти, за якими можна розрізнити Stealth / звичайну GLA.
 - [02:22] «if you get the damn USA here but if you and I get the rebel» нерозбірливий фрагмент.
 - Marauder проти Emperor Overlord: автор не впевнений («probably can, I would bet some money on it») [04:48]–[04:54].
+- [02:54] «you can also use the toxins on or really close to buildings and it will just automatically fire»: незрозуміло, чи «toxins» це Toxin Rebel, чи Toxin Tunnel (однина «it» і «also» більше вказують на тунель).
+- [02:46]–[02:51] «this toxin rebel which actually might be why it's more expensive»: незрозуміло, чия ціна вища через силу Rebel, Toxin Tractor чи самого Rebel.
+- [10:53]–[11:07] Цифри 4 (GLA, Stealth) і 3 (Demo) прозвучали в контексті Supply Center China; для Power Plant і War Factory China вони перенесені, автор показав лише Toxin (3).
+- [16:51] «50 I say you like mmm we'll probably like 70 to 80% at the time»: ймовірно, частка промахів звичайних RPG по Aurora, що відлітає; фраза нерозбірлива.
+- [12:43]–[12:50] «I can guarantee you 100% of time it's not worked and maybe 90% of them have hit correctly»: зрозуміло як «не в 100% випадків спрацьовує, приблизно 90% вдалих».
 - Обіцяний розбір реплеїв перенесено в інше відео; тут його немає [22:23]–[23:53].

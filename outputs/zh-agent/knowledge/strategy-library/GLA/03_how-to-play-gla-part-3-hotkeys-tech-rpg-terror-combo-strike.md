@@ -11,16 +11,16 @@
 | Режим | 1v1 (практика проти AI) |
 | Тип відео | хоткеї / поради / білд-ордер (Tech RPG + Terror combo strike; fast-oil варіація) |
 | Рівень | новачок → середній |
-| Цінність для агента | висока — точна кількість Terrorist для знесення кожної будівлі, схема «джеб Tech RPG + удар терористами», правила вибору юнітів (Q/E/X/Alt-шлях) і дві варіації 5-worker білду під конкретні матчапи |
+| Цінність для агента | висока — орієнтовна (за словами автора) кількість Terrorist для знесення кожної будівлі, схема «джеб Tech RPG + удар терористами», правила вибору юнітів (Q/E/X/Alt-шлях) і дві варіації 5-worker білду під конкретні матчапи |
 
 ## Коротко
 - Частина 3 серії про GLA: після 5-worker standard build order з частин 1–2 автор показує хоткеї та прийоми, що економлять секунди, бо GLA — це hit-and-run і дуже інтенсивне мікро [00:45–01:00] [14:30–14:44].
 - Робітників можна поставити в чергу ще на екрані завантаження [01:05–02:00]. Хоткеї будівель і юнітів треба вивчити напам'ять, щоб натискати їх наосліп [02:17–04:43] [10:03–10:51].
 - Ключові клавіші команд: Space — перейти до останньої події; E/EE — вибрати юніти того самого типу; Q — вибрати тільки бойові юніти без робітників; X — розбігтися; Alt+клік — черга маршруту; Shift+клік — додати до виділення [07:39–17:13].
 - Combo strike проти USA: перша атака — завжди Technical з RPG, яка відволікає противника (вбиває Dozer і Chinook). Одночасно другий Technical привозить 4 Terrorist до Supply Center [19:32–21:12].
-- Таблиця Terrorist: 4 — Supply Center / War Factory / головна будівля USA; 4 (можливо 5) — Airfield; 2 — Power Plant / Patriot / Barracks; 1 — Dozer / Humvee; ~13 — Command Center; 4 доводять GLA Arms Dealer лише до «ями», тому треба 5 (крім Demo) [20:26–22:18].
+- Таблиця Terrorist: 4 — Supply Center / War Factory / «main building» USA (не Command Center); 4 (можливо 5) — Airfield; 2 — Power Plant / Patriot / Barracks; 1 — Dozer / Humvee; ~13 — Command Center; 4 доводять GLA Arms Dealer лише до «ями», тому треба 5 (крім Demo) [20:26–22:18].
 - Проти USA не беріть нафту рано, тисніть і закінчуйте гру швидко. Проти China Tank General грайте від оборони: Rebel + Capture-апгрейд на нафту (бонус $1000 і $200 кожні 12 с), далі Scorpion → Rocket upgrade → Scorpion → Palace або друге Arms Dealer [23:14–23:40] [23:44–27:04].
-- Command Center за GLA тримати не треба: «never ever do you want to be keeping it» [18:26–18:30].
+- Command Center за GLA продають: «sell my command center, you don't need a command center as GLA, never ever do you want to be keeping it» (у субтитрах «cell» — це «sell») [18:26–18:30].
 
 ## Стратегії та білд-ордери
 
@@ -38,9 +38,9 @@
 4. Barracks — на control group **2** [18:15–18:18].
 5. Наступний робітник будує Tunnel Network [18:20–18:24].
 6. У Barracks — 2 Terrorist (**T**) [18:24–18:26].
-7. Command Center не тримати: «never ever do you want to be keeping it» (див. «Економіка») [18:26–18:30].
+7. Продати Command Center: «sell my command center … never ever do you want to be keeping it» (див. «Економіка») [18:26–18:30].
 8. Робітники будують Tunnel і Supply. Terrorist — на control group **4**, щоб швидко їх вибирати [18:30–18:45].
-9. Ще один Terrorist у черзі, ще один Tunnel. Не залишати жодного робітника без справи [19:02–19:11].
+9. Вибрати одного Terrorist, подвійне **E** — виділяються всі, і їх відводять назад [18:56–19:00]. Ще один Terrorist у черзі, ще один Tunnel. Не залишати жодного робітника без справи [19:00–19:11].
 10. RPG Trooper посадити в будівлі в центрі мапи [19:09–19:16].
 11. Одразу вивести Technical [19:17–19:20].
 12. Terrorist виробляти по одному («drip feeding»). Ціль — 4, «four is the magic number» [19:20–19:27].
@@ -53,7 +53,7 @@
 - Якщо не вийшло: у демонстрації Supply вижив, бо комп'ютер миттєво почав ремонт Dozer'ом. Автор сумнівається, що так швидко зреагує живий гравець [20:30–20:49].
 - Після атаки: завжди тримати 1 Technical у черзі. Якщо атака завдала великої шкоди, є два шляхи:
   - поставити в чергу Rebel і Capture-апгрейд, сісти за додаткові тунелі й грати від нафти;
-  - продовжувати тиск: ще терор-атака, більше тунелів і RPG.
+  - продовжувати тиск: ще терор-атака («another four terrorists», у субтитрах «an ever for terrorism»), більше тунелів і RPG, більше Technical.
 
   Автор радить закінчувати гру якнайшвидше [22:39–23:40].
 
@@ -64,7 +64,7 @@
 3. У Barracks: 1 Terrorist, 1 Rebel, ще щось нерозбірливе («one command»), Capture-апгрейд [24:20–24:34].
 4. Робітники: один іде до бази й збирає (collect), один будує Tunnel, один — Supply [24:34–24:42].
 5. Terrorist поставити в guard mode як «сенсор» (див. «Мікро і тактика») [24:42–25:09].
-6. Rebel одразу відправити на Oil Derrick. RPG посадити всередину, а частину завжди тримати там [25:09–25:15] [25:52–25:55].
+6. Rebel одразу відправити на Oil Derrick. RPG посадити всередину («RPGs inside of that» — куди саме, не уточнено: ймовірно Tunnel або будівля), а частину завжди тримати там [25:09–25:15] [25:52–25:55].
 7. Tunnel тут має з'явитися раніше: якщо йдете на захоплення нафти, пріоритезуйте його і переставте порядок робітників [25:17–25:29].
 8. Замість терор-атаки гроші йдуть у нафту: «a thousand for that and 150 for that», тобто, ймовірно, Capture-апгрейд $1000 і Rebel $150. Для цього пропускаються один Terrorist і один Tunnel [25:29–25:45].
 9. Нафта дає бонус $1000 і $200 кожні 12 секунд [25:45–25:52] [26:08–26:11].
@@ -77,13 +77,13 @@
 
 ## Юніти, апгрейди, генеральські промоції
 - **Technical** — «always going to be your first unit». Ним цькують противника, а з RPG усередині виходить «Tech RPG», перша атака в кожній грі [06:41–06:46] [19:32–19:36].
-- **RPG Trooper** — їх саджають у Technical або в будівлі (у центрі мапи, у Tunnel). Висадка з Technical плюс Q або E дає швидкий фокус по Humvee і Dozer [09:52–10:01] [12:57–13:58].
+- **RPG Trooper** — їх саджають у Technical або в будівлі (цивільні будівлі в центрі мапи; у fast-oil грі — «inside of that», ймовірно Tunnel). Висадка з Technical плюс Q або E дає швидкий фокус по Humvee і Dozer [09:52–10:01] [12:57–13:58].
 - **Terrorist** — вантажаться в Technical і зносять будівлі. Кількість на ціль:
 
 | Ціль | Terrorist | Таймкод |
 |---|---|---|
 | USA Supply Center | 4 | [20:26–20:30] [21:54–21:58] |
-| USA головна будівля (main building) | 4 | [21:27–21:33] |
+| USA «main building» (ключова будівля на кшталт Supply / War Factory; не Command Center — на CC треба ~13) | 4 | [21:24–21:33] |
 | War Factory (USA; також China War Factory) | 4 | [21:12–21:15] [21:50–21:54] |
 | Airfield | 4 («might be five») | [21:58–22:03] |
 | Power Plant | 2 | [22:03–22:06] |
@@ -167,7 +167,7 @@
 - **Змішана юрба робітників і RPG:** якщо підходить Humvee, не виділяйте все рамкою, бо робітники кинуть будувати тунелі. Виберіть один RPG, натисніть E і атакуйте [09:06–09:50].
 - **Висадка з Technical:** після V висаджені RPG не виділені. Одразу Q і атака або примусовий вогонь по Dozer чи Humvee. Так не треба тягнути рамку, і робітники не потрапляють у виділення [12:53–14:16].
 - **Ціна секунд:** на те, щоб добити Humvee чи Dozer, іноді є кілька секунд. Хоткеї вирішують, чи вб'єте ви його, а інколи й результат гри [14:30–15:07].
-- **Alt-pathing:** робітник обходить Fire Base і тунелі, притискаючись до краю мапи. Затисніть Alt і клацайте всі точки маршруту, тоді відпустіть. Будь-який новий наказ скасовує маршрут [15:14–16:35].
+- **Alt-pathing** (замість клацати по одній точці й чекати, поки робітник дійде): робітник обходить Fire Base і тунелі, притискаючись до краю мапи. Затисніть Alt і клацайте всі точки маршруту, тоді відпустіть: робітник «записує» маршрут і проходить його сам, навіть якщо ви клацнете деінде й займетеся іншим («if I then click away he's then gonna [n]ever forget what you told him») [15:14–16:35]. Якщо забули про нього на кілька секунд — подвійне 5, перевірити, де він [17:02–17:07].
   - Pro-гравці (SiZe) роблять це щогри. Підходить будь-якій армії, наприклад для Gattling Tank за China Tank [16:37–16:47].
   - Так робітника тихо заводять у ворожу базу, а потім 5 → перевірити, де він, → Tunnel у базі противника, поки Technical відволікає, а Q допомагає добивати будівлі та юніти [16:53–17:13].
 - **Детонація:** усі 4 Terrorist мають підірватися одночасно [20:49–20:57].
@@ -185,14 +185,15 @@
 - **П'ятий робітник:** варіація — він іде збирати ресурси, а не будувати [26:21–26:28].
 
 **Продаж Command Center:**
-- [18:26–18:30] «my command center … [you don't] need a command center as GLA, never ever do you want to be keeping it».
-  - Хто: автор, граючи GLA у 5-worker білді проти USA.
-  - Коли: одразу після старту. Вже поставлено в чергу 5 робітників, закладено Barracks (B) і Supply Stash, робітника відправлено на Tunnel і замовлено 2 Terrorist у Barracks.
-  - Навіщо: прямо не пояснено, лише «не потрібен GLA». Слова «sell» немає, але контекст однозначно про позбавлення від CC. Гроші йдуть у Tunnel, Supply і терористів.
-  - Винятки: у цьому відео не названо.
-- [24:04–24:10] «I like to hotkey my command center as five at the start».
-  - Контекст: fast-oil варіація проти Tank General. Продаж тут прямо не згадано.
-  - Далі незрозуміла фраза «moving the worker back through the command center shaves off valuable seconds» (див. «Невизначеності»).
+- [18:26–18:30] «sell my command center, you don't need a command center as GLA, never ever do you want to be keeping it». У субтитрах «cell my command center» — помилка розпізнавання слова «sell»; це пряма вказівка продати CC.
+  - Хто: автор, граючи GLA у 5-worker білді Tech RPG + Terror проти USA (Hard AI).
+  - Після чого: на самому старті. Уже поставлено в чергу 5 робітників, закладено Barracks (B) і Supply Stash, Barracks призначено на групу 2, робітника відправлено на Tunnel і замовлено 2 Terrorist (T). Одразу після продажу — «build a tunnel and a supply» [18:30–18:32].
+  - Навіщо: автор каже лише, що GLA командний центр не потрібен. Скільки грошей дає продаж, не названо; далі гроші йдуть у Tunnel, Supply, Terrorist і Technical.
+  - Винятки: жодних — «never ever do you want to be keeping it».
+  - [загальне знання, не з відео: продаж будівлі скасовує її незавершену чергу виробництва, тож CC продають, коли потрібні Worker уже вийшли.]
+- [24:04–24:12] «I like to hotkey my command center as five at the start, moving the worker back through the command center shaves off valuable seconds».
+  - Контекст: fast-oil варіація проти Tank General. Слово «sell» тут не звучить; чи продано CC у цій грі, не сказано.
+  - Можливе прочитання: CC на групу 5 — щоб швидко ним керувати (черга Worker / продаж), а «worker back through the command center» — робітник проходить крізь місце CC. Не підтверджено (див. «Невизначеності»).
 
 ## Матчапи і контри
 - **GLA vs USA:**
@@ -209,7 +210,6 @@
 
 ## Типові помилки
 - Вести робітника клацанням по одній точці й чекати, поки дійде, замість Alt-маршруту [15:35–15:49].
-- Давати робітнику, що йде Alt-маршрутом, будь-який інший наказ: він «forgets» маршрут [16:23–16:29].
 - Виділяти рамкою армію разом із робітниками: ті перестануть будувати. Shift+клік по одному теж ризикований, можна зачепити не той юніт [09:12–09:46].
 - Після висадки з Technical тягнути рамку замість Q: втрачаються секунди [13:58–14:21].
 - Терористи підриваються не одночасно, а поруч Dozer ремонтує: будівля виживає [20:33–20:57].
@@ -219,14 +219,14 @@
 - Не тримати Technical у черзі [22:39–22:47].
 - Скролити краєм екрана чи стрілками замість правої кнопки миші [05:12–05:20].
 - Не вчити хоткеї й не користуватися ними наосліп [03:02–03:45] [04:33–04:43].
-- Тримати Command Center як GLA [18:26–18:30].
+- Тримати Command Center як GLA замість продати його [18:26–18:30].
 
 ## Правила для ШІ-агента
 - ЯКЩО гра завантажується / стартує → ТО одразу поставити в чергу 5 Worker [01:05–02:00] [23:56–24:00].
-- ЯКЩО граємо GLA і стартові черги запущено (5 Worker, Barracks, Supply Stash, Tunnel, перші Terrorist) → ТО не тримати Command Center (продати) [18:26–18:30].
+- ЯКЩО граємо GLA і стартові черги запущено (5 Worker, Barracks, Supply Stash, Tunnel, 2 Terrorist у Barracks) → ТО продати Command Center; винятків автор не називає («never ever do you want to be keeping it») [18:26–18:30]. [загальне знання, не з відео: продавати, коли потрібні Worker уже вийшли, бо продаж скасовує чергу CC.]
 - ЯКЩО Worker відправлено вперед для агресивного будівництва → ТО призначити його в окрему control group (5 або 6) і перемикатися між такими Worker через «стрибок» камери [04:56–06:10].
 - ЯКЩО біля передового Worker з'являється ворожий юніт → ТО одразу сховати Worker у будівлю, а коли загроза мине, зробити Evacuate [06:12–06:27].
-- ЯКЩО Worker має пройти повз Fire Base чи ворожі тунелі → ТО задати маршрут кількома waypoint'ами (Alt+кліки) уздовж краю мапи і не давати нових наказів, поки не дійде [15:14–16:35].
+- ЯКЩО Worker має пройти повз Fire Base чи ворожі тунелі → ТО задати маршрут кількома waypoint'ами (Alt+кліки) уздовж краю мапи; далі можна займатися іншим (Technical, мікро), а положення Worker'а перевіряти подвійним натисканням його групи [15:14–17:07]. [загальне знання, не з відео: новий прямий наказ цьому Worker'у замінить маршрут.]
 - ЯКЩО Worker тихо дійшов у ворожу базу → ТО будувати там Tunnel Network, поки Technical відволікає противника [16:53–17:13].
 - ЯКЩО потрібна перша бойова одиниця → ТО Technical; перша атака — Technical з RPG усередині (Tech RPG) [06:41–06:46] [19:32–19:36].
 - ЯКЩО Technical з RPG дістався цілі (Dozer, Humvee, Chinook) → ТО Evacuate (V), одразу виділити тільки бойові юніти (Q) і фокусувати ціль [12:53–14:16].
@@ -236,12 +236,12 @@
 - ЯКЩО ціль — Airfield → ТО брати щонайменше 4, надійніше 5 Terrorist [21:58–22:03].
 - ЯКЩО ціль — Power Plant, Patriot або Barracks → ТО 2 Terrorist [22:03–22:14].
 - ЯКЩО ціль — Dozer або Humvee → ТО 1 Terrorist [22:09–22:14].
-- ЯКЩО ціль — Command Center → ТО приблизно 13 Terrorist; зазвичай не варто [22:16–22:18].
+- ЯКЩО ціль — Command Center → ТО потрібно приблизно 13 Terrorist (оцінка автора «I think it's like 13»); у відео CC як ціль терор-атаки не демонструється [22:16–22:18].
 - ЯКЩО ціль — GLA Arms Dealer і ми не Demolition General → ТО 5 Terrorist, бо 4 лишають тільки «яму» [21:15–21:27].
 - ЯКЩО терор-Technical готовий → ТО спершу «джеб»: Tech RPG атакує Dozer і Chinook в іншому місці. Поки противник відволікся, Technical з терористами (окрема група) б'є по будівлі [19:56–21:12].
 - ЯКЩО біля цілі ворожий Dozer, здатний одразу ремонтувати → ТО спершу вбити Dozer (Tech RPG або 1 Terrorist) або гарантувати одночасну детонацію всіх терористів [20:33–20:57] [22:09–22:11].
 - ЯКЩО Arms Dealer вільний → ТО завжди тримати 1 Technical у черзі [22:39–22:47].
-- ЯКЩО перша атака проти USA завдала великої шкоди → ТО або поставити в чергу Rebel і Capture-апгрейд і сісти за тунелі на нафті, або продовжити тиск (Terrorist, Tunnel, RPG). Пріоритет — закінчити гру швидко [22:50–23:40].
+- ЯКЩО перша атака проти USA завдала великої шкоди → ТО або поставити в чергу Rebel і Capture-апгрейд і сісти за тунелі на нафті, або продовжити тиск (ще 4 Terrorist, Tunnel, RPG, Technical). Пріоритет — закінчити гру швидко [22:50–23:40].
 - ЯКЩО противник USA → ТО не йти на нафту рано, тримати агресію [23:14–23:21].
 - ЯКЩО противник China Tank General → ТО fast-oil білд від оборони:
   1. Rebel і Capture-апгрейд якомога раніше, ціною одного Terrorist і одного Tunnel.
@@ -252,12 +252,13 @@
 - ЯКЩО граємо від оборони або на fast oil → ТО після Scorpion — Palace. ЯКЩО граємо агресивно → ТО друге Arms Dealer [26:49–27:04].
 - ЯКЩО Terrorist у guard mode раптом біжить з піднятими руками → ТО поруч у тумані війни ворог: розвідати або атакувати цю зону [24:42–25:06].
 - ЯКЩО на мапі є будівлі в центрі (Tournament Desert) → ТО посадити туди RPG Trooper [19:09–19:16].
-- ЯКЩО в Tunnel Network є RPG → ТО завжди тримати частину всередині [25:52–25:55].
+- ЯКЩО в fast-oil грі посаджено RPG всередину (ймовірно Tunnel біля нафти; у відео «inside of there» без уточнення) → ТО завжди тримати частину RPG там [25:12–25:15] [25:52–25:55].
+- ЯКЩО Terrorist у групі розкидані → ТО вибрати одного й подвійно натиснути E, щоб виділити всіх [18:56–19:00].
 - ЯКЩО потрібно швидко перевірити нову подію (вироблено юніт, добудовано будівлю) → ТО стрибнути камерою до останньої події (Space) [07:39–08:07].
 
 ## Ключові цитати
 - [01:21] "you're gonna be able to queue the workers up whilst you're on the loading screen" — робітників можна поставити в чергу ще до початку гри.
-- [03:20] "the pros and experts are able to do this without even looking at the keyboard" — хоткеї треба натискати наосліп.
+- [03:15] "the pros and experts are able to do this without even looking at the keyboard" — хоткеї треба натискати наосліп.
 - [06:43] "the technical … which is always going to be your first unit" — Technical завжди перший юніт.
 - [08:04] "spacebar is a really, really key key" — Space переносить до останньої події.
 - [09:22] "select the first RPG, press the E key and it selects all your RPGs on the screen" — швидкий вибір юнітів одного типу.
@@ -265,7 +266,7 @@
 - [14:12] "you press Q, it just selects your attacking units" — Q виділяє армію без робітників.
 - [14:32] "GLA … is all about hit and run tactics, very micro intensive" — суть гри за GLA.
 - [16:37] "pro players like SiZe use it in every single game" — Alt-маршрути як стандарт про-гравців.
-- [18:28] "you don't need a command center as GLA, never ever do you want to be keeping it" — CC за GLA не тримати.
+- [18:26] "sell my command center, you don't need a command center as GLA, never ever do you want to be keeping it" — CC за GLA продати.
 - [19:25] "four is the magic number for killing them" — 4 Terrorist на ключову будівлю.
 - [19:34] "my first attack is gonna be a tech RPG every single time" — стандартна перша атака.
 - [20:03] "this is what I like to call a one-two punch combination" — джеб Tech RPG плюс удар терористами.
@@ -291,11 +292,15 @@
 - [17:37–17:38] «hard army USA» — ймовірно, Hard AI.
 - [17:57–17:58] Фраза «I'm expecting a dozer to come here» пояснень не має.
 - [18:07–18:12] Фраза про розворот будівлі нечітка («start it … somewhere I can't rotate it»).
-- [18:26–18:30] Слова «sell» немає, але контекст («never ever do you want to be keeping it») — про позбавлення від CC.
+- [16:25–16:29] «if I then click away he's then gonna ever forget what you told him» — найімовірніше «never forget»: маршрут зберігається, коли гравець клацає деінде (за контекстом демонстрації робітник дійшов сам).
+- [18:26] У субтитрах «cell my command center» — це «sell my command center» (пряма вказівка продати CC). Скільки грошей повертає продаж, у відео не сказано.
 - [19:16–19:17], [19:27–19:32] Окремі фрази нерозбірливі: «this one's going to be flattened», «my range is skimming here».
 - [20:30–20:33] «three is the magic number to kill of demo» — найімовірніше, за Demolition General вистачає 3 Terrorist (у нього сильніші терористи; пор. «unless you are demo» [21:24]). Можливе й інше прочитання.
-- [21:58–22:03] Сам автор не впевнений щодо Airfield: 4 чи 5 Terrorist. Щодо Command Center — «I think it's like 13».
-- [24:06–24:12] «moving the worker back through the command center shaves off valuable seconds» — незрозуміло, про що йдеться (точка збору, продаж CC чи інше).
+- [21:24–21:30] «four terrorists do indeed kill a main building for USA» — під «main building» мається на увазі ключова виробнича будівля (Supply / War Factory), а не Command Center (на CC автор називає ~13).
+- [21:46–21:50] «so we're gonna kill it come in now for terrorists it's just not work» — нерозбірливо; можливо, якась спроба 4 терористами не спрацювала.
+- [21:58–22:03] Сам автор не впевнений щодо Airfield: 4 чи 5 Terrorist. Далі нерозбірливе «link is for» (можливо, ще одна будівля, яку зносять 4). Щодо Command Center — «I think it's like 13».
+- [23:07–23:09] «queue up an ever for terrorism» — найімовірніше «another four terrorists».
+- [24:06–24:12] «moving the worker back through the command center shaves off valuable seconds» — незрозуміло, про що йдеться (точка збору, прохід крізь місце CC після продажу чи інше). У першій грі автор прямо продає CC [18:26], тут продаж не названо.
 - [24:31] «one terrorist, one rebel, one command, one capture upgrade» — третій елемент нерозбірливий.
 - [25:35–25:39] «a thousand for that and 150 for that» — найімовірніше, Capture-апгрейд $1000 і Rebel $150. Що саме коштує скільки, у відео не уточнено.
 - [23:52–23:55] «fast or you'll build order» розшифровано як «fast oil build order».

@@ -26,7 +26,7 @@
 
 ### USA — eco boom на Flower Oases (будь-який USA-генерал)
 - Коли застосовувати: сусіди грають «standard», не супер-агресивно [00:42–00:52].
-1. Як USA завжди scan лівого й правого сусіда: виділяй Spy Drone на базі [00:30–00:35].
+1. Як USA завжди scan лівого й правого сусіда: виділяй дрон на базі («selecting the drone from here», тобто Spy Drone) [00:30–00:35].
 2. Перший Barracks: 2 Missile Defender («MDs») + 2 Ranger [00:51–00:59].
 3. Один Missile Defender садиш «inside of there» (ймовірно, у бункер біля бази) [00:59–01:01]. Інший лишається в базі для оборони: він знаходить і збиває Spy Drone USA-сусіда над твоєю базою [01:08–01:10], [01:43–01:53].
 4. Ще 4 Ranger («Do four rangers from this one»). Rangers розходяться по одному до oils [01:04–01:13]. Далі «Extra nuke from here and here», що, ймовірно, означає додатковий Chinook, див. «Невизначеності» [01:14–01:16].
@@ -43,7 +43,7 @@
 15. Спам із обох Barracks, завантаження Humvee, «giant army». Згодом 1 Ambulance і апгрейд TOW Missile [04:00–04:09].
 16. На кожен Supply Center по 2 Chinook. Навіть коли ящиків багато, тут 2–3 нормально (автор зробив 3). Кожен Chinook має збирати з окремої купи [04:09–04:19].
 17. Якщо можна зайняти 3 бункери, займи [04:21–04:24].
-18. Для кожної наступної купи питай себе: «can you get this supply without being harassed?» Так → бери. Багато Stinger поруч → не будуй. Кілька Gattling Cannon або танкова армія (Gattling Tank + ECM) → не будуй [04:29–04:47].
+18. Для кожної наступної купи питай себе: «can you get this supply without being harassed?» Так → бери. Багато Stinger поруч → не будуй. Кілька Gattling Cannon або танкова армія («tank army, tank gats and ECMs»: танки, Gattling Tank, ECM) → не будуй [04:29–04:47].
 19. Search & Destroy, потім три апгрейди «in that order» (на екрані, у мовленні не названо), ще електростанції, ще Missile Defender по базі [04:47–05:00].
 20. У банку 3–4k (трохи більше теж нормально), не 15k. Зайві гроші йдуть в електростанції й армію [05:00–05:13].
 21. «No rules»: один Particle Cannon якомога швидше, біля краю карти. Supply Drop Zone теж біля країв [05:13–05:28].
@@ -55,7 +55,7 @@
 - Що робити, якщо не підходить: див. «USA — безпечні варіанти» нижче.
 
 ### USA — безпечні варіанти проти агресивних сусідів
-- China Tank з двома War Factory у твій бік: один Supply, максимум 2 oils, пріоритет Firebase і оборона на його боці замість решти [07:05–07:22].
+- China Tank з двома War Factory у твій бік: один Supply, «maybe get two oils» (можливо 2 oils), пріоритет Firebase і оборона на його боці (у прикладі праворуч) замість решти [07:05–07:22].
 - GLA шле перший Worker у твій бік і готує «TNT» (ймовірно, tunnel rush чи інший ранній напад): грай «ultra safe». На старті Supply (+ Supply?), потім звичайний War Factory + Barracks, oils пізніше. Це «a lot lot safer» проти агресивних гравців [07:22–07:47].
 - Загальний принцип: «You play reactive to what the enemies are doing» [07:22–07:24].
 
@@ -71,7 +71,7 @@
 7. Другий Barracks: 3 Red Guard [09:08–09:11].
 8. Додатковий Supply Truck і War Factory [09:12–09:17].
 9. Red Guard ідуть до найдальших oils [09:20–09:24].
-10. Bunker тут (на вході / біля oils) [09:26–09:28].
+10. Bunker «here» (місце видно лише на екрані) [09:26–09:28].
 11. Перший юніт з War Factory — Gattling Tank («gat»), бо пріоритет — захист від Combat Chinook і Helix (і ще чогось нерозбірливого, «buildingace») [09:29–09:43].
 12. Далі Listening Outpost або другий Gattling Tank; у прикладі другий Gattling Tank [09:48–09:53].
 13. Щойно oils можна захопити й піхота поруч, клікай одразу: «Don't waste any seconds at all» [09:53–10:05].
@@ -110,7 +110,7 @@
 14. Rebels на oils якомога швидше (автор визнає затримку 1–2 с) [16:53–17:04].
 15. Коли oils приходять, з'являється «freedom»: Tunnel, fake Arms Dealer, Quad Cannon у черзі без перерви [17:06–17:21].
 16. Тепер ще один Supply. Нова oil дає гроші ще на один Supply [17:24–17:31].
-17. Rebel захоплює наступний oil. Quad завжди в черзі, навіть якщо через це відкладається апгрейд (fake → real) [17:35–17:43].
+17. Rebel захоплює наступний oil. Quad завжди в черзі, навіть якщо через це відкладається апгрейд будівлі («delaying upgrading this», ймовірно fake → real) [17:35–17:43].
 18. На нові Supply — мінімум 5 Worker [17:48–17:58].
 19. Бери якомога більше oils у центрі [18:04–18:10].
 20. Хоткеї груп: одна будівля на 1, друга на 2 [18:26–18:31].
@@ -134,7 +134,7 @@
 | Ranger | USA | 2 + 4 на oils, мета 5–6 oils | [00:51–01:33] |
 | Firebase | USA | прикриття oils; мінімум один на кожен вхід (4) | [01:34–01:40], [05:28–05:37] |
 | Power upgrade | USA | брати на ранньому етапі (назва не прозвучала; ймовірно Advanced Control Rods [загальне знання, не з відео]) | [02:31–02:33] |
-| Chinook | USA | 2 на Supply, тут 2–3, кожен на окремій купі; Chinook над купою може харасити навіть Quad | [02:43–02:50], [04:09–04:19], [11:06–11:11] |
+| Chinook | USA | 2 на Supply, тут 2–3, кожен на окремій купі; Chinook, що зависає над купою, вразливий до харасу навіть одним Quad Cannon | [02:43–02:50], [04:09–04:19], [11:06–11:11] |
 | Flash-Bang | USA | за бажанням | [03:00–03:03] |
 | Strategy Center | USA | раніше за додатковий Chinook / War Factory | [03:31–03:39] |
 | Search & Destroy | USA | «hugely important» на цій карті | [03:46–03:51], [04:47–04:48] |
@@ -153,8 +153,8 @@
 | Апгрейд MiG на здоров'я | China | ціна 1,000, окупається, якщо врятує хоч один MiG (1,200); автор вважає, що бонус більший за 25% | [13:25–13:47] |
 | Land Mines | China | клікни будівлю й натисни L | [12:18–12:22] |
 | Internet Center + Hacker | China | пізніше в еко-бумі | [14:06–14:08] |
-| Worker | GLA | 5 на старті; 5–6 на першому Supply; мінімум 5 на кожному новому | [14:59], [15:49–15:53], [17:54–17:58] |
-| Terrorist | GLA | 2; один в атаку («over here»), один у базі на випадок rush | [15:38–15:40], [15:53–16:06] |
+| Worker | GLA | 5 на старті; 5–6 на першому Supply; мінімум 5 на кожному новому | [14:51], [15:49–15:53], [17:54–17:58] |
+| Terrorist | GLA | 2 (+ Capture Building); один «over here» (місце на екрані), один у базі на випадок rush | [15:38–15:40], [15:53–16:06] |
 | Rebel | GLA | 4–5 (у прикладі 5) на oils, якомога швидше | [15:44–15:47], [16:53–17:02] |
 | RPG Trooper | GLA | розподілити, займати лише свої бункери | [16:17–16:24] |
 | Technical | GLA | один на розвідку й денай oils / Worker | [16:24], [16:38–16:45] |
@@ -176,24 +176,24 @@
 
 ## Мікро і тактика
 - Паркан на карті знищується кулеметним вогнем через control fire (примусову атаку) [01:56–02:04]. GLA розчищає його під час пушу [21:43–21:47].
-- MiG: виділи один, двічі натисни E (виділити всі такі), натисни R (у субтитрах «to go air», дія неясна) і відправ їх над гори. Коли щось залетить, виділи групу й атакуй [13:47–13:59]. Атака без видимого ворога — з затиснутим Ctrl (force attack) [13:59–14:03].
+- MiG: виділи один, двічі натисни E (ймовірно, виділити всі такі юніти на карті [загальне знання, не з відео]), натисни R (у субтитрах «to go air», дія неясна) і відправ їх над гори. Коли щось залетить, виділи групу й атакуй [13:47–13:59]. Атака без видимого ворога — з затиснутим Ctrl (force attack) [13:59–14:03].
 - Хоткеї автора (є оверлей клавіатури ліворуч) [00:24–00:27]:
 
 | Дія | Клавіша | Таймкод |
 |---|---|---|
 | Supply Drop Zone (USA) | Z | [05:48–05:50] |
 | Sell (кастомний хоткей автора) | Z — через це він інколи продає будівлю випадково; звичка з інших C&C | [05:50–06:09] |
-| USA: War Factory | групи 1, 2, 3; Barracks без групи | [06:09–06:19] |
+| USA: War Factory | групи 1, 2, 3; Barracks — нерозбірливо («then barracks, I won't have the control group»: або без групи, або група 4) | [06:09–06:19] |
 | USA: армія (коли багато War Factory) | 5 | [06:19–06:26], [06:37–06:39] |
 | MiG (China) | G | [12:09–12:11] |
 | Міни на виділену будівлю (China) | L | [12:18–12:22] |
-| Виділити всі MiG | подвійне E | [13:47–13:51] |
+| Виділити всі MiG (з одного виділеного) | подвійне E | [13:47–13:51] |
 | Force attack | Ctrl | [13:59–14:03] |
 | GLA: дві основні будівлі виробництва | групи 1 і 2 | [18:26–18:31] |
 | Worker Shoes (GLA) | S | [21:29–21:31] |
 
 - Fake-будівлі GLA: побудова fake + апгрейд до real займає стільки ж часу, скільки звичайна будівля, але Worker звільняється на половину цього часу й може збирати чи будувати далі [18:14–18:26].
-- Розміщення China CC (якщо будуєш новий): позаду бази або перед oils («also a really good idea»). Не став поверх мін, бо вони стануть марними [12:36–12:50]. Біля входу теж нормально, якщо CC притулений до кута карти [12:52–12:58]. На цій карті Carpet Bomb (USA) летить здалеку («all the way over there») і не прилітає миттєво. Позиція, звідки його шлях коротший, має перевагу: CC там дає швидший Carpet Bomb, ніж «over all them mountains» [12:58–13:25].
+- Розміщення China CC (якщо будуєш новий): позаду бази або перед oils («also a really good idea»). Не став поверх мін, бо вони стануть марними [12:36–12:50]. Біля входу теж нормально, якщо CC притулений до кута карти [12:52–12:58]. Навіщо CC: власний China Carpet Bomb. На цій карті він летить здалеку («all the way over there») навіть із CC на краю бази, тож миттєвим не буде. Але одна позиція має перевагу: якщо CC там, а ворог атакує поруч, Carpet Bomb прилетить швидше, ніж «over all them mountains» [12:58–13:25].
 - USA: Particle Cannon і Supply Drop Zone «hug the edges of the map» [05:18–05:28]. GLA: Black Market по краях [19:00–19:04]. China: «hugging the edges of the map again» [14:08–14:10].
 - War Factory (USA) рознось одну від одної [03:53–03:57]. Airfield (China) не став впритул [12:13–12:16].
 - GLA Palace — всередині бази, щоб група Humvee не «скинула» будівництво [18:35–18:54].
@@ -203,8 +203,8 @@
 ## Економіка
 - Стартова позиція рівноцінна [00:11–00:21]. Oils багато, тому білди відрізняються від звичайних [00:37–00:44].
 - Dozer: майже завжди 2. Лише на деяких 1v1-картах з 12.5k стартових можна 3 [08:22–08:34]. USA додає ще 2, коли грошей «absolute ton» [02:39–02:46]. China пізніше будує «loads more» [14:03–14:06].
-- USA збирачі: 2 Chinook на кожен Supply, тут 2–3, кожен на своїй купі [04:09–04:19]. China Supply Truck на землі харасити важче: тільки юніт, що стоїть поруч. USA Chinook над купою харасить навіть Quad [11:04–11:21].
-- GLA Worker: 5 на старті [14:59], 5–6 на першому Supply [15:49–15:53], мінімум 5 на кожному новому [17:54–17:58].
+- USA збирачі: 2 Chinook на кожен Supply, тут 2–3, кожен на своїй купі [04:09–04:19]. China Supply Truck на землі харасити важче: тільки юніт, що стоїть поруч. USA Chinook, що зависає над купою, можна харасити навіть одним Quad Cannon [11:04–11:21]. Тому China простіше забрати всі купи.
+- GLA Worker: 5 на старті [14:51], 5–6 на першому Supply [15:49–15:53], мінімум 5 на кожному новому [17:54–17:58].
 - Oils: USA мінімум 5, ідеально 6 [01:24–01:33]. GLA щонайменше 4 [14:40–14:43]. Захоплювати миттєво [09:53–10:05], [16:53–17:02].
 - Банк: USA 3–4k, не 15k; зайве — в енергію й армію [05:00–05:13]. GLA тримає трохи грошей на екстрений Stinger Site [16:34–16:53].
 - Нові Supply лише там, де не харасять. Багато Stinger, Gattling Cannon чи танкова армія поруч → не будувати [04:29–04:47].
@@ -217,14 +217,14 @@
   - Виняток (залишити CC): «on this map probably unless you're against some like mega mega top players… you can afford to keep your CC based on that build I did there». Тобто проти звичайних суперників CC на Flower Oases зберігають, а продаж має сенс лише проти дуже сильних гравців.
 - **China — продати CC одразу після другого Dozer** [08:17–08:19], [08:36–08:38]: «We're going to do an eco beam [boom] and we are going to sell our CC as the China» і «as soon as the dozer is ready, sell the CC, want to build a barracks».
   - Хто / коли: China (generic). Порядок: з CC будується другий Dozer (усього 2) → щойно він вийшов, продати CC → Barracks.
-  - Навіщо: eco boom, гроші на ранні Barracks, Tank Hunter, Red Guard і захоплення oils.
-  - Пізніше CC можна збудувати знову (заради support powers) [12:36–13:25]: «if you're going to build a CC, build it at the back of the base». Також перед oils (але не поверх мін) або біля входу, якщо притулений до кута карти.
-- **GLA — можлива згадка** [15:42]: одразу після «Two terrorists and the capture upgrade» звучить «Sell that» (далі голос гри «upgrade complete»). Що продається, не сказано. Найімовірніше, CC після 5 Worker (така ж фраза є в GLA-опенінгу відео про Defcon 6), але як підтверджений продаж CC це не трактувати.
+  - Навіщо: «eco boom» (так автор пояснює продаж); звільнені гроші йдуть на ранні два Barracks, Tank Hunter, Red Guard і захоплення oils (висновок з порядку білду).
+  - Пізніше CC можна збудувати знову (заради support powers, зокрема власного Carpet Bomb) [12:36–13:25]: «if you're going to build a CC, build it at the back of the base». Також перед oils (але не поверх мін) або біля входу, якщо притулений до кута карти.
+- **GLA — можлива згадка** [15:42]: одразу після «Two terrorists and the capture upgrade» звучить «Sell that» (далі голос гри «upgrade complete»). Що продається, не сказано. Найімовірніше, CC після 5 Worker (схожий патерн є в GLA-опенінгу іншого відео каналу [не з цього відео]), але як підтверджений продаж CC це не трактувати. Можлива й помилка субтитрів («So that…»).
 - Не про CC: хоткей Sell у автора на Z, тому він інколи продає будівлю випадково [05:50–06:01].
 
 ## Матчапи і контри
-- USA проти Stinger Site / Gattling Cannon / танкової армії China (Gattling Tank + ECM) біля купи → не будувати там Supply [04:37–04:47].
-- USA проти China Tank з двома War Factory у твій бік → 1 Supply, до 2 oils, Firebase і оборона на його боці [07:05–07:22].
+- USA проти Stinger Site / Gattling Cannon / танкової армії (танки, Gattling Tank, ECM) біля купи → не будувати там Supply [04:37–04:47].
+- USA проти China Tank з двома War Factory у твій бік → 1 Supply, можливо 2 oils, Firebase і оборона на його боці [07:05–07:22].
 - USA проти GLA, що шле Worker до тебе й готує ранню атаку → «ultra safe» білд, oils пізніше [07:22–07:47].
 - China проти раннього повітря (Helix, Combat Chinook) → перші 2 юніти з War Factory — Gattling Tank [09:29–09:43], [10:12–10:18].
 - China проти USA → MiG (єдина відповідь на пуш Humvee), Napalm [10:56–11:02], [11:29–11:35]. Сильний USA, найімовірніше, висадить Humvee на Airfield, тому Gattling і міни навколо [12:23–12:34].
@@ -240,7 +240,7 @@
   - проти Toxin, Tank, Nuke, де потрібні «actual tanks with rockets»: Scorpion.
 
 ## Типові помилки
-- Тримати в банку 15k замість 3–4k [05:05–05:13].
+- Тримати в банку 15k замість 3–4k [05:05–05:13]. Автор жартує, що саме цим грішить сам («especially if you're in the yellow and your name is Dominator») [05:07–05:11].
 - Зволікати з захопленням oils, коли піхота вже на місці. Автор сам мав затримку 1–2 с з Rebels [09:53–10:05], [16:53–16:58].
 - Пізно ставити Bunker через мультитаскінг (визнана помилка автора в China) [10:05–10:10].
 - Ставити Supply там, де його харасять Stinger, Gattling Cannon чи танки [04:29–04:47].
@@ -262,13 +262,13 @@
 - ЯКЩО USA захопив oils → ТО Firebase, які їх прикривають, Missile Defender по базі, power upgrade, оборонна гра до повної розкрутки економіки [01:34–02:39].
 - ЯКЩО USA банк «absolute ton» → ТО +2 Dozer і ще Chinook на окремих купах (до 3 на Supply) [02:39–02:50], [04:09–04:19].
 - ЯКЩО USA вибирає між зайвим Chinook / War Factory і Strategy Center → ТО спершу Strategy Center і Search & Destroy [03:31–03:51].
-- ЯКЩО біля потенційної купи багато Stinger, є Gattling Cannon чи танкова армія (Gattling Tank + ECM) → ТО не будуй там Supply [04:37–04:47].
+- ЯКЩО біля потенційної купи багато Stinger, є Gattling Cannon чи танкова армія (танки, Gattling Tank, ECM) → ТО не будуй там Supply [04:37–04:47].
 - ЯКЩО сусід «newbie» і не виходить з бази → ТО бери його бік рано й «bold» [03:16–03:29].
 - ЯКЩО банк > 4k → ТО витрачай на енергію, Missile Defender, армію, War Factory чи Supply Drop Zone [04:54–05:13], [05:38–05:50].
 - ЯКЩО лобі «no rules» і ти USA → ТО один Particle Cannon якомога швидше, біля краю карти [05:13–05:22].
 - ЯКЩО в базі є входи → ТО мінімум одна оборона (Firebase) на кожен [05:28–05:37].
 - ЯКЩО USA і суперники не «mega top players» → ТО CC можна не продавати. Якщо продав, Firebase і другий Supply будуть швидше [06:42–07:03].
-- ЯКЩО сусід China Tank з двома War Factory у твій бік → ТО 1 Supply, до 2 oils, оборона на його боці [07:05–07:22].
+- ЯКЩО сусід China Tank з двома War Factory у твій бік → ТО 1 Supply, можливо 2 oils, пріоритет Firebase і оборона на його боці замість решти білду [07:05–07:22].
 - ЯКЩО GLA-сусід шле перший Worker до твоєї бази → ТО «ultra safe»: Supply, War Factory + Barracks, oils пізніше [07:22–07:47].
 - ЯКЩО ти China (generic) → ТО другий Dozer, щойно вийшов — продай CC, будуй Barracks [08:22–08:38].
 - ЯКЩО China Barracks готовий → ТО 3 Tank Hunter + Capture, другий Barracks → 3 Red Guard на найдальші oils, Supply Truck + War Factory [08:53–09:24].
@@ -276,7 +276,8 @@
 - ЯКЩО oils можна захопити й піхота поруч → ТО захоплюй негайно [09:53–10:05], [16:53–17:02].
 - ЯКЩО ти China і серед сусідів є USA → ТО MiG (G) + Napalm, Airfield рознесені й прикриті Gattling + мінами (L) [10:56–11:35], [12:09–12:34].
 - ЯКЩО у China є MiG → ТО апгрейд MiG на здоров'я (1,000 < 1,200 за MiG) і паркуй їх над горами [13:25–13:53].
-- ЯКЩО China будує новий CC → ТО позаду бази, перед oils (не на міни) чи біля входу, але притуленим до кута карти [12:36–12:58].
+- ЯКЩО China будує новий CC → ТО позаду бази, перед oils (не на міни) чи біля входу, але притуленим до кута карти; з урахуванням, звідки власний Carpet Bomb прилетить швидше до місця атаки [12:36–13:25].
+- ЯКЩО ти China у eco boom → ТО забирай усі купи: Supply Truck на землі харасить лише юніт, що стоїть поруч, на відміну від Chinook USA, якого зачіпає навіть Quad [11:02–11:21].
 - ЯКЩО попереду порожньо → ТО «creep forward»: Supply і оборона крок за кроком уздовж країв карти [14:08–14:21].
 - ЯКЩО ти GLA → ТО Supply Stash першим, де б не з'явився, на здоровій відстані від купи [15:06–15:24].
 - ЯКЩО GLA опенінг → ТО 5 Worker, 2 fake Barracks, 3 Tunnel по краях, 2 Terrorist + Capture, 5 Rebel на oils, 5–6 Worker на Supply [14:48–16:09].
@@ -288,6 +289,7 @@
 - ЯКЩО «no rules» і ти GLA → ТО один Black Market → SCUD Storm [19:04–19:09].
 - ЯКЩО GLA проти сильних гравців → ТО Radar Van і Stinger Site по всій базі, зокрема ззаду (Helix / Comanche через «dead space») [19:21–19:41].
 - ЯКЩО Tunnel повний → ТО не зупиняй армію: тримай другу таку саму групу [19:51–20:15].
+- ЯКЩО GLA потрібен Worker на кількох задачах одразу → ТО став fake-будівлю й апгрейдь до real: час той самий, а Worker звільняється на половину часу; fake-будівлі також допомагають керувати грошима [18:14–18:26], [20:33–20:38].
 - ЯКЩО GLA проти China Tank / Nuke → ТО Battle Bus, SCUD Launcher (не Toxin) або Scorpion; Toxin замість SCUD — Battle Bus + Anthrax Gamma [20:47–21:19].
 - ЯКЩО GLA пушить і відволікає суперника → ТО заводь Jarmen Kell і пробуй вкрасти Dozer [21:36–21:51].
 
@@ -299,13 +301,13 @@
 - [04:34] "If the answer is yes, take it. If there's loads of stingers there, don't bother making this supply." — правило вибору нових Supply.
 - [05:02] "Always want to be floating around 3 4k" — банк USA.
 - [05:28] "At a very minimum, you want one defense covering each entrance" — оборона на кожен вхід.
-- [06:58] "you can afford to keep your CC based on that build I did there" — USA може не продавати CC на цій карті.
+- [07:01] "you can afford to keep your CC based on that build I did there" — USA може не продавати CC на цій карті.
 - [07:22] "You play reactive to what the enemies are doing" — реагуй на сусідів.
 - [08:36] "as soon as the dozer is ready, sell the CC" — China продає CC після другого Dozer.
 - [10:02] "Don't waste any seconds at all" — захоплення oils.
 - [10:58] "if he pushes you with V's, it's pretty much the only way you're going to be dealing with the V's" — China проти Humvee: MiG.
 - [13:39] "a MIG is worth 1,200 and that upgrade is worth a,000" — апгрейд MiG окупається.
-- [15:12] "always just get in the habit of just sending your workers straight to the supply" — GLA Supply першим.
+- [15:16] "always just get in the habit of just sending your workers straight to the supply" — GLA Supply першим.
 - [17:41] "you always want to be pumping the quads" — безперервне виробництво Quad.
 - [19:14] "A line of stingers and tunnels is never a bad idea" — оборона GLA.
 - [20:12] "Don't just stop because you've got a full tunnel" — армію не зупиняти.
@@ -332,4 +334,5 @@
 - [16:03–16:06] «in case you get those a rush»: тип раша нерозбірливий.
 - [20:15–20:25] «Getting that upgrade is the most important thing from the palace and getting a Jean Kel and a bike is the next most important thing to go and get the power»: з якої будівлі «that upgrade» і що означає «get the power», неясно. Jarmen Kell, ймовірно, потрібен для крадіжки Dozer [21:45–21:51] чи снайпінгу.
 - [20:44] «Julad»: ймовірно, «GLA».
-- Застарілість: патчі не згадуються. Відео від 2025-12-28; автор каже, що Palace у безпечному місці «more and more pros do… in recent times» [18:48–18:54], тобто це актуальна мета на момент запису. Посилається на попереднє відео про Defcon 6 [00:08–00:09], [02:11–02:13], [12:42–12:44].
+- [06:14–06:16] «then barracks, I won't have the control group»: чи Barracks у автора без групи, чи на групі 4, з субтитрів не ясно.
+- Застарілість: патчі не згадуються. Відео від 2025-12-28; автор каже, що Palace у безпечному місці «more and more pros do… in recent times» [18:48–18:54], тобто це актуальна мета на момент запису. Посилається на попереднє FFA-відео: «as I promised you in the last video» [00:08–00:09], «the previous video on Defcon» [02:11–02:13] (у мовленні лише «Defcon», без номера), коментар глядача до «the last video» [12:42–12:44].
