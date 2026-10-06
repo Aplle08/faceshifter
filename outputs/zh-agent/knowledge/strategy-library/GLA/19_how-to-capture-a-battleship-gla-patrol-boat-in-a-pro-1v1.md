@@ -21,6 +21,9 @@
 - Для PT Boat треба мати одночасно технології Air і Nuke у 1v1 — «extremely rare circumstance»; автор: «chances are probably you'll never ever do it» [07:45]–[07:57].
 - Автор сам підкреслює: трюк не змінює гру, вимагає багато грошей та інвестицій, PT Boat гине дуже легко [08:26]–[08:52].
 - Згадано, що Mad Rage в одному з реплеїв маскував Bomb Truck під цей Battleship [00:24]–[00:31].
+- Melting Snow — pro 1v1 карта, тож технічно трюк можливий і в Clan Wars, і на World Series [02:15]–[02:19]; на закиди «Dominator показує баги» автор відповідає, що це ніколи не змінить гру [02:19]–[02:24], [08:28]–[08:33].
+- Мотивація автора: це спосіб «show off without actually ruining the game» [04:44]–[04:46] або «troll your enemy» [07:42]; у звичайному 1v1 «you'll never be able to get bunker busters and be able to use this unit» [08:34]–[08:40].
+- Трюк з Battleship знайшов гравець goldfish (нік за субтитрами); як захопити PT Boat, він, за словами автора, не показував [08:52]–[09:04].
 
 ## Стратегії та білд-ордери
 ### Захоплення Battleship на Melting Snow (China Nuke General)
@@ -44,11 +47,11 @@
 1. У демонстрації: skirmish, суперник — «easy» Air Force (ймовірно Easy AI), усе на супершвидкості [05:33]–[05:45].
 2. Power Plant [05:33]–[05:35]; «a nuke back here» [06:04]; «we don't want them having a War Factory» [06:12]; «we are going to get Air Force» [06:18]; ще одна power supply [06:24]–[06:27].
 3. Набудувати Stealth Fighters і взяти Bunker Busters — саме ними штовхатимемо човен [06:38]–[06:41].
-4. War Factory [06:49]; апгрейд Neutron Shells («the neutrons») і Nuke Cannon («the neutron over here») [06:53]–[06:56]; апгрейд Bunker Busters [06:59].
+4. War Factory [06:49]; апгрейд Neutron Shells («we'll get the upgrades from here which is the neutrons») і ще один крок «we'll get the neutron over here» (ймовірно, Nuke Cannon, з субтитрів не зрозуміло) [06:53]–[06:56]; апгрейд Bunker Busters [06:59].
 5. Дочекатися апгрейду і «вбити» (екіпаж) GLA PT Boats — можна лише один, не обов'язково обидва [07:02]–[07:13].
 6. Одним Stealth Fighter стріляти поруч із човном («shoot over here somewhere»), щоб штовхнути до краю, НЕ вбивши його — PT Boat гине дуже легко порівняно з Battleship [07:13]–[07:26].
 7. Спробувати захопити; якщо «not close enough yet» — вистрілити ще раз і повторити [07:31]–[07:39].
-8. Результат: ви володієте GLA PT ship [07:39]–[07:41]; він може стріляти [07:59]–[08:07].
+8. Результат: ви володієте GLA PT Boat (у субтитрах «we're actually gonna be gla pt ship») [07:37]–[07:41]; він може стріляти («oh can it shoot ... it can actually shoot») [07:57]–[08:07].
 - Склад удару, ціль атаки, ознака успіху, що робити, якщо не вийшло: ознака успіху — човен під контролем і стріляє; якщо не вдається захопити — ще один постріл Bunker Buster, щоб підсунути ближче до краю [07:33]–[07:39]. Ризик — випадково вбити човен.
 
 ## Юніти, апгрейди, генеральські промоції
@@ -56,7 +59,7 @@
 - Nuke MiGs (MiG з апгрейдом nuke) — інструмент «штовхання» Battleship вибухом [01:16]–[01:17], [01:58]–[02:04], [04:00]–[04:06].
 - Stealth Fighter + Bunker Busters (Air Force General) — інструмент «штовхання» PT Boat; потужність достатня, щоб зрушити човен, але треба не вбити його [06:38]–[06:41], [07:13]–[07:22].
 - Red Guard / Troop Crawler — піхота, яка заходить у знейтралізований корабель [01:55]–[01:58].
-- Battleship (Melting Snow): належить фракції «civilian» (як у World Builder: player 1 / player 2 / team 1 / team 2 / civilian) [01:22]–[01:38]; після захоплення кнопку bombardment натиснути можна, анімація відтворюється, але шкоди немає [02:24]–[02:35], [03:05]–[03:06]; невразливий — HP не падає [03:16], [04:12]–[04:15]; у World Builder є два типи Battleship, на цій карті стоїть той, що «can't shoot» [02:46]–[02:55], [03:37]–[03:51].
+- Battleship (Melting Snow): належить фракції «civilian» (як у World Builder: player 1 / player 2 / team 1 / team 2 / civilian) [01:22]–[01:38]; після захоплення кнопку bombardment натиснути можна, анімація відтворюється, але шкоди немає [02:24]–[02:35], [03:05]–[03:06]; невразливий — HP не падає [03:16], [04:12]–[04:15]; у World Builder є два типи Battleship, на цій карті стоїть той, що «can't shoot» [02:46]–[02:55], [03:37]–[03:40].
 - GLA PT Boat: за підказкою при наведенні «meant to be for the GLA faction» [07:05]–[07:09]; може стріляти; за звуком, поведінкою й анімацією — «exactly like the GLA Technical»; гине дуже легко [08:04]–[08:25], [08:40]–[08:44].
 - Історична довідка: PT Boats, ймовірно, мали бути GLA-човнами в грі; морські юніти вирізали або вони були лише для кампанії; автор не думає, що PT Boat взагалі потрапив у кампанію [04:52]–[05:08].
 - Генеральські промоції: у другій частині звучать голосові рядки «congratulations general you have been demoted» [06:27] і «you have been promoted» [06:43]; які саме промоції взято — не названо.
@@ -72,7 +75,7 @@
 - Продаж Command Center: у відео згадок немає.
 
 ## Матчапи і контри
-- Проти GLA на Melting Snow: Mad Rage у реплеї маскував Bomb Truck під Battleship [00:24]–[00:31] — фальшивий «другий» Battleship може бути замаскованим Bomb Truck.
+- Проти GLA на Melting Snow: Mad Rage у реплеї маскував Bomb Truck під Battleship [00:24]–[00:31] — фальшивий «другий» Battleship може бути замаскованим Bomb Truck (висновок із побіжної згадки; детальніше у відео не розібрано).
 - Інших матчап-порад немає — у відео не розглядається.
 
 ## Типові помилки
@@ -83,7 +86,9 @@
 
 ## Правила для ШІ-агента
 - ЯКЩО карта Melting Snow і йде змагальна гра → ТО НЕ витрачати ресурси на захоплення Battleship: він не стріляє і не дає переваги [02:29]–[02:35], [05:20]–[05:25].
-- ЯКЩО граємо Nuke General на Melting Snow, гра фактично виграна і є надлишок грошей (необов'язкова «понтова» дія) → ТО: Nuke Cannon з Neutron Shells force-fire поруч з Battleship → Nuke MiGs force-fire поруч, щоб підсунути його до берега → завести Red Guard / Troop Crawler [01:18]–[02:15].
+- ЯКЩО граємо Nuke General на Melting Snow, гра фактично виграна і є надлишок грошей (необов'язкова «понтова» дія; автор: «show off without actually ruining the game» [04:44]–[04:46], «troll your enemy» [07:42]) → ТО: Nuke Cannon з Neutron Shells force-fire поруч з Battleship → Nuke MiGs force-fire поруч, щоб підсунути його до берега → завести Red Guard / Troop Crawler [01:18]–[02:15].
+- ЯКЩО граємо за іншого генерала, ніж China Nuke → ТО Battleship не захоплювати: без Neutron Shells він не стає нейтральним [00:33]–[00:34].
+- ЯКЩО в 1v1 немає одночасно технологій Air Force (Stealth Fighter + Bunker Busters) і Nuke (Nuke Cannon + Neutron Shells) → ТО захоплення PT Boat не планувати: автор вважає це майже неможливим у звичайній грі [07:42]–[07:57], [08:34]–[08:40].
 - ЯКЩО піхота не може увійти в знейтралізований Battleship / PT Boat → ТО ще раз вдарити поруч (Nuke MiG / Bunker Buster), щоб підсунути ближче до краю, і повторити вхід [02:07]–[02:13], [07:33]–[07:39].
 - ЯКЩО штовхаємо крихкий PT Boat → ТО стріляти одним Stealth Fighter з Bunker Busters поруч, а не по човну, по одному пострілу [07:13]–[07:26].
 - ЯКЩО ми володіємо захопленим Battleship → ТО не розраховувати на нього як на бойовий юніт і не намагатися виштовхати його на сушу (не проходить через хребет) [02:29]–[02:35], [04:06]–[04:08], [05:12]–[05:16].
@@ -112,3 +117,6 @@
 - [08:55] «goldfish» — нік гравця, який знайшов трюк з Battleship (не з PT Boat); написання за субтитрами.
 - Можлива застарілість: відео від 2021-04-12; поведінка може змінитися в пізніших патчах/версіях карти (у відео патчі не згадуються). Автор сам допускає, що люди з World Builder можуть уточнити тип Battleship [03:31]–[03:40].
 - Порядок Nuclear Missile → Nuke MiGs у білді взято як показано; чи є Nuclear Missile передумовою Nuke MiGs — у відео не сказано.
+- Розшифровки субтитрів: «new cannon» = Nuke Cannon, «mix» = MiGs, «julie/jelly/july» = GLA, «sleep in the world builder» [03:37] = select, «can't get it online» [03:51] і «onto lance»/«on the lamp» [04:06], [04:35] = on land.
+- [08:42]–[08:44] «it's surrounded by this place» — нерозбірливо (можливо, автор має на увазі, що PT Boat замкнений у невеликій водоймі).
+- «Mad Rage» [00:26] — нік за субтитрами; можливо, йдеться про гравця RaGe.

@@ -16,7 +16,7 @@
 ## Коротко
 - Відео зачитує повний список хоткеїв USA. Він однаковий для всіх генералів USA [00:07]–[00:14]. Повний список є в описі відео. Найуживаніші клавіші на екрані виділено синім [03:43]–[04:02].
 - Порада: якщо забули хоткей, наведіть курсор на кнопку в грі. Клавіша підсвічується жовтим [00:40]–[00:47].
-- Обов'язкові клавіші за словами автора: D (Dozer), G (Ranger), M (Missile Defender), L (Laser Lock), V (Humvee), G (Avenger), I (TOW), T (Raptor), D (Search and Destroy) [00:20]–[00:23], [02:02]–[02:39], [02:39]–[02:51], [03:29]–[03:53], [04:20]–[04:42], [06:12]–[06:19].
+- Автор прямо радить вивчити: D (Dozer, тиснути на старті кожної гри) [00:20]–[00:23]; G (Ranger) і M (Missile Defender) — «you definitely need to learn those» [02:33]–[02:39]; L (Laser Lock) — «if you want to be a top player» [02:42]–[02:51]; G (Avenger) — «means to learn that one» [03:43]–[03:48]; усі клавіші Strategy Center, а якщо лише одну, то D (Search and Destroy) [05:38]–[05:45], [06:12]–[06:19]. Бажано: I (TOW, «maybe learn that one») [04:20]–[04:29], T (Raptor, якщо граєте за Air Force) [04:35]–[04:42], C (Comanche, «a nice one to know») [04:56]–[05:02]. V (Humvee) автор окремо вчити не каже, але вважає Humvee основним юнітом USA [04:22]–[04:27].
 - Strategy Center: Search and Destroy (D) — найкращий план, +20% дальності. Bombardment (B) — другий за важливістю, +20% вогневої сили. Hold the Line (O) — +10% HP/захисту [05:47]–[06:12].
 - Апгрейди Strategy Center: Advanced Training (A, 1500) недооцінений, особливо для Comanche і Humvee. Supply Lines (U) дає +10% supplies. Drone Armor (R) коштує лише 500 [06:22]–[06:55].
 - Не будувати Sentry Drone і не брати Sentry Drone Gun: «rubbish unit», «don't waste your time» [04:04]–[04:20]. Paladin і Aurora (окрім Superweapon General) — рідкісні [03:35]–[03:43], [04:42]–[04:56].
@@ -121,7 +121,7 @@
 
 ## Мікро і тактика
 - Хоткеї потрібні для швидкості. Автор: «if you want to be a top player you have to use the hotkey L» замість кліку по кнопці Laser Lock [02:42]–[02:51].
-- Хоткеї можна переназначати (автор відсилає до свого відео про зміну хоткеїв). Сам він переніс Laser Lock з L на R, щоб клавіша була ближче до 1–4, де під час гри лежить рука [02:51]–[03:02].
+- Хоткеї можна переназначати (автор, імовірно, відсилає до іншого свого відео про зміну хоткеїв; див. «Невизначеності»). Сам він переніс Laser Lock з L на R, щоб клавіша була ближче до 1–4, де під час гри лежить рука [02:51]–[03:02].
 - Ranger перемикають між кулеметом і flashbang так: обрати Ranger, далі M (кулемет) або F (flashbang) [02:14]–[02:23].
 - Якщо хоткей забули, наведіть курсор на кнопку: жовта літера і є хоткей [00:40]–[00:47].
 - Інших порад із мікро у відео немає.
@@ -152,6 +152,8 @@
 - ЯКЩО обрано Dozer і треба поставити будівлю USA → ТО тиснути R (Reactor), B (Barracks), U (Supply Center), M (Patriot), T (Laser Turret, лише Laser General), I (Firebase), A (War Factory), F (Airfield), Y (Strategy Center), Z (Supply Drop Zone), P (Particle Cannon), C (Command Center) [00:23]–[02:02]
 - ЯКЩО не знаємо хоткея кнопки → ТО навести курсор на кнопку і прочитати жовту літеру [00:40]–[00:47]
 - ЯКЩО обрано Barracks → ТО G (Ranger), M (Missile Defender), N (Colonel Burton), P (Pathfinder); апгрейди F (Flash-Bang), C (Capture Building) [02:02]–[03:18]
+- ЯКЩО будуємо піхоту з Barracks → ТО основа — Ranger (G) і Missile Defender (M), «the two most common units»; Burton і Pathfinder — за потребою [02:02]–[02:39]
+- ЯКЩО в армії є Ranger → ТО дослідити Flash-Bang (Barracks, F): автор «often» його бере, «quite handy» [03:18]–[03:21]
 - ЯКЩО обрано Ranger і треба змінити зброю → ТО M (кулемет) або F (flashbang) [02:14]–[02:23]
 - ЯКЩО обрано Missile Defender і потрібен Laser Lock → ТО натиснути L, а не клікати кнопку [02:39]–[02:51]
 - ЯКЩО обрано War Factory → ТО V (Humvee), C (Crusader), G (Avenger), A (Ambulance), T (Tomahawk), M (Microwave Tank), P (Paladin), S (Sentry Drone); апгрейди I (TOW), N (Sentry Drone Gun) [03:25]–[04:29]
@@ -164,12 +166,14 @@
 - ЯКЩО граємо за Laser General і потрібна оборона → ТО Laser Turret (T): 1000 і 5 енергії, заздалегідь мати запас енергії [00:47]–[01:17]
 - ЯКЩО потрібна оборона без витрат енергії → ТО Firebase (I) [01:17]–[01:21]
 - ЯКЩО Strategy Center збудовано → ТО за замовчуванням обрати Search and Destroy (D, +20% дальності) [05:47]–[05:56], [06:12]–[06:19]
+- ЯКЩО обираємо battle plan → ТО пріоритет автора: D (Search and Destroy) > B (Bombardment) > O (Hold the Line) [05:47]–[06:12]
 - ЯКЩО потрібна більша вогнева сила замість дальності → ТО Bombardment (B, +20% вогневої сили) [05:56]–[06:01]
 - ЯКЩО потрібна живучість (оборона) → ТО Hold the Line (O, +10% HP/захисту) [06:01]–[06:12]
 - ЯКЩО армія на Comanche або Humvee і є 1500 → ТО Advanced Training (Strategy Center, A) [06:22]–[06:34]
 - ЯКЩО supplies збиратимуть ще довго → ТО Supply Lines (Strategy Center, U, +10% supplies) [06:43]–[06:50]
 - ЯКЩО є дрони і вільні 500 → ТО Drone Armor (Strategy Center, R) [06:50]–[06:55]
 - ЯКЩО в армії танки → ТО Composite Armor (Strategy Center, P) [06:39]–[06:43]
+- ЯКЩО вибираємо апгрейди Strategy Center → ТО Chemical Suits (I) — не пріоритет: «you don't need to learn that» [06:36]–[06:39]
 - ЯКЩО потрібен Chinook → ТО обрати Supply Center і натиснути C; за Air Force General Combat Chinook — T [06:55]–[07:06]
 - ЯКЩО хоткеї налаштовуються → ТО вивести Laser Lock на клавішу біля 1–4 (автор використовує R) [02:51]–[03:02]
 
@@ -179,10 +183,10 @@
 - [01:10] "the laser turret costs 1000 and it costs 5 power as well" — ціна й енергія Laser Turret.
 - [01:19] "it's a nice base defense, doesn't require any power" — про Firebase.
 - [02:44] "if you want to be a top player you have to use the hotkey L" — Laser Lock треба натискати клавішею.
-- [04:04] "don't bother building it because it's a rubbish unit" — про Sentry Drone.
+- [04:06] "don't bother learning that and don't bother building it because it's a rubbish unit" — про Sentry Drone.
 - [04:22] "if you're USA you're probably going to be going vees and… upgrading to TOW at some point" — Humvee + TOW як стандарт USA.
-- [05:51] "Search and Destroy's the best one to get because it gives you 20% extra range" — пріоритетний battle plan.
-- [05:58] "bombardment gives you 20% extra firepower" — другий за важливістю план.
+- [05:51] "Search and Destroy's the best one to get because it gives you 20% [у субтитрах «angular», імовірно «extra»] range, so you want to be getting it most of the time" — пріоритетний battle plan.
+- [05:58] "B is probably the second most important one, which is bombardment, gives you 20% extra firepower" — другий за важливістю план.
 - [06:26] "advanced training… 1500 upgrade, underused" — недооцінений апгрейд для Comanche і Humvee.
 - [06:43] "supply lines is a good one to get… you collect 10% extra supplies" — економічний апгрейд.
 
@@ -198,4 +202,6 @@
 - Aurora [04:47]–[04:56]: «unless you're super up in general» прочитано як «unless you're Superweapon General». Фраза «it's only for one of the factions» може означати, що Aurora має сенс лише за одного генерала.
 - Supply Lines [06:45]: у субтитрах «it's useless you collect 10% extra supplies». Імовірно, це «it's useful», бо одразу перед цим автор каже «a good one to get».
 - Stealth (S, Airfield) [05:29]–[05:38]: автор каже «stealth upgrade for the Comanches», в описі — «Stealthupgrade (air)». Для якого генерала доступний апгрейд, у відео не сказано.
+- Переназначення хоткеїв [02:46]–[02:53]: у субтитрах «or you can use one of Z's on these videos to change your hotkey». Імовірно, автор відсилає до іншого свого відео про зміну хоткеїв, але назви відео чи інструмента не видно.
+- Chemical Suits [06:36]–[06:39]: «how'd they ever make that» — імовірно «hardly ever make that» (майже ніхто не досліджує).
 - Наприкінці [07:09]–[07:11] субтитри «Romanian army which is China» — анонс наступного відео з хоткеями China; на зміст не впливає.

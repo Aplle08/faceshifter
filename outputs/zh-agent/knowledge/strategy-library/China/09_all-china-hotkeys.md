@@ -8,14 +8,14 @@
 | Армія | China |
 | Генерал(и) | усі китайські фракції: China (vanilla), Infantry General, Tank General, Nuke General («applies to all the China factions») [00:11]; окремі клавіші — лише для Infantry General |
 | Матчап(и) | будь-який |
-| Режим | будь-який (згадано 1v1 і 2v2 як ігри, де будують багато Hacker'ів) |
+| Режим | будь-який (як приклад довгих ігор, де будують багато Hacker'ів, згадано, ймовірно, 1v1v1v1 і 2v2v2 — розшифровка сумнівна) |
 | Тип відео | хоткеї |
 | Рівень | новачок |
 | Цінність для агента | висока — повна таблиця клавіш для будівництва, найму юнітів і апгрейдів China, плюс кілька конкретних порад, що дослідити одразу (Subliminal Messaging, Chain Guns, Napalm) |
 
 ## Коротко
-- Повний список хоткеїв China для Zero Hour; діє для всіх китайських фракцій [00:08]–[00:17]. Той самий список автор виклав в описі відео [05:09].
-- Клавіші будівель Dozer'а: D, R, B, U, K, G, A, I, F, P, T, M, C (+ L — Mines лише в описі) [00:17]–[01:41].
+- Повний список хоткеїв China для Zero Hour; діє для всіх китайських фракцій [00:08]–[00:17]. Той самий список автор виклав в описі відео [05:09]–[05:10].
+- Клавіші будівель Dozer'а: R, B, U, K, G, A, I, F, P, T, M, C; плюс D — Dozer (у списку «Build binds», замовляється з Command Center) і L — Mines (лише в описі) [00:17]–[01:42].
 - Хоткей працює, коли виділено відповідну будівлю-виробника (Barracks, War Factory, Airfield, Propaganda Center, Supply Center) або Dozer [01:44], [03:10], [04:12], [04:24], [04:54].
 - Найважливіші, за автором: K (Bunker, особливо для Infantry), A (Hacker — пізня гра), K у Black Lotus (крадіжка грошей — «always»), G на Airfield (MiG — «highlighted in red»), B у Propaganda Center (Subliminal Messaging — щоразу одразу) [00:31], [02:11]–[02:24], [02:53]–[02:57], [04:12]–[04:17], [04:38]–[04:45].
 - Апгрейди, які автор радить брати: Chain Guns (C, War Factory) — швидша стрільба й більше шкоди Gattling; Napalm (N) — щоразу, коли будуєш вогняні танки, і особливо MiG; Subliminal Messaging (B, 500) — одразу після Propaganda Center [03:47]–[04:06], [04:41]–[04:54].
@@ -44,7 +44,7 @@
 | T | Speaker Tower | автор нею не користується — «I usually just click it» | [01:27]–[01:32] |
 | M | Nuclear Missile | «M for missile» | [01:32]–[01:38] |
 | C | Command Center | «same as all the other ones» | [01:38]–[01:42] |
-| L | Mines | тільки в описі | опис |
+| L | Mines | тільки в описі (у списку «Build binds»; у грі міни — апгрейд Command Center [загальне знання, не з відео]) | опис |
 
 ### Barracks
 | Клавіша | Юніт / дія | Генерал | Коментар | Таймкод |
@@ -53,7 +53,7 @@
 | I | Mini Gunner | Infantry General | — | [02:06]–[02:09] |
 | T | Tank Hunter | усі | «nice easy one» | [02:09]–[02:11] |
 | A | Hacker | усі | «definitely worth learning» — у пізній грі будуєш багато Hacker'ів | [02:11]–[02:28] |
-| D | Hacker: Disable (в описі «Disable unit»; автор вагається, будівля чи юніт — див. «Невизначеності») | — | — | [02:28]–[02:40] |
+| D | Hacker: Disable Building | — | автор: «hotkey for the disable building for a hacker is D»; в описі помилково «Disable unit» — він скопіював список з іншого сайту, «they've got that wrong» | [02:28]–[02:40] |
 | I | Hacker: Hack Internet | — | тільки в описі | опис |
 | B | Black Lotus | усі, крім Infantry | — | [02:40]–[02:42] |
 | S | Super Lotus | Infantry General | — | [02:42]–[02:46] |
@@ -98,7 +98,8 @@
 | T | Supply Truck | економить «like 0.2 seconds» на кожному грузовику — «every little helps» | [04:54]–[05:07] |
 
 ## Юніти, апгрейди, генеральські промоції
-- Hacker: у пізній грі «chances are you're building a lot of hackers», особливо в 1v1 і 2v2 (розшифровка субтитрів сумнівна) [02:14]–[02:24].
+- Hacker: у пізній грі «chances are you're building a lot of hackers», особливо в іграх на кшталт, ймовірно, 1v1v1v1 і 2v2v2 (FFA-формати, що затягуються; субтитри «1 p1 p1 p1 and TV TV 2», розшифровка сумнівна) [02:14]–[02:24].
+- Hacker: D — Disable Building (автор прямо виправляє «Disable unit» з опису) [02:28]–[02:40].
 - Black Lotus: Cash Hack — «you should always be stealing cash»; Vehicle Hack автор не використовує [02:53]–[03:05].
 - Chain Guns: «makes your Gattlings fire quicker and do more damage» [03:53]–[04:00].
 - Napalm: «you should be getting that every time you build flame tanks and especially MiGs… does more damage» [04:00]–[04:06].
@@ -125,16 +126,18 @@
 — у відео не розглядається.
 
 ## Типові помилки
-- Опис хоткея Disable у Hacker'а автор скопіював з іншого сайту і вважає, що там помилка в назві («I've copied this off a different website… they've got that wrong») [02:33]–[02:40].
+- В описі відео хоткей D у Hacker'а підписано «Disable unit» — це помилка: автор скопіював список з іншого сайту («I've copied this off a different website… they've got that wrong»); правильна назва — Disable Building [02:28]–[02:40].
 - Не вчити клавіші — втрачати час на кожному кліку; автор радить вивчити навіть рідкісні (Gattling Cannon, Nuke Cannon, Vehicle Hack) [00:52]–[00:54], [03:05]–[03:07], [03:47].
 
 ## Правила для ШІ-агента
 - ЯКЩО виділено Dozer і потрібна будівля → ТО тисни: D (з CC — Dozer), R Reactor, B Barracks, U Supply Center, K Bunker, G Gattling Cannon, A War Factory, I Internet Center, F Airfield, P Propaganda Center, T Speaker Tower, M Nuclear Missile, C Command Center [00:17]–[01:42].
-- ЯКЩО граєш Infantry General → ТО активно будуй Bunker'и (K) [00:31]–[00:38].
+- ЯКЩО граєш Infantry General → ТО активно будуй Bunker'и (K) — «you're gonna be building a lot of bunkers» (автор додає «same for the other Chinese as well», тобто Bunker'и/клавіша K актуальні й для інших китайських генералів) [00:31]–[00:38].
 - ЯКЩО виділено Barracks → ТО G Red Guard / I Mini Gunner (Infantry), T Tank Hunter, A Hacker, B Black Lotus / S Super Lotus (Infantry), C — апгрейд Capture Building [01:44]–[03:10].
-- ЯКЩО гра переходить у пізню стадію → ТО будуй багато Hacker'ів (Barracks → A) [02:14]–[02:24].
+- ЯКЩО виділено Hacker → ТО D — Disable Building (I — Hack Internet, лише в описі) [02:28]–[02:40].
+- ЯКЩО виділено Black Lotus → ТО K Cash Hack, C Capture Building, V Vehicle Hack [02:46]–[03:05].
+- ЯКЩО гра переходить у пізню стадію (особливо довгі багатогравцеві ігри) → ТО будуй багато Hacker'ів (Barracks → A) [02:14]–[02:24].
 - ЯКЩО маєш Black Lotus і є будівлі суперника, з яких можна красти → ТО використовуй Cash Hack (K) — «always be stealing cash» [02:53]–[02:57].
-- ЯКЩО виділено War Factory → ТО B Battlemaster, T Troop Crawler / A Assault Troop Crawler (Infantry), G Gattling Tank, D Dragon Tank, I Inferno Cannon, E ECM, O Overlord, S Listening Outpost, U Nuke Cannon [03:12]–[03:44].
+- ЯКЩО виділено War Factory → ТО B Battlemaster, T Troop Crawler / A Assault Troop Crawler (Infantry), G Gattling Tank, D Dragon Tank, I Inferno Cannon, E ECM, O Overlord (у Infantry General O — Attack Outpost, лише в описі), S Listening Outpost, U Nuke Cannon [03:12]–[03:44].
 - ЯКЩО в армії є Gattling-юніти → ТО досліджуй Chain Guns (War Factory → C) [03:47]–[04:00].
 - ЯКЩО будуєш Dragon Tank'и або MiG'и → ТО досліджуй Napalm (War Factory → N) щоразу [04:00]–[04:06].
 - ЯКЩО маєш Airfield → ТО основний юніт MiG (G); X — Helix; A — MiG Armor [04:12]–[04:24].
@@ -154,8 +157,9 @@
 - [05:05] "every little helps" — навіть дрібна економія часу через хоткеї важлива.
 
 ## Невизначеності
-- Hacker, клавіша D: в описі — «Disable unit=D». Автор каже щось на кшталт «that's not disable building, I say disable a unit… copied this off a different website… they've got that wrong» [02:28]–[02:40] — незрозуміло, яку саме назву він вважає правильною. У грі здібність Hacker'а відома як Disable Building [загальне знання, не з відео].
-- «especially in games like 1 p1 p1 p1 and TV TV 2» [02:19]–[02:22] — ймовірно, «1v1 … and 2v2»; розшифровка сумнівна.
+- Hacker, клавіша D: субтитри «hot key for the table building for a hacker is the so that's not disable building i say i'm disable a unit i've copied this off a different website» [02:28]–[02:40] прочитано як «hotkey for the disable building for a hacker is D; it says "disable a unit" [в описі], I've copied this off a different website, they've got that wrong». Тобто правильна назва за автором — Disable Building, а «Disable unit» в описі — помилка; це збігається з назвою здібності в грі. Залишкова непевність — лише через якість субтитрів.
+- «especially in games like 1 p1 p1 p1 and TV TV 2» [02:19]–[02:22] — ймовірно, «1v1v1v1 … and 2v2v2» (FFA-формати, у яких гра затягується до пізньої стадії); раніше могло бути прочитано як «1v1 і 2v2». Розшифровка сумнівна.
+- «k bunker that's a handy one especially for your infantry… that's the same for the other Chinese as well» [00:28]–[00:38] — «your infantry» найімовірніше означає Infantry General (пор. «if your infantry general» [02:06]); «same for the other Chinese» може стосуватися або клавіші K, або того, що Bunker'и будують і інші китайські генерали.
 - Red Guard: автор плутається, порівнюючи з USA і GLA («same for GLA where it's G for RPG… never mind ignore that») [01:44]–[02:03]; достовірно лише те, що Red Guard = G.
 - «G full gallon defense thighs cannon tower» [00:41]–[00:46] розшифровано як G — Gattling Cannon (оборонна вежа); в описі — «G- Gattling tower».
 - «makes you look at sapphire quicker» [03:55]–[03:57] розшифровано як «makes your Gattlings fire quicker».

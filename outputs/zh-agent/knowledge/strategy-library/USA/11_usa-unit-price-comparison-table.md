@@ -8,7 +8,7 @@
 | Армія | USA (усі чотири варіанти: Air Force General, Laser General, Superweapon General, vanilla USA) |
 | Генерал(и) | Air Force General (Granger), Laser General (Townes), Superweapon General (Alexander), vanilla USA |
 | Матчап(и) | будь-який. Окремо згадані USA vs USA (дзеркало) і USA vs GLA |
-| Режим | будь-який (поради стосуються насамперед 1v1-ладдера) |
+| Режим | будь-який (формат у відео не названо; поради про дзеркало USA найбільше пасують до 1v1 — припущення) |
 | Тип відео | таблиця (порівняння цін юнітів між генералами USA) з короткими порадами |
 | Рівень | новачок / середній |
 | Цінність для агента | середня — є конкретні ціни, що відрізняються між генералами USA, і правила «будувати / не будувати» для кожного. Але саму таблицю (картинку) у відео не зачитано повністю, тож частина цін не прозвучала |
@@ -16,7 +16,7 @@
 ## Коротко
 - Чотири генерали USA мають чотири набори цін, і не кожен може будувати кожен юніт [00:21–00:26]. Таблицю склав користувач «Star Tracker» на GameReplays, посилання на картинку є в описі відео [00:36–00:45].
 - **Air Force** має найдешевші повітряні юніти: Chinook 950 (в інших 1200), Raptor 1100 (в інших 1400), Comanche 1200, дешевший Stealth Fighter без General's point. Через це, за словами автора, Air Force помітно сильніший за інших USA [00:48–01:01], [04:49–05:12], [05:36–05:42].
-- **Superweapon General** вважається найслабшим із чотирьох. Humvee коштує 850, танків немає, Ambulance дорожчий, Tomahawk 1400. Плюси: Colonel Burton за 1200 і EMP Patriot за 900 [01:20–01:29], [01:43–01:54], [02:29–02:49], [04:03–04:09].
+- **Superweapon General** вважається найслабшим із чотирьох. Humvee коштує 850, танків немає, Ambulance дорожчий, Tomahawk 1400. Плюси: Colonel Burton за 1200 і EMP Patriot за 900 [01:20–01:29], [01:43–01:54], [02:29–02:49], [04:03–04:09], [04:29–04:35].
 - **Laser** має найдешевші Humvee (як у vanilla USA) і Ambulance (600) і, ймовірно, найдешевший Avenger (1500). Автор вважає його одним із кращих USA у дзеркалі [02:23], [03:44–03:52], [03:52–04:00].
 - У дзеркалі USA бери Laser або vanilla USA, але не Superweapon [02:29–02:36].
 - Не будувати: Sentry Drone (марна трата грошей), Paladin (лише vanilla, 1100, коштує General's point), Raptor/Comanche/Stealth Fighter, якщо ти не Air Force, і Patriot, якщо ти не Superweapon (Laser — лише інколи, бо 5 енергії) [01:27–01:39], [03:07–03:27], [04:12–04:21], [04:49–05:12], [05:42–05:48].
@@ -35,7 +35,7 @@
 
 ### Склад армії залежно від генерала (за цінами)
 - Air Force: Chinook (950), Raptor (1100, з point defense laser), Comanche (1200, можна зробити невидимими), Stealth Fighter (бо Airfield у тебе все одно буде) [00:48–00:59], [04:49–05:12], [05:36–05:45].
-- Laser / vanilla USA: основа — Humvee. Comanche тільки в ситуації, коли ти зробив багато Humvee, а ворог робить лише Technical [05:12–05:27].
+- Laser / vanilla USA: Humvee за базовою ціною (дешевший, ніж в AF і SW) — головний юніт, на нього автор радить витратити гроші замість Sentry Drone [02:23], [04:19–04:21]. Comanche тільки в ситуації, коли ти зробив багато Humvee, а ворог робить лише Technical [05:12–05:27].
 - Superweapon: якщо будуєш Airfield, роби Aurora, а не Stealth Fighter [05:48–05:53]. Як ППО — EMP Patriot за 900 [01:20–01:29].
 - Проти GLA: Ambulance майже завжди [04:09–04:12]. Microwave Tank проти тунелів і Stinger Site [04:39–04:45].
 
@@ -83,7 +83,7 @@
 
 ### Генеральські промоції (General's points)
 - Paladin потребує General's point, і витрачати його на Paladin не варто [03:24–03:27].
-- Stealth Fighter для Laser, Superweapon і vanilla коштує 1600 і потребує General's point. Для Air Force окремий пункт, судячи з таблиці, не потрібен [05:36–05:42].
+- Stealth Fighter для Laser, Superweapon і vanilla коштує 1600 і потребує General's point. Для Air Force окремий пункт, судячи зі слів автора («1,600 with a generals point for the other ones»), не потрібен [05:36–05:42].
 
 ## Мікро і тактика
 - Comanche за Laser або vanilla USA: автор іноді робить їх, якщо вже має багато Humvee, а ворог будує лише Technical. Тоді можна зробити «loads of Comanches» [05:12–05:27].
@@ -118,12 +118,12 @@
 - ЯКЩО граєш за Superweapon → ТО розраховуй на повільний ранній старт (Humvee 850, танків немає). Компенсуй дешевшим Colonel Burton (1200), а ППО будуй з EMP Patriot (900) [01:20–01:29], [01:48–02:00], [02:36–02:49].
 - ЯКЩО ти vanilla USA або Air Force і потрібна оборона бази → ТО став Fire Base, а не Patriot [01:27–01:39].
 - ЯКЩО ти Laser і думаєш про Patriot (лазерну ППО) → ТО будуй лише інколи: вона забирає 5 енергії [01:29–01:37].
-- ЯКЩО ти Air Force → ТО використовуй дешеві Chinook (950) і не бійся замінювати втрачені [00:48–01:14].
+- ЯКЩО ти Air Force → ТО користуйся дешевими Chinook (950 замість 1200): втрата Chinook обходиться на 250 дешевше, а за кілька втрат різниця швидко накопичується на твою користь [00:48–01:14].
 - ЯКЩО ти Air Force → ТО повітряний склад (Raptor 1100 з point defense laser, Comanche 1200 зі stealth, Stealth Fighter) вигідний, бо Airfield у тебе все одно є [04:49–05:12], [05:42–05:45].
 - ЯКЩО ти НЕ Air Force → ТО не будуй Raptor (1400, слабший, без PDL) і не будуй Stealth Fighter (1600 + General's point) [04:49–05:00], [05:36–05:48].
 - ЯКЩО ти Laser або vanilla USA, маєш багато Humvee, а ворог (GLA) будує лише Technical → ТО можна масово робити Comanche. В інших випадках Comanche лише за Air Force [05:12–05:27].
 - ЯКЩО ти Superweapon і маєш Airfield → ТО роби Aurora, а не Stealth Fighter [05:48–05:53].
-- ЯКЩО маєш у черзі Sentry Drone → ТО не будуй його, натомість будуй Humvee або танк [04:14–04:21].
+- ЯКЩО плануєш будувати Sentry Drone → ТО не будуй його, натомість будуй Humvee або танк [04:14–04:21].
 - ЯКЩО є вільний General's point і ти vanilla USA → ТО не витрачай його на Paladin [03:07–03:27].
 - ЯКЩО граєш проти GLA → ТО будуй Ambulance (майже завжди) [04:09–04:12].
 - ЯКЩО у ворога тунелі або Stinger Site чи гарнізовані будівлі → ТО розглянь Microwave Tank (800): він вимикає оборону й очищає будівлі [04:37–04:49].
@@ -134,7 +134,7 @@
 ## Ключові цитати
 - [00:24] "certain generals can't build certain units" — не кожен генерал USA має доступ до кожного юніта.
 - [00:57] "that's one of the reasons why USA Air Force is much more stronger than the other USA" — дешевий Chinook (950) — одна з причин сили Air Force.
-- [01:27] "generally you never want to be building a patriot unless you're super weapon" — Patriot має сенс майже лише в Superweapon (EMP, 900). Іншим краще ставити Fire Base.
+- [01:28] "generally you never want to be building a patriot unless you're super weapon or laser, sometimes laser" — Patriot має сенс майже лише в Superweapon (EMP, 900), у Laser — лише інколи (5 енергії). Іншим краще ставити Fire Base.
 - [01:51] "super weapon general is probably considered the weakest out of these four" — Superweapon вважається найслабшим генералом USA.
 - [02:36] "because of that expensive Humvee price ... 850 it takes longer to get your first Humvee out" — дорогий Humvee гальмує ранню гру Superweapon.
 - [03:16] "you generally never see them in zero hour" — про Paladin: у ZH майже не використовується.
@@ -151,6 +151,7 @@
 - [01:37–01:41] «prefer to go fire bases ranges all cost the same» — «ranges» = Rangers. Неясно, чи стосується «all cost the same» також Fire Base.
 - [03:29–03:46] Avenger: автор каже «all the same price», а потім «laser is the only one that's cheaper, that's 1500». Неясно, чи 1500 — це ціна Avenger у Laser, чи щось інше в цьому рядку таблиці.
 - [03:52–04:00] Ambulance: субтитри «704 f4 706 hundred for laser and 600 for vanilla». Розшифровано як AF 700, Superweapon 700, Laser 600, vanilla 600. Певно лише, що Laser і vanilla по 600, а Superweapon дорожчий.
+- [03:46–03:52] «I know the reason why laser is one of the better AUSA marries apart format» тлумачиться як «Laser — один із кращих генералів у дзеркалі USA». Саму причину автор явно не пояснює, але далі називає дешевший Ambulance (600).
 - [04:09–04:12] «another reason why use versus GLA nearly all the time» тлумачиться як «Ambulance використовують проти GLA майже завжди».
 - [04:19–04:21] «build and instead or a tank»: ймовірно «build a Humvee instead or a tank».
 - [04:29–04:35] Tomahawk: «1300 for the Air Force, cheapest is vanilla, and slightly more expensive 1400 for superweapon». Ціна vanilla не прозвучала, Laser не згадано.

@@ -18,7 +18,7 @@
 - Старт: Dozer будує Supply Center ближче до середини й збирає з неї. Далі: додатковий Chinook якомога швидше, Fire Base, Ranger, War Factory, апгрейд енергії [00:41–02:48].
 - Сусід China («pink») погано поставив supply і без захисту послав «flamer» (ймовірно, Dragon Tank) у базу автора. Автор відповів атакою на його базу й отримав досвід. Порада автора для China: став Gatling Cannon на підході до supply, а не відправляй одиночний рейд без оборони [02:24–04:21], [21:13–21:28].
 - Захоплення: Microwave Tank(и) біля будівлі GLA, потім Ranger (підвезений у транспорті або скинутий через Paradrop) захоплює її. Перша спроба зірвалася: суперник вийшов із гри, щойно почалося захоплення. Друга вдалася [13:50], після чого автор будує Workers [15:31] і хоче Tunnel Network на своєму боці карти [20:31].
-- Розбір: проти Humvee (Air Force) потрібні Gatling Cannon і ECM Tank. Battlemaster ніколи не будуй ні проти Humvee, ні проти Air Force. За кожен убитий Battlemaster ворог отримує 200 XP [21:33–22:20].
+- Розбір: проти Humvee (Air Force) China потрібні Gatling Cannon, Gattling Tank («gats», у субтитрах «gat CCMs» = «gats, ECMs») і ECM Tank. Battlemaster ніколи не будуй ні проти Humvee, ні проти Air Force. За кожен убитий Battlemaster ворог отримує 200 XP [21:33–22:20].
 - FFA-уроки: коли один гравець явно найсильніший, решта мають укласти мир між собою. Не атакуй, якщо вдома порожньо; поки сильніші зайняті один одним, тихо розширюйся [21:53], [22:24–22:52].
 
 ## Стратегії та білд-ордери
@@ -34,7 +34,7 @@
 7. Потім багато Power Plant, щоб не сидіти без енергії («so we don't go low power for once») [07:03–07:10].
 8. Ставити Supply Drop Zone («Let's continue making the drop zones»; у субтитрах «job zones») [08:27].
 9. Проти Air Force у пізній грі: Avengers і Laser Tank / Laser Crusader [17:53–18:27], [18:49].
-- Склад удару, ціль атаки: ранній натиск Humvee з Ranger на базу China, яка послала flamer [02:39–05:08]. Пізніше: Microwave Tank + Ranger на базу GLA Toxin для захоплення [09:11–13:50].
+- Склад удару, ціль атаки: ранній натиск Humvee з піхотою (Ranger; судячи з голосових реплік «Got my missile launcher right here», також Missile Defender — висновок із реплік, не слова автора) на базу China, яка послала flamer [02:39–05:08]. Автор свідомо добиває найслабшого сусіда, щоб набрати XP («hopefully he stays and just gives me a bunch of XP») і отримує промоцію [04:34–04:38], [05:04]. Пізніше: Microwave Tank + Ranger на базу GLA Toxin для захоплення [09:11–13:50].
 
 ### «Вкрасти Tox»: захоплення бази GLA Toxin за допомогою Microwave Tank + Ranger
 - Коли застосовувати: армію GLA-сусіда розбито або вона зайнята, будівлі стоять без прикриття. Автор називає момент «prime opportunity» [09:53–09:56].
@@ -44,11 +44,11 @@
 4. Якщо ворог має багато військ і Microwave Tank гинуть, спершу знищити загрозу, потім повторно підвести Microwave Tank [11:50–12:10].
 5. Захопити будівлю, поки ворог намагається цьому завадити [13:26–13:51]. Результат: «We've got it» [13:50].
 6. Після захоплення одразу будувати GLA Workers («let's get a few workers») [15:31]. Мета: змішана база Laser + Tox [15:40]. Потрібен Tunnel Network і на своєму боці карти [20:31–20:36].
-- Що робити, якщо не вийшло: перший суперник вийшов із гри, щойно почалося захоплення, і так позбавив автора бази («You still had your entire base») [11:06–11:30], [21:55–22:01]. Автор знайшов «second opportunity» і довів захоплення до кінця вже в іншому місці [11:28–11:30].
-- Наприкінці автор пробує захопити й базу Air Force General («Let's go and try and get the air force base») [19:50–19:52]. «The building is captured» [20:11]. Гра завершилася раніше, ніж він устиг захопити більше («Anticlimactic ... I wanted to capture his base too») [20:51–20:53].
+- Що робити, якщо не вийшло: перший суперник вийшов із гри, щойно почалося захоплення, і так позбавив автора бази («You still had your entire base») [11:06–11:30], [21:55–22:01]. Одразу після цього автор каже «We have got a second opportunity» [11:28–11:30]; що саме це за нагода (інша база Tox чи та сама), не пояснено. Наступна спроба завершилася успіхом на [13:50].
+- Наприкінці, коли лишилися тільки автор і Air Force («Just me and Air Force left») [19:48], він іде захоплювати й базу Air Force General (субтитри «get the airflow space», ймовірно «air force base») [19:50–19:52]. Майже одразу той гравець виходить («The bro has just exited») [19:56]; «The building is captured» [20:11]. Гра завершилася раніше, ніж автор устиг захопити більше («Anticlimactic ... I wanted to capture his base too») [20:51–20:53].
 
 ## Юніти, апгрейди, генеральські промоції
-- **Humvee**: навіть порожній Humvee («empty V») може атакувати своїм кулеметом [01:56–02:07]. Пошкоджений Humvee тримати подалі від Scorpion, бо ще одна ракета знову зробить його «very very low» [06:11–06:15].
+- **Humvee**: «That's an empty V. The Humpy gun is weird cuz it actually can attack» — ймовірно, мова про те, що навіть порожній Humvee атакує власним кулеметом і завдає шкоди [01:56–02:07] (субтитри «Humpy gun» нерозбірливі, чий саме Humvee — не сказано). Пошкоджений Humvee тримати подалі від Scorpion, бо ще одна ракета знову зробить його «very very low» [06:11–06:15].
 - **Microwave Tank**: інструмент для захоплення бази GLA («steal GLA with a microwave tank») [09:11]. Їх можна втратити, якщо в противника багато військ [11:55].
 - **Ranger**: потрібен для захоплення будівлі. Автор кілька разів забуває його підвезти («I haven't even got the ranger») [10:28–10:35], [12:58–13:02]. Також Flashbang («Arming flash») [08:57].
 - **Ambulance**: використовується в армії. Автор ледь не втратив його, відволікшись [07:30–07:33].
@@ -57,35 +57,38 @@
 - **Avenger, Laser Crusader / Laser Tank**: відповідь на Air Force. Avengers бажано тримати на передовій [17:53–18:27], [18:49–18:50].
 - **Scorpion (GLA)**: небезпечна ракета, особливо при лагу [05:52–05:58], [07:19].
 - **Battlemaster (China)**: проти Humvee і проти Air Force не будувати ніколи. За кожен убитий Battlemaster противник отримує 200 XP [21:33–21:36], [22:15–22:20].
-- **Gatling Cannon, ECM Tank (China)**: правильна відповідь China на Humvee [22:09–22:15].
+- **Gatling Cannon, Gattling Tank, ECM Tank (China)**: правильна відповідь China на Humvee («get gatling cannons, gats, ECMs is good»; у субтитрах «gat CCMs») [22:09–22:15].
 - Генеральські промоції: «You have been promoted» [05:04], [17:45]. Які очки взято, не сказано.
 - Капчур будівель: «Building capture complete» [09:03–09:07]. Захоплення потребує апгрейду Capture Building у Barracks [загальне знання, не з відео].
 
 ## Мікро і тактика
 - Вороги будують Supply Stash (Tox) у середині поруч із тобою: заїжджай технікою, давлячи Workers («run over his workers»), і не давай поставити Tunnel Network [01:18–01:28].
 - Якщо сусід послав одиночний рейд (flamer) у твою базу, а сам не має оборони (немає Gatling Cannon), відповідай контратакою на його базу («Make this guy regret sending that flame») [02:39–03:04], [03:54–04:12].
-- Тримайся поза дальністю ворожих захисних споруд («Stay out of range of those») [05:18–05:20].
+- «Stay out of range of those» під час атаки на базу China [05:18–05:20]: тримати юнітів поза дальністю «тих» (що саме — не названо; ймовірно, ворожої оборони).
 - Слабкий Humvee виводь з-під Scorpion [06:11–06:15].
 - Біля бази тримай Humvee, щоб помічати диверсантів (ймовірно, Jarmen Kell), «cuz we don't want to give away power too easily» [08:50–08:54] (нерозбірливо).
 - Слухай звуки: автор помічає підхід Combat Cycle на слух («I did just hear a bike») [11:00].
 - Microwave Tank загинули: знищ те, що їх убило, і заводь їх знову [12:06–12:10].
 - «We can fire them through the window» [13:36–13:37]. Ймовірно, мова про піхоту, яка стріляє з транспорту або гарнізону під час захоплення (нерозбірливо).
 - Автор перевіряє, щоб опція retaliation була вимкнена («Just want to make sure retaliation is off») [04:50–04:51]. Ймовірно, налаштування автоматичної відповіді юнітів на атаку.
-- Лаг в FFA посилює небезпеку Scorpion-ракет, тож тримай запас HP у юнітів [05:52–05:58], [07:19].
+- Лаг в FFA посилює небезпеку Scorpion-ракет, тож тримай запас HP у юнітів [05:52–05:58], [07:19]. Автор сподівається, що лаг зменшиться після виходу гравців («Don't know if he will speed things up by leaving» [06:26]; «Sad left. We'll see if that fixes things at all» [06:53]).
+- У FFA регулярно перевіряй, хто з гравців найсильніший: «Just got to check [who] else is looking big. We have an air force there at the top. Although probably red is our biggest threat» [07:48–07:55].
+- Гучні дії (захоплення бази Tox) притягують увагу інших: «To be fair, we did attract quite a lot of attention» [17:36]; після цього blue (Air Force) іде в середину, а автора атакують з кількох боків («he's mobbing me as well») [17:28], [18:27].
 
 ## Економіка
 - Старт: Dozer будує Supply Center біля середини, збір іде з середини [00:41–00:46]. Додатковий Chinook якомога швидше [01:28].
 - Вкрай поганий старт у сусіда («bad supply», «built his supply wonky») автор вважає ознакою, що той програє першим [00:36–01:08], [04:17–04:21].
-- Китайцю-новачку автор радить ставити Gatling Cannon біля supply. Збирати можна й далі зі свого supply і навіть «long distance collect», але з базовою обороною [21:13–21:21].
-- Нафтові вишки: «I want these oils» [07:36–07:41]. «could have captured that ages ago», тобто oil треба брати раніше [08:37–08:40]. Захоплення oil у сусіда автор називає «very late capture» [02:11].
+- Китайцю-новачку («pink's kind of level and you're just starting out») автор радить як базу поставити Gatling Cannon у двох місцях («Gatling cannon there, Gatling Cannon there») там, де на нього тиснуть. Supply при цьому будувати й далі, можна навіть «long distance collect» [21:13–21:21].
+- Коли до точки збору підходить ворог, автор перемикає збір на інше місце («Try to collect from there instead») [02:14–02:21].
+- Нафтові вишки: «I want these oils» [07:36–07:41]. «could have captured that ages ago», тобто oil треба брати раніше [08:37–08:40]. Чиєсь захоплення (ймовірно, oil сусідом; хто саме — не сказано) автор називає «very late capture» [02:11].
 - Енергія: «Upgrade the power» (апгрейд Power Plant) [02:48]. Потім «Make a lot of powers so we don't go low power for once. I'm known to go low power.» [07:03–07:10]
 - Supply Drop Zone ставити кілька («continue making the drop zones») [08:27].
 - Після захоплення GLA-бази: Workers [15:31] і Tunnel Network на своєму боці карти [20:31–20:36].
-- **Продаж Command Center: у відео не згадується.** Жодної фрази про продаж CC (sell / selling / sold + CC / command center) у транскрипті немає. Автор навпаки захоплює GLA-будівлю (ймовірно, Command Center Tox, раз потім будує Workers) і використовує її [13:50], [15:31].
+- **Продаж Command Center: у відео не згадується.** Пошук «sell / sold / selling» і «command center / CC» по всьому транскрипту не дає жодного збігу (крім хештегу #CommandAndConquer в описі). Автор навпаки захоплює GLA-будівлю (ймовірно, Command Center Tox, раз потім будує Workers) і використовує її [13:50], [15:31].
 
 ## Матчапи і контри
 - **China vs рання агресія сусіда / рейд:** Gatling Cannon на підході [04:09–04:15], [21:17–21:20]. Без нього одного flamer вистачає, щоб «wreck your entire base» [03:54–03:58].
-- **China vs USA (Humvee, Air Force):** Gatling Cannon, ECM Tank. Не будувати Battlemaster ні проти Humvee, ні проти Air Force [22:06–22:20]. Гравець TYG питав, як бити Humvee і чи чекати ECM [21:43–21:52].
+- **China vs USA (Humvee, Air Force):** Gatling Cannon, Gattling Tank («gats»), ECM Tank; мета — не пустити Humvee в базу («you want to stop the V's from coming in»). Не будувати Battlemaster ні проти Humvee, ні проти Air Force [22:06–22:20]. Гравець TYG питав, як бити Humvee і чи чекати ECM [21:43–21:52].
 - **USA Laser vs Air Force:** Avengers і Laser Tank (Laser Crusader). Avengers на передовій, на думку автора, «probably just hold back» Air Force [17:53–18:27], [18:49].
 - **USA Laser vs GLA (Scorpion):** обережно з ракетами Scorpion, пошкоджену техніку відводити [05:52–06:15], [07:19].
 - **USA vs GLA Toxin (FFA):** не давати Tox ставити Supply Stash і Tunnel у середині: давити Workers [01:18–01:28]. Пізніше захопити його будівлю: Microwave Tank + Ranger [09:11–13:50].
@@ -106,8 +109,11 @@
 - ЯКЩО граєш USA і збираєш з віддаленого supply → ТО якомога швидше будуй додатковий Chinook [01:28–01:37].
 - ЯКЩО ворожий GLA (Tox) ставить Supply Stash у середині поруч із тобою → ТО заїжджай технікою, давлячи Workers, і не давай збудувати Tunnel Network [01:18–01:28].
 - ЯКЩО сусід послав у твою базу одиночний рейд (flamer), а в нього самого немає оборони (Gatling Cannon тощо) → ТО відбийся й одразу контратакуй його базу [02:39–03:04], [03:54–04:12].
-- ЯКЩО граєш China і твій supply відкритий для рейду → ТО постав Gatling Cannon на підході і лише потім розгортай економіку [04:09–04:15], [21:13–21:21].
-- ЯКЩО граєш China проти Humvee або Air Force → ТО будуй Gatling Cannon і ECM Tank і НІКОЛИ не будуй Battlemaster [22:06–22:20].
+- ЯКЩО граєш China і твій supply відкритий для рейду → ТО як базову оборону постав Gatling Cannon на підходах (автор показує два місця), а supply і дальній збір веди паралельно [04:09–04:15], [21:13–21:21].
+- ЯКЩО граєш China проти Humvee або Air Force → ТО будуй Gatling Cannon, Gattling Tank і ECM Tank, щоб не пустити Humvee в базу, і НІКОЛИ не будуй Battlemaster (кожен убитий дає ворогу 200 XP) [21:33–21:36], [22:06–22:20].
+- ЯКЩО FFA і поруч слабкий сусід із поганим стартом → ТО добивай його першим заради XP і промоцій, поки сильніші гравці зайняті [04:17–04:38], [05:04–05:11].
+- ЯКЩО FFA → ТО періодично перевіряй, хто з гравців найсильніший, і зважай на це, обираючи ціль [07:48–07:55].
+- ЯКЩО ти провів гучну атаку чи захоплення в FFA → ТО чекай, що інші гравці підуть на тебе («we did attract quite a lot of attention»), і заздалегідь готуй оборону, зокрема проти Air Force [17:28–17:38], [17:53], [18:27].
 - ЯКЩО в противника Scorpion (особливо при лагу) → ТО відводь пошкоджені Humvee з-під обстрілу, бо одна ракета знову опустить HP дуже низько [05:52–06:15], [07:19].
 - ЯКЩО енергії ледь вистачає → ТО заздалегідь будуй кілька Power Plant і зроби апгрейд енергії [02:48], [07:03–07:10].
 - ЯКЩО поруч є вільні oils → ТО захоплюй їх одразу, не відкладаючи [07:36–07:41], [08:37–08:40].
@@ -133,6 +139,7 @@
 - [11:14] "literally just to stop me getting. You still had your entire base." — суперник вийшов, щоб не віддати базу.
 - [13:50] "We've got it. We got it." — захоплення вдалося.
 - [15:31] "let's get a few workers" — після захоплення будує GLA Workers.
+- [17:36] "To be fair, we did attract quite a lot of attention." — після захоплення Tox автор стає мішенню для інших (у субтитрах «attack»).
 - [17:53] "we probably need Avengers, too. Maybe some laser tanks." — відповідь на Air Force.
 - [21:33] "you get 200 XP per battle master kill" — Battlemaster дарує ворогу досвід.
 - [22:15] "You don't want to be making battle masters against Humvees like ever. Never make a battle master against an air force." — головне правило контри.
@@ -153,6 +160,12 @@
 - [10:35] «put him in the amber», ймовірно, Ambulance як транспорт. [13:02] «the power drop», ймовірно, Paradrop.
 - [13:36] «we can fire them through the window», [16:04] «I might go and kill him from across the map», [16:49] «Steal a dozer», [18:56] «Air Force just being supercost», [19:14] «mow up one of my wars»: сенс неясний.
 - [22:24] «he's being slowly killed by the burn»: можливо, інше слово.
+- [02:01] «The Humpy gun is weird cuz it actually can attack»: ймовірно, «Humvee gun»; чий Humvee і чому «weird» — неясно.
+- [19:52] «get the airflow space»: ймовірно, «air force base».
+- [22:13] «get gatling cannons, gat CCMs is good»: ймовірно, «gatling cannons, gats, ECMs», тобто Gatling Cannon, Gattling Tank, ECM Tank.
+- [20:31] «We have more ammo now»: можливо, інше слово (armor?); сенс неясний.
+- [21:13] «if you're like a pinks kind of level»: ймовірно, «pink's kind of level» — рівень гравця pink.
+- Склад піхоти в атаках (Ranger, Missile Defender) відновлено з голосових реплік юнітів, автор його не називає.
 - «Retaliation is off» [04:50]: ймовірно, ігрова опція автовідповіді юнітів. Що саме вона робить, у відео не пояснено.
 - Число 200 XP за вбитий Battlemaster [21:35] — зі слів автора, не перевірено.
 - Про патчі й версії гри у відео не йдеться. Дата відео 2025-07-04.

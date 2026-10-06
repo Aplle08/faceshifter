@@ -15,7 +15,7 @@
 
 ## Коротко
 - Відео зачитує повний список хоткеїв GLA. Список склав інший гравець на GameReplays, автор виправив орфографію і дещо змінив. Найуживаніші клавіші на екрані виділено зеленим. Повний список є в описі відео [00:14]–[00:27].
-- Обов'язкові клавіші за словами автора: N (Tunnel Network), G (RPG), C (Capture Building), S (Scorpion), T (Technical), U (Quad Cannon), B (Rocket Buggy) [01:02], [02:08], [02:39], [03:05], [03:36], [03:42], [03:46].
+- Обов'язкові клавіші за словами автора: N (Tunnel Network), B (Rebel), G (RPG), C (Capture Building), S (Scorpion), T (Technical), U (Quad Cannon), B (Rocket Buggy) [01:05]–[01:10], [02:51]–[02:54], [02:08], [02:39], [03:05], [03:36], [03:42], [03:46]. Y (Angry Mob) автор, імовірно, називає «a handy one too» (субтитри зіпсовані) [02:54]–[02:56].
 - Technical автор будує «майже в 99% ігор», Scorpion — практично щоразу за GLA, Rocket Buggy — часто. Jarmen Kell варто будувати щогри, коли дійшли до Palace [03:36], [03:05], [03:46], [02:23].
 - Worker Shoes (Black Market, S): коштує 1000, вивчається дуже швидко і дає великий приріст грошей. Автор називає цей апгрейд «really important» [05:19]–[05:32].
 - AP Bullets (Black Market, B): коштує 2000, дає +25% шкоди. За словами автора, це недооцінений апгрейд, обов'язковий у великих битвах Quad Cannon [04:17]–[04:45].
@@ -50,9 +50,9 @@
 | I | Hijacker | друга літера, бо H зайнята іншою командою; автор іноді її забуває | [01:52]–[02:03] |
 | S | Saboteur | «don't really need to know that» | [02:03]–[02:08] |
 | G | RPG Trooper | «quite a common one, you should probably learn that, save you some time» | [02:08]–[02:13] |
-| Y | Angry Mob | — | [02:14], [02:56] |
+| Y | Angry Mob | імовірно «Y for angry mob is a handy one too» (у субтитрах «Wi-Fi angry mob is honey one two») | [02:14], [02:54]–[02:56] |
 | J | Jarmen Kell | зазвичай 1–2 за гру, але будувати варто щогри, щойно є Palace | [02:18]–[02:27] |
-| N | Sniper (здібність Jarmen Kell) | «N for sniper» | [02:31] |
+| N | Sniper (в описі «Jarmen Kell (Sniper=N)»; що це здібність Jarmen Kell — тлумачення) | «N for sniper» | [02:31] |
 | O | Booby Trap | «don't even need to know that really» | [02:35]–[02:39] |
 | C | Capture Building (апгрейд) | «you need to learn that». Підкреслено, бо це апгрейд; мало бути зеленим | [02:39]–[02:51] |
 
@@ -76,7 +76,7 @@
 | Клавіша | Апгрейд | Ціна (з відео) | Ефект / коментар автора | Таймкод |
 |---|---|---|---|---|
 | B | AP Bullets (AP Ammo) | 2000 | +25% шкоди для Quad Cannon і, ймовірно, Jarmen Kell проти піхоти; автор «думає», що й для Technical. «Really good underused upgrade»: у великих битвах Quad Cannon обов'язковий, бо на 25% підвищує шанс виграти бій | [04:14]–[04:45] |
-| J | Junk Repair | — | усі юніти лікуються, наче за ними їде USA Ambulance; «another good upgrade» | [04:45]–[04:57] |
+| J | Junk Repair | — | за словами автора, «all units» лікуються, наче за ними їде USA Ambulance (у грі апгрейд стосується техніки [загальне знання, не з відео]); «another good upgrade» | [04:45]–[04:57] |
 | R | AP Rockets | — | «another good one», якщо будуєте багато (ймовірно) Rocket Buggy і Scorpion з ракетами | [04:57]–[05:06] |
 | A | Buggy Ammo | 1200 (розбірливість сумнівна) | подвоює боєзапас (ймовірно Rocket Buggy) | [05:06]–[05:19] |
 | S | Worker Shoes | 1000 | «really important upgrade»: вивчається дуже швидко і дає великий приріст грошей, коли триває збір supplies. Запам'ятати: «S for shoes» | [05:19]–[05:36] |
@@ -118,24 +118,24 @@
 - ЯКЩО обрано Worker і треба поставити будівлю GLA → ТО тиснути B (Barracks), U (Supply Stash), N (Tunnel Network), A (Arms Dealer), M (Black Market), P (Palace), D (Demo Trap), T (Stinger Site), O (Scud Storm), C (Command Center) [00:39]–[01:40]
 - ЯКЩО потрібен ще Worker → ТО обрати Command Center або Supply Stash і натиснути K [00:30]–[00:39]
 - ЯКЩО обрано Barracks → ТО тиснути B (Rebel), G (RPG Trooper), T (Terrorist), I (Hijacker), Y (Angry Mob), J (Jarmen Kell), S (Saboteur); C — апгрейд Capture Building; O — Booby Trap [01:47]–[02:51]
-- ЯКЩО обрано Jarmen Kell і треба використати здібність снайпера → ТО N [02:31]
+- ЯКЩО обрано Jarmen Kell і треба використати здібність снайпера → ТО N (за описом «Sniper=N»; що це саме здібність Jarmen Kell — тлумачення, перевірити в грі) [02:31]
 - ЯКЩО обрано Arms Dealer → ТО тиснути T (Technical), S (Scorpion), U (Quad Cannon), B (Rocket Buggy), M (Marauder), V (Radar Van), A (Toxin Tractor), L (Scud Launcher), Y (Combat Cycle), E (Battle Bus), O (Bomb Truck); K — апгрейд Scorpion Rocket [03:05]–[04:12]
 - ЯКЩО граємо за GLA (будь-який матчап) → ТО за замовчуванням планувати Technical: автор будує їх «almost 99% of the games» [03:36]–[03:42]
 - ЯКЩО граємо за GLA і є Arms Dealer → ТО включати Scorpion в армію («every time you're GLA») [03:05]–[03:14]
 - ЯКЩО є Palace → ТО будувати Jarmen Kell (1–2 за гру) кожну гру [02:23]–[02:31]
-- ЯКЩО Black Market збудовано і Worker уже збирають supplies → ТО одразу досліджувати Worker Shoes (S, 1000): він швидкий і дає великий приріст грошей [05:19]–[05:32]
+- ЯКЩО Black Market збудовано і Worker уже збирають supplies → ТО першочергово досліджувати Worker Shoes (S, 1000): автор називає його «really important», він швидкий і дає великий приріст грошей [05:19]–[05:32]
 - ЯКЩО назріває або вже йде велика битва з масою Quad Cannon (власних) → ТО досліджувати AP Bullets (Black Market, B, 2000), +25% шкоди [04:17]–[04:45]
-- ЯКЩО армія регулярно отримує шкоду і немає лікування → ТО досліджувати Junk Repair (Black Market, J): юніти самі лікуються, як біля Ambulance [04:45]–[04:57]
+- ЯКЩО армія (у грі — техніка [загальне знання, не з відео]) регулярно отримує шкоду і немає лікування → ТО досліджувати Junk Repair (Black Market, J): юніти самі лікуються, як біля Ambulance [04:45]–[04:57]
 - ЯКЩО в армії багато ракетних юнітів (Rocket Buggy, Scorpion з ракетами) → ТО досліджувати AP Rockets (Black Market, R) [04:57]–[05:06]
 - ЯКЩО маса Rocket Buggy → ТО досліджувати Buggy Ammo (Black Market, A, у відео названо 1200): подвоює боєзапас [05:06]–[05:19]
 - ЯКЩО хочемо Scorpion з ракетами → ТО апгрейд Scorpion Rocket на Arms Dealer (K) [04:02]–[04:12]
-- ЯКЩО противник рейдить будівлі бомбами або малими загонами → ТО досліджувати Fortified Structure (Palace, E, 1000): +HP усім будівлям [05:44]–[05:52]
+- ЯКЩО противник рейдить будівлі бомбами (юніт у субтитрах нерозбірливий) → ТО досліджувати Fortified Structure (Palace, E, 1000): +HP усім будівлям, такі атаки «самі» будівлю вже не знищують [05:44]–[05:52]
 - ЯКЩО треба захоплювати ворожі або нейтральні будівлі → ТО досліджувати Capture Building (Barracks, C) [02:39]–[02:51]
 - ЯКЩО граємо за Toxin General і є Palace → ТО Anthrax Gamma (A) [06:29]–[06:39]
 - ЯКЩО звичайна GLA і потрібні токсичні снаряди для Scorpion → ТО Toxin Shells (Palace, T) [06:24]–[06:29]
 - ЯКЩО є Angry Mob і Palace → ТО Arm the Mob (Palace, M), щоб дати натовпу AK-47 [06:24]
 - ЯКЩО використовуємо Rebel → ТО Camouflage (Palace, C) [05:52]–[05:54]
-- ЯКЩО вирішуємо, що будувати в другу чергу → ТО Toxin Tractor (одиничні, зрідка), Bomb Truck («hardly ever see»), Saboteur, Booby Trap і Stinger Site мають низький пріоритет за автором [00:58]–[01:02], [02:03], [02:35], [03:16]–[03:23], [03:55]–[03:59]
+- ЯКЩО вирішуємо, що будувати в другу чергу → ТО Toxin Tractor (одиничні, зрідка), Bomb Truck («hardly ever see»), Saboteur, Booby Trap і Stinger Site мають низький пріоритет за автором; Marauder автор особисто зазвичай не будує (хоча дехто будує) [00:58]–[01:02], [02:03], [02:35], [03:16]–[03:29], [03:55]–[03:59]
 
 ## Ключові цитати
 - [00:35] "K is the hotkey for worker" — Worker будується з CC або Supply Stash клавішею K.
@@ -150,7 +150,10 @@
 
 ## Невизначеності
 - Застарілість: відео від 2015-12-05. Список хоткеїв зібрав інший гравець з GameReplays, автор його відредагував [00:14]–[00:21]. Хоткеї наведено для англомовної версії гри [загальне знання, не з відео]. В інших локалізаціях або модах клавіші можуть відрізнятися.
-- Які саме рядки виділено зеленим, видно лише на екрані. Зі слів автора зеленими або обов'язковими є N, Rebel (B), G, C (Capture Building), S (Scorpion), T (Technical), U (Quad Cannon), B (Rocket Buggy). Повний перелік зелених невідомий.
+- Які саме рядки виділено зеленим, видно лише на екрані. Зі слів автора зеленими або обов'язковими є N, Rebel (B), G, C (Capture Building), S (Scorpion), T (Technical), U (Quad Cannon), B (Rocket Buggy); Y (Angry Mob) — імовірно «handy one too» [02:54]–[02:56], субтитри зіпсовані. Повний перелік зелених невідомий.
+- Scorpion [03:09]–[03:14]: «every time you GLA you're probably going to build in there scorpions less your stuff». Кінцівка, можливо, означає «unless you're Stealth» (виняток для Stealth General), але це лише здогадка за субтитрами.
+- Junk Repair [04:51]–[04:55]: автор каже «all units heal»; у грі апгрейд стосується техніки GLA [загальне знання, не з відео].
+- N — Sniper [02:31]: в описі «J- Jarmen Kell (Sniper=N)», у субтитрах «n for sniper or n for shaman». Що N — саме кнопка здібності Jarmen Kell, а не щось інше, є тлумаченням.
 - [02:14]–[02:35] субтитри зіпсовані («angry Jean and Kelso is n», «n for shaman»). У таблиці J — Jarmen Kell, N — Sniper, як в описі відео («J- Jarmen Kell (Sniper=N)»).
 - AP Bullets [04:24]–[04:33]: «quad cannons and Sharmon versus inventory» найімовірніше означає «Jarmen Kell проти піхоти». Що Technical теж отримує бонус, автор сам не певен («I think… correct me on that»).
 - «Increases the chances of winning battles by 25%» [04:44] — так сказав автор; це спрощення, а не точна механіка.

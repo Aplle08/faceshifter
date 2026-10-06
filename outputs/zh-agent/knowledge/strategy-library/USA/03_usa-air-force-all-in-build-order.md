@@ -21,6 +21,8 @@
 - Дві Combat Chinook замість однієї повної — це вдвічі більше HP і вдвічі більше point defense lasers. Ворог не знає, яку з двох бити [02:33–02:38], [04:49–05:04].
 - Робити не кожну гру: проти vanilla China, Nuke General, Toxin, Demo. Не робити проти Tank General (ветеранські Gattling), Infantry General (Minigunner б'ють по повітрю), Stealth General і звичайного GLA [05:42–06:10].
 - Можна сховати («запакувати») dozer між будівлями, щоб його не вбив ранній Gattling [02:56–03:10].
+- «Super all-in»: залітати всіма Chinook однією групою, щоб Quad Cannon і RPG розпорошували вогонь на найближчі цілі [06:17–06:36].
+- Продаж Command Center у відео не згадується; продають лише War Factory. Записів цього білду проти живих суперників автор не має [06:53–07:00].
 
 ## Стратегії та білд-ордери
 
@@ -38,7 +40,7 @@
 10. Далі в субтитрах: «in the second barracks right here, let's pop some tanks» [01:37–01:41] — незрозуміло (див. «Невизначеності»).
 11. Наповнення: першу Combat Chinook заповнити, другу — наскільки встигнеш, але не затягувати. Приклад: «like four in there, maybe a couple more» [02:08–02:23].
 12. Виліт: ціль — база ворога близько 2:00 [02:00–02:04]. У демонстрації дві повні Combat Chinook були на базі ворога приблизно на 2:10 [02:31–02:33], [03:28–03:31].
-- Склад удару: 2× Combat Chinook з Missile Defender (повна Combat Chinook — це приблизно 8 піхотинців: автор каже, що «4 + 4» у двох Chinook — це як одна звичайна Combat Chinook) [04:49–04:56].
+- Склад удару: 2× Combat Chinook з Missile Defender. Автор каже, що «4 + 4» у двох Chinook — це як одна звичайна Combat Chinook [04:49–04:56]; звідси повна Combat Chinook ≈ 8 піхотинців [висновок; місткість Chinook 8 — загальне знання, не з відео].
 - Ціль атаки: база ворога [01:59–02:04]. Конкретних пріоритетних будівель автор не називає.
 - Чому працює: ворог «не знає, яку з двох бити», а RPG та ракети China не вбивають їх легко [02:33–02:44].
 - Ризики: що довше чекаєш, щоб наповнити Chinook, то більше часу ворог має, щоб будуватися [02:25–02:31]. Якщо тебе рано заскаутять, ворог побачить «дивний» білд. War Factory він може й не побачити, бо ти його продав, але все одно чекатиме чогось незвичного [02:44–02:54].
@@ -48,19 +50,20 @@
 - Коли застосовувати: якщо хочеш вилетіти раніше ціною меншої кількості Missile Defender у Chinook [01:46–02:00], [04:20–04:28].
 1. Цього разу будуєш другий dozer [03:23–03:26].
 2. Будівництво («want to get that out ASAP») [03:37–03:50]. З контексту: два Supply Center, бо далі автор каже «label your supplies one and two» [04:07] (див. «Невизначеності»).
-3. Додаткових Chinook-збирачів цього разу не будуєш («not going to build any more chinooks on these two») [03:53–03:55].
+3. Додаткових Chinook-збирачів цього разу не будуєш («not going to build any more chinooks on these two») [03:53–03:55]. Слово «more» натякає, що у варіанті 1 Chinook [01:04] був додатковим до того, що дає Supply Center [висновок].
 4. Dozer, чия будівля найближча до завершення, одразу будує War Factory [03:57–04:01].
 5. Другий dozer будує Barracks [04:04–04:05].
-6. Признач supply в групи **1** і **2** і постав їм waypoint (точку збору) [04:07–04:11].
-7. Натисни **1** → замов Combat Chinook (хоткей T, див. варіант 1) → продай War Factory [04:16–04:20]. Тепер дві Combat Chinook будуються швидше, але Missile Defender до їх виходу буде менше [04:20–04:28].
+6. Признач supply на хоткеї («label your supplies one and two») і постав їм waypoint (точку збору) [04:07–04:11]. Чи це окремі групи 1 і 2, чи обидва supply в одній групі 1, із субтитрів не ясно (див. «Невизначеності»).
+7. Натисни **1** → «press that» (ймовірно, Combat Chinook, хоткей T, див. варіант 1) → продай War Factory → «and then immediately» (далі одразу Missile Defender) [04:16–04:20]. «So now these two are building quicker»: дві Combat Chinook будуються швидше — ймовірно, паралельно, по одній у кожному з двох supply, а не дві підряд в одному [висновок]. Але Missile Defender до їх виходу буде менше [04:20–04:28].
 8. Розподіли ракетників між двома Chinook, наприклад 4 + 4. За вантажем це як одна звичайна Combat Chinook, але з подвійним HP і подвійними point defense lasers, тож можна летіти вже [04:42–05:04].
 - Результат: приблизно на 20 с швидше за варіант 1, але Chinook не такі повні [05:21–05:26].
 - Плюс: навіть якщо вб'єш ворога лише наполовину, ти добре стоїш на двох supply [05:13–05:18].
-- Можна почекати довше й наповнити їх («fill them in time for some tanks»?) [05:31–05:38].
+- Можна почекати довше й наповнити їх повністю [05:31–05:34]. Далі в субтитрах «fill them in time for some tanks 2 minutes turn. I think the first version is a bit quicker» [05:34–05:39] — ймовірно, «до ~2:10»: якщо наповнювати варіант 2 повністю, виходиш приблизно на той самий час, і тоді варіант 1 швидше дає повні Chinook [інтерпретація, див. «Невизначеності»].
 - Автор віддає перевагу першому варіанту [05:29–05:31], [05:38–05:42].
 
 ### «Super all-in»: усі Chinook разом
-- Збери всі Chinook в одну групу й залітай одночасно. Quad Cannon і RPG автоматично б'ють найближчу ціль. Виняток — сильний суперник, який мікрить і цілиться в найповнішу Chinook або в Combat Chinook [06:17–06:36].
+- «Get all your chinooks all together... and then all fly in»: збери всі Chinook в одну групу й залітай одночасно [06:17–06:24]. Quad Cannon і RPG автоматично б'ють найближчу ціль. Виняток — сильний суперник, який мікрить і цілиться в найповнішу Chinook або в Combat Chinook [06:24–06:36].
+- Оскільки автор окремо каже, що досвідчений ворог «targets the combat [chinook]», то «всі Chinook», ймовірно, включають і звичайні Chinook-збирачі як приманки, які відтягують вогонь ППО. Тому це «ще більший» all-in: ти жертвуєш збором ресурсів [інтерпретація, прямо не сказано].
 
 ## Юніти, апгрейди, генеральські промоції
 - **Combat Chinook** (Air Force General) — відкривається після War Factory [01:06–01:11]; хоткей **T** [01:18–01:19]. Має point defense lasers [05:02–05:04]. Дві напівповні Combat Chinook = одна повна за вантажем, але вдвічі більше HP і вдвічі більше point defense lasers [04:51–05:04].
@@ -76,14 +79,14 @@
 - Тримай supply в групах 1 і 2 та став waypoint, щоб швидко замовляти Combat Chinook [04:07–04:20].
 - Розподіли піхоту між двома Chinook — це ускладнює ворогові вибір цілі [02:33–02:38], [04:49–05:04].
 - Летіть разом однією групою («super all-in»): Quad Cannon і RPG б'ють найближчу ціль, тож вогонь розпорошується, якщо ворог не мікрить [06:17–06:33].
-- Баланс часу: що довше наповнюєш Chinook, то небезпечніша атака, але й ворог встигає більше збудувати [02:25–02:31], [05:04–05:09].
+- Баланс часу: Chinook можна й далі наповнювати, але що довше чекаєш, то більше ворог встигає збудувати [02:25–02:31]. У варіанті 2 автор повторює: «you could actually go now. Obviously, the longer you wait, the more dangerous this becomes» [05:04–05:09]. Це двозначно: небезпечніше для тебе чи для ворога.
 
 ## Економіка
 - Один dozer замість двох — «to save on cash» [00:37–00:42].
 - Supply Center — перша будівля, якомога швидше [00:48–00:49].
 - Продаж War Factory одразу після замовлення двох Combat Chinook повертає «extra 1,000», і ці гроші йдуть на Missile Defender [01:23–01:30]. У варіанті 2 так само продаєш War Factory після замовлення [04:18–04:20].
 - Варіант 2 з двома dozer і, ймовірно, двома supply дає слабшу атаку, але кращу економічну позицію: «you're still nice and set up ready for on two supplies» [05:13–05:18].
-- **Продаж Command Center:** у відео не згадується. Продаж CC не розглядається; продають лише War Factory [01:23–01:28], [04:18–04:20].
+- **Продаж Command Center:** у відео не згадується. Усі три згадки про продаж стосуються War Factory: продаж після замовлення Combat Chinook [01:23–01:28], «you might not see the war factory because you've sold it» [02:51–02:52], продаж у варіанті 2 [04:18–04:20]. Command Center завжди залишається.
 
 ## Матчапи і контри
 | Суперник | Робити all-in? | Причина (з відео) |
@@ -105,7 +108,7 @@
 ## Типові помилки
 - Будувати другий dozer у варіанті 1 — це зайві витрати [00:37–00:42].
 - Ставити Supply Center так, що dozer мусить спершу кудись іти: втрачені секунди [00:52–00:59].
-- Надто довго наповнювати Chinook — ворог встигає збудувати оборону [02:25–02:31], [05:04–05:09].
+- Надто довго наповнювати Chinook — ворог встигає збудувати оборону [02:25–02:31].
 - Не захистити dozer: без «коробки» з будівель його може вбити ранній Gattling [03:04–03:10].
 - Робити цей all-in кожну гру або проти генералів із сильним ППО (Tank, Infantry) [05:45–06:00].
 
@@ -117,22 +120,24 @@
 - ЯКЩО починаєш all-in за варіантом 1 → ТО не будуй другий dozer; Supply Center одразу, розміщений так, щоб dozer почав будувати без руху [00:37–00:59].
 - ЯКЩО Supply Center готовий → ТО замов Chinook, а dozer будує War Factory [01:02–01:09].
 - ЯКЩО War Factory добудовано → ТО одразу замов дві Combat Chinook (T, T), потім будуй Barracks [01:11–01:23].
-- ЯКЩО дві Combat Chinook вже в черзі → ТО продай War Factory (+1 000) і витрать гроші на Missile Defender [01:23–01:30].
+- ЯКЩО дві Combat Chinook вже в черзі і Barracks почали будувати → ТО продай War Factory (+1 000) і витрать гроші на Missile Defender. War Factory більше не потрібен; Command Center НЕ продавати (у відео про це не йдеться) [01:15–01:30].
 - ЯКЩО Barracks готові → ТО безперервно замовляй Missile Defender («as many as possible») і завантажуй їх у Combat Chinook [01:32–01:35], [02:08–02:11].
-- ЯКЩО перша Chinook повна, а в другій ≥4 Missile Defender і час ~2:00–2:10 → ТО летіти, а не чекати повного завантаження [02:00–02:31].
+- ЯКЩО перша Combat Chinook повна, а в другій ~4–6 Missile Defender («like four in there... maybe a couple more») і час ~2:00–2:10 → ТО летіти, а не чекати повного завантаження [02:00–02:31].
 - ЯКЩО обрано варіант 2 (2 dozer) → ТО призначити supply в групи 1/2, поставити waypoint, замовити Combat Chinook і продати War Factory; ракетників ділити порівну (~4 + 4) і летіти раніше, приблизно на 20 с [04:07–05:26].
-- ЯКЩО маєш кілька Chinook для атаки → ТО збери їх в одну групу й залітай одночасно: ППО ворога б'є найближчу ціль [06:17–06:29].
+- ЯКЩО хочеш «super all-in» → ТО збери ВСІ Chinook в одну групу (ймовірно, і збирачі як приманки) й залітай одночасно: Quad Cannon і RPG б'ють найближчу ціль. Проти суперника, який мікрить ППО на Combat Chinook, цей ефект слабший [06:17–06:36].
 - ЯКЩО ворог може рано атакувати dozer (наприклад, Gattling) → ТО розстав будівлі так, щоб dozer опинився в «коробці» [02:56–03:10].
 - ЯКЩО атака вбила ворога лише наполовину (варіант 2) → ТО переходь у звичайну гру на двох supply [05:13–05:18].
 - ЯКЩО тебе рано заскаутили і ворог бачить дивний білд → ТО зважай, що він чекатиме атаки [02:46–02:54]. Автор не дає прямої дії; варто оцінити, чи продовжувати all-in.
 
 ## Ключові цитати
-- [00:37] "we're going to have one dozer for this to save on cash" — у варіанті 1 граєш одним dozer, щоб зекономити гроші.
-- [00:59] "every second you can shave off this is a bonus" — кожна заощаджена секунда на початку важлива.
-- [01:09] "The war factory is the key to unlocking the combat chinook" — War Factory потрібен лише як передумова для Combat Chinook.
-- [01:18] "the key for that is T. So we're going to press that twice" — хоткей Combat Chinook — T, замовити дві.
-- [01:25] "We can sell the war factory to get the extra 1,000 back" — продаж War Factory повертає 1 000 на Missile Defender.
-- [02:02] "around the 2 minute mark is when you want to be aiming to get to your enemy's base" — орієнтир прибуття ~2:00.
+- [00:39] "we're going to have one dozer for this to save on cash" — у варіанті 1 граєш одним dozer, щоб зекономити гроші.
+- [00:56] "every second you can shave off this is a bonus" — кожна заощаджена секунда на початку важлива.
+- [01:06] "The war factory is the key to unlocking the combat chinook" — War Factory потрібен лише як передумова для Combat Chinook.
+- [01:15] "the key for that is T. So we're going to press that twice" — хоткей Combat Chinook — T, замовити дві.
+- [01:23] "We can sell the war factory to get the extra 1,000 back" — продаж War Factory повертає 1 000 на Missile Defender.
+- [02:00] "around the one uh 2 minute mark is when you want to be aiming to get to your enemy's base" — орієнтир прибуття ~2:00.
+- [03:28] "that was about the 2 minutes 10 mark and we had two full chinooks in his base" — фактичний результат варіанта 1.
+- [05:21] "this one was about 20 seconds quicker, but obviously we haven't got those as full" — компроміс варіанта 2.
 - [02:33] "the enemy won't know which one to target" — дві Chinook розпорошують вогонь ППО.
 - [05:00] "you've got twice the HP and you've got twice the point defense lasers" — дві напівповні Combat Chinook міцніші за одну повну.
 - [05:16] "you're still nice and set up ready for on two supplies" — варіант 2 залишає хорошу економіку навіть після часткового успіху.
@@ -145,10 +150,13 @@
 - [00:45] «You can get the drone on your enemy» — який саме дрон (ймовірно, розвідувальний/Spy Drone) і звідки, з субтитрів не ясно.
 - [01:37–01:41] «in the second barracks right here, let's pop some tanks» — сумнівна розшифровка. Ймовірно, мова про другу Chinook і завантаження Missile Defender, а не про танки чи другі Barracks. Так само сумнівне «fill them in time for some tanks» [05:34–05:38].
 - [02:39–02:44] «If he's got loads of RPGs or ... rockets as China, you won't be able to easily kill them» — за контекстом мається на увазі, що ворог не зможе легко збити дві Combat Chinook. Формулювання в субтитрах двозначне.
-- Варіант 2: «label your supplies one and two» і «these two» [03:53], [04:07] вказують на два Supply Center (по одному на dozer), але прямо це не сказано. Хоткей Combat Chinook (T) у варіанті 2 явно не повторюється: «press one. Press that.» [04:18].
-- [05:38–05:42] «2 minutes turn. I think the first version is a bit quicker» суперечить твердженню, що варіант 2 на ~20 с швидший [05:21–05:24]. Можливо, автор мав на увазі варіант 2 з довшим очікуванням або що перший варіант кращий загалом.
+- Варіант 2: «label your supplies one and two» і «these two» [03:53], [04:07] вказують на два Supply Center (по одному на dozer), але прямо це не сказано. Неясно, чи supply стоять в окремих групах 1 і 2, чи обидва в групі 1. Друге узгоджується з тим, що далі автор натискає лише «one». Хоткей Combat Chinook (T) у варіанті 2 явно не повторюється: «press one. Press that.» [04:18]. Те, що Combat Chinook у варіанті 2 будуються паралельно в двох supply, — висновок із «these two are building quicker» [04:20].
+- [05:34–05:42] «fill them in time for some tanks 2 minutes turn. I think the first version is a bit quicker» на перший погляд суперечить тому, що варіант 2 на ~20 с швидший [05:21–05:24]. Найімовірніше, «2 minutes turn» = «2 minutes 10»: якщо в варіанті 2 чекати до повного завантаження (~2:10), то перший варіант швидше дає повні Chinook. «some tanks» — ймовірно, помилка розпізнавання.
+- [05:06–05:09] «the longer you wait, the more dangerous this becomes» — двозначно: небезпечніше для ворога (більше ракетників) чи для тебе (ворог встигає збудувати ППО; пор. [02:25–02:31]).
+- [06:17–06:24] «get all your chinooks all together» — чи входять сюди звичайні Chinook-збирачі як приманки, прямо не сказано. На це вказує лише протиставлення «targets the combat [chinook]» [06:36].
+- [01:02–01:04] «We can get a chinook» — це додатковий Chinook, бо у варіанті 2 автор каже «not going to build any more chinooks» [03:53]. Скільки Chinook дає сам Supply Center, у відео не уточнюється.
 - [06:36] «targets the combatity» — ймовірно, «targets the Combat Chinook».
-- «Gas vetted up» [05:58] розшифровано як ветеранські Gattling (Tank General) — за глосарієм.
+- «Gas vetted up» [05:56] розшифровано як ветеранські Gattling (Tank General) — за глосарієм.
 - Ціна Quad Cannon 750 [06:11] стосується Toxin/Demo в контексті відео. Чи відрізняється вона від ціни у vanilla GLA, автор не уточнює.
 - Ознак патча чи версії гри у відео немає. Автор прямо каже, що в нього немає геймплейних записів цього білду проти живих суперників [06:53–07:00].
 - Частина рядків у субтитрах уривчаста (наприклад, «loaded with us quality» [04:32], «Let's construction» [03:37]) — сенс відновлено за контекстом.

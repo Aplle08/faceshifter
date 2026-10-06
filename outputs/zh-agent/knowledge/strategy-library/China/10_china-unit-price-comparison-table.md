@@ -15,13 +15,13 @@
 
 ## Коротко
 - Автор іде таблицею цін (посилання на gamereplays.org в описі) і порівнює вартість кожного юніта China між vanilla China, Nuke, Tank та Infantry [00:07–00:18].
-- Загальне правило: vanilla China і Nuke зазвичай посередині за ціною, Tank General найдешевший на танках (Battle Master, Gattling Tank, Dragon Tank по 700), але переплачує за піхоту, Hacker, Black Lotus, Outpost, MiG, Helix; Infantry переплачує за техніку [05:12–05:28].
+- Загальне правило: «Nuke and China always tend to be in the middle, tank always tends to be the cheapest» (на танках) [05:12–05:28]. З таблиці загалом: Tank General найдешевший на танках (Battle Master, Gattling Tank, Dragon Tank по 700), але переплачує за піхоту, Hacker, Black Lotus, Outpost, MiG, Helix; Infantry переплачує за техніку (Dragon Tank, ECM 900, Inferno Cannon 1100) [00:21–11:04].
 - Tank General: майже ніколи не будувати Hacker (780), бо вони окуповуються ~7,5 хв, а гра триває 7–7,5 хв. Краще вкласти все в юніти й закінчити гру рано [02:15–02:54].
 - Black Lotus: хоткей B (у Infantry це S). Краще красти гроші (Steal Cash), ніж захоплювати supply, бо крадіжка дає різницю в $2000 [02:57–03:48].
 - Infantry General: Outpost дає бонус Speaker Tower. З Subliminal Messaging ($500) достатньо двох Inferno Cannon біля Outpost, щоб отримати firestorm, а з Black Napalm вони зносять будівлі й бункери. Решта генералів роблять те саме через Speaker Tower на Overlord [06:54–07:37].
-- Overlord варто будувати Nuke (швидкі, вибух при смерті). Tank — дуже рідко (повільні) [07:59–08:56].
+- Overlord варто будувати Nuke (швидкі, вибух при смерті). Tank — дуже рідко (повільні), виняток — проти Laser General, що масує Humvees і Laser Tank, коли фланги під контролем [07:56–08:56].
 - MiG дешеві й корисні у vanilla China та Infantry (1200), дорогі у Tank (1600) і майже марні у Nuke без апгрейду nuclear MiG [09:31–10:35].
-- Helix — для vanilla China та Infantry. Tank дуже рідко, бо повна Helix з бункером і 5 Tank Hunters коштує дуже багато [10:35–11:20].
+- Helix — для vanilla China та Infantry. Nuke «also good», але Helix на 250 дорожча, а Tank Hunter на 50 дорожчі. Tank дуже рідко, бо повна Helix з бункером і 5 Tank Hunters коштує дуже багато, краще наземні юніти [10:35–11:23].
 
 ## Стратегії та білд-ордери
 ### Tank General: "дешеві танки, швидке завершення гри"
@@ -72,10 +72,10 @@
 | Overlord | 2000 | 2000 | 1900 | — (немає) | [07:46–08:49] |
 | Nuke Cannon | 1600 (+ 1 generals point) | 1600 (безкоштовно, без promotion) | — (немає) | 1600 (+ 1 generals point) | [08:56–09:26] |
 | MiG | 1200 | 1400 | 1600 | 1200 | [09:26–10:11] |
-| Helix | базова ціна не названа | на 250 дорожча, ніж у vanilla/Infantry | 2000 | базова ціна не названа | [10:35–11:04] |
+| Helix | базова ціна не названа | на 250 дорожча, ніж у vanilla/Infantry («nuke is also good») | 2000 | базова ціна не названа | [10:35–11:04] |
 
 Позначки в таблиці автора [08:56–09:26]:
-- `*` (зірочка) — потрібні тех-будівлі; для всіх інших генералів (крім Nuke) потрібен Propaganda Center. У Tank дальнобійних юнітів немає, тому клітинку закреслено.
+- `*` (зірочка) — потрібні тех-будівлі: «obviously you need the propaganda center for all the o[ther?] generals» (нерозбірливо: для всіх генералів чи для всіх, крім Nuke). У Tank дальнобійних юнітів немає, тому клітинку закреслено.
 - `+` (плюс) — потрібен generals point. Nuke General отримує Nuke Cannon безкоштовно, іншим генералам треба витратити 1 очко в дереві генерала.
 
 ### Інші ціни з відео
@@ -88,7 +88,7 @@
 | Bunker на Helix | 400 | [11:04–11:07] |
 
 ### Нотатки по юнітах
-- **Red Guard**: добре контрять Humvees (і піхоту з них), але їх варто брати з Troop Crawler, а не з Barracks. З Barracks — тільки для захоплення oil, якщо Troop Crawler не будуєте [00:45–01:05].
+- **Red Guard**: за China часто доводиться грати проти ранніх Humvees, і Red Guards — «a good counter» для них (у субтитрах «foot Humvees», нерозбірливо), але їх варто брати з Troop Crawler, а не з Barracks. З Barracks — тільки для захоплення oil, якщо Troop Crawler не будуєте [00:45–01:05].
 - **Tank Hunter**: у Tank (375) і Nuke (350) вони дорожчі, тому Helix з 5 Tank Hunter помітно дорожча, ніж в інших China. Для цих генералів — лише 1–2 в bunker на флангах [01:19–01:55].
 - **Hacker**: у Infantry вони stealth, тож сильніші, швидше вимикають юніти, і їх важко зупинити, бо невидимі [02:00–02:12]. Повний Internet Center з Hacker окуповується приблизно за 7,5 хв (з чиїхось слів) [02:22–02:31].
 - **Black Lotus**: хороша для всіх армій, особливо для Infantry, бо дуже швидко захоплює будівлі [03:22–03:27].
@@ -100,13 +100,13 @@
 - **Overlord**: у Infantry немає — він будує лише Outpost і Assault Troop Crawler [07:51–07:56]. У Tank (1900) — сильні, але дуже повільні [07:56–08:05]. У vanilla China (2000) — теж повільні, можливо так само, як у Tank [08:36–08:45]. У Nuke (2000) — «super quick», швидко ганяють картою і створюють ядерний вибух при смерті, який завдає величезної шкоди Humvees і навіть танкам [08:45–08:56]. Можна ставити Gattling зверху [08:33–08:34] і Speaker Tower [07:29–07:32].
 - **Nuke Cannon**: 1600 у всіх, хто має [08:56–09:06].
 - **MiG**: у Nuke без апгрейду — майже марні, крім полювання на Outpost Infantry General [10:11–10:18]. Після superweapon і апгрейду nuclear MiG стають «super strong», але ігри рідко до цього доходять, зазвичай лише на великих картах [10:18–10:35].
-- **Helix**: у Tank: 2000 + 400 bunker = 2400, плюс 5 × 375 за Tank Hunter. Втрата однієї такої Helix — «huge huge loss» [10:58–11:19].
+- **Helix**: у vanilla China та Infantry — «that's when you want to be making Helixes» [10:35–10:39]. У Nuke «also good», але на 250 дорожча, плюс Tank Hunter по 350 (на 50 дорожчі) × 5 — разом помітно дорожче, ніж у Infantry і vanilla [10:39–10:55]. У Tank: 2000 + 400 bunker = 2400, плюс 5 × 375 за Tank Hunter; «by the time you add all that together», втрата однієї такої Helix — «huge huge loss», краще наземні юніти [10:55–11:23].
 
 ## Мікро і тактика
 - Black Lotus — Steal Cash замість захоплення supply: якщо захопите supply, а противник його продасть, ви не отримаєте нічого. Крадіжка забирає в противника 1000 і дає 1000 вам, тобто баланс гри зміщується на $2000 [03:27–03:48].
 - Black Lotus швидко замовляється хоткеєм: B, а в Infantry — S. Не треба клікати мишею [02:57–03:13].
 - Hacker Infantry General (stealth) складно зупинити, бо вони невидимі [02:02–02:12].
-- Overlord Tank General проти GLA: противник (найімовірніше Jarmen Kell — «the German») просто перестріляє їх ще до того, як вони дійдуть до бази [08:05–08:11].
+- Overlord Tank General проти GLA: через повільність GLA просто перестріляє їх ще до того, як вони дійдуть до бази [08:05–08:11].
 - Nuke Overlord «run circles» навколо Overlord Tank General [08:11–08:17].
 - Nuke Overlord на швидкості вриваються в групи Humvees: вибух при смерті завдає величезної шкоди Humvees і навіть танкам [08:49–08:56].
 - Ставити 1–2 Tank Hunter у bunker на флангах карти, щоб відлякати противника, а не масувати їх [01:41–01:55].
@@ -148,7 +148,8 @@
 ## Правила для ШІ-агента
 - ЯКЩО генерал = Tank → ТО не будувати Hacker та Internet Center; гроші вкладати в танки й прагнути закінчити гру за ~7–7,5 хв [02:18–02:54]
 - ЯКЩО генерал = Tank → ТО основа армії Gattling Tank, Battle Master, Dragon Tank (по 700) з кількох War Factory безперервно [05:03–05:12], [06:02–06:08]
-- ЯКЩО генерал = Tank і противник Stealth General → ТО домішати кілька Listening Outpost (950); інакше Outpost не будувати [06:08–06:15]
+- ЯКЩО генерал = Tank і противник Stealth General → ТО домішати кілька Listening Outpost (950); в інших випадках Outpost мінімізувати («only if you really have to») і будувати танки [05:59–06:15]
+- ЯКЩО генерал = Tank → ТО не затягувати гру: немає дальнобійних юнітів (Inferno/Nuke Cannon), у довгій грі це слабкий генерал [06:32–06:45]
 - ЯКЩО генерал = Tank або Nuke і треба посилити оборону флангу → ТО посадити 1–2 Tank Hunter у bunker на фланзі; не масувати їх [01:37–01:55]
 - ЯКЩО генерал = Tank і противник має Nuke Overlord → ТО відповідати 2–3 Battle Master з апгрейдом vet 2 [04:14–04:20]
 - ЯКЩО генерал = Tank і противник GLA або Nuke → ТО не будувати Overlord [08:05–08:17]
@@ -160,6 +161,7 @@
 - ЯКЩО генерал = Nuke, є superweapon і апгрейд nuclear MiG, карта велика, гра затяглась → ТО будувати Nuke MiG [10:18–10:35]
 - ЯКЩО генерал = vanilla China або Infantry і потрібна авіація → ТО будувати MiG (1200) [09:31–09:39]
 - ЯКЩО генерал = vanilla China або Infantry → ТО Helix — хороший вибір [10:35–10:39]
+- ЯКЩО генерал = Nuke і потрібна Helix → ТО можна, але враховувати +250 до Helix і +50 за кожного з 5 Tank Hunter [10:39–10:55]
 - ЯКЩО генерал = vanilla China → ТО не будувати Battle Master [03:48–03:56]
 - ЯКЩО граємо China (не Infantry) і противник USA з Humvees → ТО отримувати Red Guards через Troop Crawler [00:45–00:57]
 - ЯКЩО Troop Crawler не будуємо і треба захопити oil → ТО замовити Red Guard у Barracks тільки для захоплення [00:59–01:05]
@@ -182,8 +184,9 @@
 - [06:38] "it only has short-range units which is why in the long game it's a bad general" — Tank General слабкий у довгій грі.
 - [07:11] "you don't need three or four, you can just use two" — двох Inferno Cannon із Subliminal Messaging досить для firestorm.
 - [08:04] "they're so strong but they're so slow" — Overlord Tank General.
-- [08:47] "they're super quick, they can race around the map" — Nuke Overlord.
-- [10:03] "if you lose a full airfield of MiGs that's a real expensive loss, close like 10k or even more" — ризик MiG за Tank.
+- [08:49] "they're super quick, they can race around the map" — Nuke Overlord.
+- [09:59] "if you lose a full airfield of MiGs that's a real expensive loss, close like 10k or even more" — ризик MiG за Tank.
+- [10:39] "nuke is also good but 250 more expensive" — Helix за Nuke.
 - [11:16] "if that gets shot down then it's a huge huge loss" — Helix Tank General з десантом.
 
 ## Невизначеності
@@ -193,9 +196,9 @@
 - Фраза «you can get the upgrade to vet 2 for them» [04:14] — не ясно, який саме апгрейд чи промоцію мають на увазі.
 - Ціну Listening Outpost для vanilla China прямо не названо. 800 виведено з фрази «Tank 950 — на 150 дорожче» [05:43–05:50]. Позначка «2» в таблиці пояснена як «you get two rockets from it» (два Tank Hunter).
 - «it starts off with three that one rocket» [06:27] — трактовано як «Outpost Infantry стартує з 3 ракетниками»; формулювання нерозбірливе.
-- Ціни Gattling Tank і Battle Master для Infantry не названі.
-- Базова ціна Helix для vanilla China та Infantry не названа, сказано лише про +250 у Nuke і 2000 у Tank. «because you need 25 units» [10:49] трактовано як «5 units» (5 × Tank Hunter). Фрагмент «then break your time you add all that together» [11:13] нерозбірливий.
-- «the German can just pick them off» [08:07] — найімовірніше Jarmen Kell (GLA), але можливо просто «GLA».
+- Ціни Gattling Tank і Battle Master для Infantry не названі. Про Gattling Tank автор каже «the other two Chinas» (Nuke і vanilla), тобто в Infantry його, ймовірно, немає [04:47–04:53].
+- Базова ціна Helix для vanilla China та Infantry не названа, сказано лише про +250 у Nuke і 2000 у Tank. «because you need 25 units» [10:49] трактовано як «5 units» (5 × Tank Hunter). «then break your time you add all that together» [11:13] трактовано як «by the time you add all that together».
+- «the German can just pick them off ... we will probably pick them all off» [08:07–08:10] — найімовірніше спотворене «they're gonna just pick them off» (GLA загалом), а не Jarmen Kell; конкретний юніт не названо.
 - «you'll be facing them a little Humvees and Red Guards are a good good counter for the foot Humvees» [00:45–00:51] — матчап (найімовірніше vs USA) і точне значення «foot Humvees» нерозбірливі.
 - Твердження про stealth-Hacker у Infantry General [02:02] та бонус Speaker Tower від Outpost Infantry [06:58] — зі слів автора, механіку в грі не перевірено.
 - Зірочка `*` (тех-будівлі, Propaganda Center) у таблиці [09:06–09:11] — з контексту не до кінця ясно, до якого рядка вона належить (Nuke Cannon чи Inferno Cannon).
